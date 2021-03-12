@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-
+<!--
+Version: 12-03-2021
+-->
 <!--
 You can list as many <source> entries in a file as you wish.
 Files or urls for sources and channels ending in '.gz' will be treated as
