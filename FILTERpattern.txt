@@ -1,0 +1,12 @@
+DiscoveryHD.dk
+DiscoveryHD.fi
+DiscoveryHDShowcase.rs
+DiscoveryHDShowcase.hu
+DiscoveryHDshowcase.se
+DiscoveryHD.svn
+.pl"
+<!-- Cable -->
+<!-- DVB-T -->
+1:0:1F:6A6:7788:55F:DDE0000:0:0:0:
+:5A0000:
+<channel id="WGAL(NBC).us">1:0:1:1:1:1:D7A312D:0:0:0:</channel><!-- NBC -->

@@ -1,0 +1,106 @@
+General:
+
+EPGimport has the option of excluding channels from the import of EPG.
+
+This is done by copying the Service Ref to the file ignore.conf in /etc/epgimport.   
+By doing so.  This channel will not have EPG imported.    
+
+There is however a different situation where you do not want EPG imported.  
+f.i. this is defined in the channels file:
+
+<!--DK--><!--0.8W--><channelid="DiscoveryHD.dk">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--FI--><!--0.8W--><channelid="DiscoveryHD.fi">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--HRV--><!--0.8W--><channelid="DiscoveryHDShowcase.rs">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--HU--><!--0.8W--><channelid="DiscoveryHDShowcase.hu">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--NO--><!--0.8W--><channelid="DiscoveryChannel.no">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--SE--><!--0.8W--><channelid="DiscoveryHDshowcase.se">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--DiscoveryHDShowcase-->
+<!--SVN--><!--0.8W--><channelid="DiscoveryHD.svn">1:0:19:1006:29:46:E080000:0:0:0:</channel><!--HDDiscoveryShovcase-->
+
+All the same service ref, but different language EPG attached.  
+You can avoid this problem not to import the files which contain this conflicting EPG.
+But this is not always possible. 
+
+This script provides a filter for excluding data from being imported by EPGimport.
+It will do this by removing certain links from the rytec.channels.xml file.
+f.i.:
+
+DiscoveryHD.dk
+DiscoveryHD.fi
+DiscoveryHDShowcase.rs
+DiscoveryHDShowcase.hu
+DiscoveryHDshowcase.se
+DiscoveryHD.svn
+
+leaving only DiscoveryChannel.no in the channels file.  And thus only import data labeled by DiscoveryChannel.no
+
+The script will write several files:
+
+1. filtered.channels.xml
+    This file contains the channel links from rytec.channels.xml minus the filtered channels
+2. removed.channels.xml
+    This file contains the removed channels from rytec.channels.xml, so you can check what the filter has done.
+3. filtered.sources.xml - to make use of the filtered.channels.xml file
+    This last file is only created when the rytec.sources.xml file is present.
+    When it is not present this part is skipped.
+
+
+Instructions:
+
+Copy both EPGfiler.sh and FILTERpattern.txt to /etc/epgimport
+Then give the file EPGimport.sh rights to be executed. (755)
+                                                             
+The script requires full bash to be installed.
+If you have not installed it, install it:
+
+opkg install bash
+
+Also xz needs to be installed.  On OpenPLi this is standard installed.
+Otherwise install it from the feed.
+
+opkg install xz
+
+Now open the /etc/epgimport/FILTERpattern.txt file.
+I have included here some examples of patterns you can set.
+
+f.i. .pl" this will exclude all channels which have .pl extension mentioned.
+Which is stupid because you will remove all polish channels from getting EPG.  So you could simply not import the source.
+But even this works.
+
+You can also use a service ref, or part of a service ref. to exclude.
+
+Or f.i. an EPGref:    BabyTV.pl
+
+Just add this to FILTERpattern.txt file.
+No need to say: remove all my examples.  They are just there for testing purposes.
+This BabyTV.pl will remove the import of BaByTV.pl for all occurences.
+
+A bit more restrictive would be to set the pattern to:
+
+"BabyTV.pl">1:0:1:421D:2F44:13E:820000:0:0:0:
+
+This will only remove BabyTV.pl in combination with this service ref.
+
+In general.  You can add any substring from the rytec.channels.xml file.
+But check the removed.channels.xml for the effect.
+BTW: the script downloads the rytec.channels.xml file each time it is run.
+So when you do not have rytec.channels.xml, just run the script.  A copy of rytec.channels.xml will be then in /tmp/
+
+Several other examples are given, just to give you an idea.
+ 
+
+The script also relies on the existence of rytec.sources.xml.  Make sure you have this in your /etc/epgimport/ folder.
+It renames the file and creates a new sources file to make use of the filtered channels.xml file.
+
+Once this is done, the script skips this part of the process.
+
+In order to re-enable this, rename the rytec.sources.xml.org file back to rytec.sources.xml.
+But you probably never need to do this.
+
+
+As now the channels file is used from a local file, and is not downloaded anymore, you probably want to run this script regularly to update the channels file.  
+This can be done with a cron job running this script again.
+If you run this once a week it is probably enough.  But you can run it more often if you want. 
+
+If you want to go back to original import files.
+Rename the rytec.sources.xml.org file back to rytec.sources.xml
+And delete the files with filtered in the name.
