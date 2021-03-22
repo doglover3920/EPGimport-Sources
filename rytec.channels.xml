@@ -3024,15 +3024,12 @@
 <!-- 4,8E --><channel id="IDXtra.cz">1:0:1:190:1:5E:30B022:0:0:0:</channel><!-- ID Xtra -->
 <!-- 4,8E --><channel id="IDXtra.cz">1:0:1:190:1:5E:31B022:0:0:0:</channel><!-- ID Xtra -->
 <!-- 4,8E --><channel id="IDXtra.cz">1:0:1:191:1:5E:31B022:0:0:0:</channel><!-- ID Xtra -->
-<!-- 13.0E --><channel id="Anixe.de">1:0:1:E7F:3200:13E:820000:0:0:0:</channel><!-- Anixe SD -->
-
-<!-- 1.9E --><channel id="Vox.de">1:0:1:226:18:3:130000:0:0:0:</channel><!-- Vox -->
-<!-- 1.9E --><channel id="TOGGOplus.d">1:0:1:22D:18:3:130000:0:0:0:</channel><!-- Toggo Plus -->
-<!-- 1.9E --><channel id="SuperRTL.de">1:0:1:22C:18:3:130000:0:0:0:</channel><!-- Super RTL -->
-<!-- 1.9E --><channel id="RTL.de">1:0:1:22E:18:3:130000:0:0:0:</channel><!-- RTL -->
 <!-- 1.9E --><channel id="Pro7.de">1:0:1:227:18:3:130000:0:0:0:</channel><!-- ProSieben -->
-
-
+<!-- 1.9E --><channel id="RTL.de">1:0:1:22E:18:3:130000:0:0:0:</channel><!-- RTL -->
+<!-- 1.9E --><channel id="SuperRTL.de">1:0:1:22C:18:3:130000:0:0:0:</channel><!-- Super RTL -->
+<!-- 1.9E --><channel id="TOGGOplus.d">1:0:1:22D:18:3:130000:0:0:0:</channel><!-- Toggo Plus -->
+<!-- 1.9E --><channel id="Vox.de">1:0:1:226:18:3:130000:0:0:0:</channel><!-- Vox -->
+<!-- 13.0E --><channel id="Anixe.de">1:0:1:E7F:3200:13E:820000:0:0:0:</channel><!-- Anixe SD -->
 <!-- 13.0E --><channel id="AnixeSerie.de">1:0:19:E80:3200:13E:820000:0:0:0:</channel><!-- Anixe Serie HD -->
 <!-- 13.0E --><channel id="DeutscheWelleEN.de">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW -->
 <!-- 13.0E --><channel id="ZDF.de">1:0:1:64F:6:64:DE80000:0:0:0:</channel><!-- ZDF -->
@@ -6357,6 +6354,7 @@
 <!-- 5.0W --><channel id="BFMBusiness.fr">1:0:16:A36:5078:55F:DDE0000:0:0:0:</channel><!-- BFM Business -->
 <!-- 5.0W --><channel id="BFMBusiness.fr">1:0:19:57C:5398:55F:DDE0000:0:0:0:</channel><!-- BFM Business -->
 <!-- 5.0W --><channel id="BFMBusiness.fr">1:0:19:71E:2904:55F:DDE0000:0:0:0:</channel><!-- Altice studio -->
+<!-- 5.0W --><channel id="BFMdici.fr">1:0:16:BCA:4E84:55F:DDE0000:0:0:0:</channel><!-- BFM DICI -->
 <!-- 5.0W --><channel id="BFMLyon.fr">1:0:19:723:2904:55F:DDE0000:0:0:0:</channel><!-- BFM Lyon -->
 <!-- 5.0W --><channel id="BFMParis.fr">1:0:19:57B:5398:55F:DDE0000:0:0:0:</channel><!-- BFM PARIS -->
 <!-- 5.0W --><channel id="BFMParis.fr">1:0:19:58D:5398:55F:DDE0000:0:0:0:</channel><!-- BFM PARIS -->
@@ -6378,10 +6376,8 @@
 <!-- 5.0W --><channel id="CNews.fr">1:0:19:204:2:20FA:DDE0000:0:0:0:</channel><!-- CNews HD -->
 <!-- 5.0W --><channel id="CNews.fr">1:0:19:BC3:4E84:55F:DDE0000:0:0:0:</channel><!-- CNews HD -->
 <!-- 5.0W --><channel id="CrimeDistrict.fr">1:0:19:D7:4EE8:55F:DDE0000:0:0:0:</channel><!-- Crime District -->
-
 <!-- 5.0W --><channel id="CStar.fr">1:0:19:205:2:20FA:DDE0000:0:0:0:</channel><!-- Cstar HD -->
 <!-- 5.0W --><channel id="CStar.fr">1:0:19:BC6:4E84:55F:DDE0000:0:0:0:</channel><!-- Cstar -->
-<!-- 5.0W --><channel id="BFMdici.fr">1:0:16:BCA:4E84:55F:DDE0000:0:0:0:</channel><!-- BFM DICI -->
 <!-- 5.0W --><channel id="DisneyChannel.fr">1:0:1:394:5208:55E:DDE0000:0:0:0:</channel><!-- DISNEY CHANNEL -->
 <!-- 5.0W --><channel id="Eentertainment.fr">1:0:1:389:5208:55E:DDE0000:0:0:0:</channel><!-- E! -->
 <!-- 5.0W --><channel id="Eentertainment.fr">1:0:19:580:5398:55F:DDE0000:0:0:0:</channel><!-- E! France -->
@@ -6389,7 +6385,6 @@
 <!-- 5.0W --><channel id="Eentertainment.fr">1:0:19:725:2904:55F:DDE0000:0:0:0:</channel><!-- E! -->
 <!-- 5.0W --><channel id="EquidiaLive.fr">1:0:16:DC:4EE8:55F:DDE0000:0:0:0:</channel><!-- EQUIDIA -->
 <!-- 5.0W --><channel id="EquipeTV.fr">1:0:1:25B:5078:55F:DDE0000:0:0:0:</channel><!-- L EQUIPE 21 -->
-
 <!-- 5.0W --><channel id="EquipeTV.fr">1:0:19:A02:A:20FA:DDE0000:0:0:0:</channel><!-- L EQUIPE 21 -->
 <!-- 5.0W --><channel id="EquipeTV.fr">1:0:19:BB9:4E84:55F:DDE0000:0:0:0:</channel><!-- L'Equipe 21 -->
 <!-- 5.0W --><channel id="ETB1.fr">1:0:1:B88:51A4:55F:DDE0000:0:0:0:</channel><!-- ETB 1 -->
@@ -6453,7 +6448,6 @@
 <!-- 5.0W --><channel id="KTO.fr">1:0:16:B85:51A4:55F:DDE0000:0:0:0:</channel><!-- KTO -->
 <!-- 5.0W --><channel id="LaChaîneThéatres.fr">1:0:1:25A:5078:55F:DDE0000:0:0:0:</channel><!-- La Chaîne Théatres -->
 <!-- 5.0W --><channel id="LCI.fr">1:0:1:391:5208:55E:DDE0000:0:0:0:</channel><!-- LCI HD -->
-
 <!-- 5.0W --><channel id="LCI.fr">1:0:16:308:3:20FA:DDE0000:0:0:0:</channel><!-- LCI -->
 <!-- 5.0W --><channel id="LCI.fr">1:0:19:133:4F4C:55F:DDE0000:0:0:0:</channel><!-- LCI -->
 <!-- 5.0W --><channel id="LCP.fr">1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:</channel><!-- LCP HD -->
@@ -6605,7 +6599,6 @@
 <!-- DVB-T --><channel id="TPSStar.fr">1:0:1:306:3:20FA:EEEE0000:0:0:0:</channel><!-- TPS STAR -->
 <!-- DVB-T --><channel id="W9.fr">1:0:19:1771:1770:FD2A:FFFF0000:0:0:0:</channel><!-- W9 HD -->
 <!-- DVB-T --><channel id="W9.fr">1:0:19:402:4:20FA:EEEE0000:0:0:0:</channel><!-- W9 HD -->
-<!-- 1.9E --><channel id="TV5MondeEurope.fr">1:0:1:80:E:3:130000:0:0:0:</channel><!-- TV5 Monde Europe -->
 <!-- 0.8W --><channel id="TV5MondeEurope.fr">1:0:1:412:519:2:E08B163:0:0:0:</channel><!-- TV5 Monde Europe -->
 <!-- 0.8W --><channel id="TV5MondeEurope.fr">1:0:1:646:6:64:E080000:0:0:0:</channel><!-- TV5 Monde Europe -->
 <!-- 0.8W --><channel id="TV5MondeEurope.fr">1:0:1:79E8:2C8:600:E080000:0:0:0:</channel><!-- TV5 Monde Europe -->
@@ -6613,6 +6606,7 @@
 <!-- 0.8W --><channel id="TV5MondeEurope.nl">1:0:1:412:519:2:E08B163:0:0:0:</channel><!-- TV5 Monde Europe -->
 <!-- 0.8W --><channel id="TV5MondeFBS.fr">1:0:1:413:519:2:E080000:0:0:0:</channel><!-- TV5 Monde FBS -->
 <!-- 0.8W --><channel id="TV5MondeFBS.fr">1:0:1:413:519:2:E08B163:0:0:0:</channel><!-- TV5MondeFBS -->
+<!-- 1.9E --><channel id="TV5MondeEurope.fr">1:0:1:80:E:3:130000:0:0:0:</channel><!-- TV5 Monde Europe -->
 <!-- 13.0E --><channel id="ArirangTv.kr">1:0:1:29DB:3CF0:13E:820000:0:0:0:</channel><!-- Arirang World -->
 <!-- 13.0E --><channel id="GODChannel.eu">1:0:1:1267:3458:13E:820000:0:0:0:</channel><!-- GOD Channel -->
 <!-- 13.0E --><channel id="KBSWorld.kr">1:0:1:521:3D54:13E:820000:0:0:0:</channel><!-- KBS World HD -->
@@ -9147,6 +9141,7 @@
 <!-- 1.9E --><channel id="TravelChannelHD.eu">1:0:1:17F:9:3:130000:0:0:0:</channel><!-- Travel channel -->
 <!-- 1.9E --><channel id="VH1.eu">1:0:1:185:9:3:130000:0:0:0:</channel><!-- VH1 -->
 <!-- 1.9E --><channel id="VH1.eu">1:0:1:206:17:3:130000:0:0:0:</channel><!-- VH1 -->
+<!-- 1.9E --><channel id="ViasatHistory.eu">1:0:1:46:C:3:130000:0:0:0:</channel> <!-- Viasat History HD-->
 <!-- 13.0E --><channel id="FashionTV.eu">1:0:1:132C:33F4:13E:820000:0:0:0:</channel><!-- Fashion TV -->
 <!-- 13.0E --><channel id="Hillsong.uk">1:0:1:324:1F40:13E:820000:0:0:0:</channel><!-- Hillsong -->
 <!-- 13.0E --><channel id="KICCTV.uk">1:0:1:3FB:1:1:E08318F:0:0:0:</channel><!-- KICC TV -->
@@ -9227,7 +9222,6 @@
 <!-- 39.0E --><channel id="VH1.eu">1:0:19:EC:B2:39E:1860000:0:0:0:</channel> <!-- VH-1 (Video Hits One) -->
 <!-- 39.0E --><channel id="VH1.eu">1:0:1F:EC:B2:39E:1860000:0:0:0:</channel> <!-- VH1 -->
 <!-- 39.0E --><channel id="ViasatHistory.eu">1:0:1:156:1:1:1862FEF:0:0:0:</channel><!-- Viasat History -->
-<!-- 1.9E --><channel id="ViasatHistory.eu">1:0:1:46:C:3:130000:0:0:0:</channel> <!-- Viasat History HD-->
 <!-- 39.0E --><channel id="ViasatHistory.eu">1:0:19:117:2:1C:1860000:0:0:0:</channel><!-- Viasat History -->
 <!-- 4.8E --><channel id="eSportsTV.eu">1:0:19:ABE:23:56:300000:0:0:0:</channel><!-- eSports TV -->
 <!-- 4.8E --><channel id="Eurosport3.nl">1:0:1:406:1:1:30B0F1:0:0:0:</channel><!-- Eurosport 3 HD -->
@@ -9693,8 +9687,6 @@
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:147E:139F:3E8:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:1A:1399:3E8:FFFF0000:0:0:0:</channel><!-- Slam TV -->
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:1A:13AD:3E8:FFFF0000:0:0:0:</channel><!-- Slam TV -->
-<!-- Cable --><channel id="Sport1Extra1.nl">1:0:1:1455:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Extra 1 -->
-<!-- Cable --><channel id="Sport1Extra2.nl">1:0:1:1456:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Extra 2 -->
 <!-- Cable --><channel id="StingrayBrava.nl">1:0:1:147D:139D:3E8:FFFF0000:0:0:0:</channel><!-- BravaNL -->
 <!-- Cable --><channel id="StingrayDjazz.nl">1:0:1:1479:13A0:3E8:FFFF0000:0:0:0:</channel><!-- DJAZZ.tv -->
 <!-- Cable --><channel id="SuperRTL.de">1:0:1:142B:139C:3E8:FFFF0000:0:0:0:</channel><!-- Super RTL -->
@@ -9719,9 +9711,11 @@
 <!-- Cable --><channel id="ZappelinFamilie24.nl">1:0:1:1406:1398:3E8:FFFF0000:0:0:0:</channel><!-- NPO Zapp Xtra -->
 <!-- Cable --><channel id="ZDF.de">1:0:1:1426:139C:3E8:FFFF0000:0:0:0:</channel><!-- ZDF -->
 <!-- Cable --><channel id="ZDF.de">1:0:1:263:13AB:3E8:FFFF0000:0:0:0:</channel><!-- ZDF -->
+<!-- Cable --><channel id="ZiggoSportDocu.nl">1:0:1:1455:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Extra 1 -->
 <!-- Cable --><channel id="ZiggoSportGolf.nl">1:0:1:1453:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Golf -->
 <!-- Cable --><channel id="ZiggoSportRacing.nl">1:0:1:1454:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Racing -->
 <!-- Cable --><channel id="ZiggoSportSelect.nl">1:0:1:1451:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Select -->
+<!-- Cable --><channel id="ZiggoSportTennis.nl">1:0:1:1456:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Extra 2 -->
 <!-- Cable --><channel id="ZiggoSportVoetbal.nl">1:0:1:1452:13A4:3E8:FFFF0000:0:0:0:</channel><!-- Sport1 Voetbal -->
 <!-- Cable --><channel id="ZoneRealityTV.be">1:0:1:13F5:1397:3E8:FFFF0000:0:0:0:</channel><!-- CBS Reality -->
 <!-- Cable --><channel id="100NLTV.nl">1:0:1:1FE:5:10EF:FFFF0000:0:0:0:</channel><!-- 100% NL TV -->
@@ -9866,8 +9860,6 @@
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:426E:11:10EF:FFFF0000:0:0:0:</channel><!-- Slam TV -->
 <!-- Cable --><channel id="Spike.nl">1:0:1:2C6:7:10EF:FFFF0000:0:0:0:</channel><!-- Spike -->
 <!-- Cable --><channel id="Spike.nl">1:0:19:2C7:7:10EF:FFFF0000:0:0:0:</channel><!-- Spike HD -->
-<!-- Cable --><channel id="ZiggoSportDocu.nl">1:0:1:70C:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Extra 1 -->
-<!-- Cable --><channel id="ZiggoSportTennis.nl">1:0:1:70D:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Extra 2 -->
 <!-- Cable --><channel id="StingrayBrava.nl">1:0:1:38F:9:10EF:FFFF0000:0:0:0:</channel><!-- BravaNL -->
 <!-- Cable --><channel id="StingrayDjazz.nl">1:0:1:55F8:16:10EF:FFFF0000:0:0:0:</channel><!-- DJAZZ.tv -->
 <!-- Cable --><channel id="StingrayIconcerts.eu">1:0:1:3E8B:10:10EF:FFFF0000:0:0:0:</channel><!-- I-CONCERTS -->
@@ -9887,9 +9879,11 @@
 <!-- Cable --><channel id="Vox.de">1:0:1:3E8A:10:10EF:FFFF0000:0:0:0:</channel><!-- VOX -->
 <!-- Cable --><channel id="WDR.de">1:0:1:323:8:10EF:FFFF0000:0:0:0:</channel><!-- WDR -->
 <!-- Cable --><channel id="ZDF.de">1:0:1:322:8:10EF:FFFF0000:0:0:0:</channel><!-- ZDF -->
+<!-- Cable --><channel id="ZiggoSportDocu.nl">1:0:1:70C:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Extra 1 -->
 <!-- Cable --><channel id="ZiggoSportGolf.nl">1:0:1:70A:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Golf -->
 <!-- Cable --><channel id="ZiggoSportRacing.nl">1:0:1:70B:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Tennis -->
 <!-- Cable --><channel id="ZiggoSportSelect.nl">1:0:19:59DB:17:10EF:FFFF0000:0:0:0:</channel><!-- Sport1 Select -->
+<!-- Cable --><channel id="ZiggoSportTennis.nl">1:0:1:70D:12:10EF:FFFF0000:0:0:0:</channel><!-- Sport 1 Extra 2 -->
 <!-- Cable --><channel id="ZiggoSportVoetbal.nl">1:0:19:271F:A:10EF:FFFF0000:0:0:0:</channel><!-- Sport1 Voetbal -->
 <!-- Cable --><channel id="AlJazeera.nws">1:0:1:275:6:15E0:FFFF0000:0:0:0:</channel><!-- Al Jazeera -->
 <!-- Cable --><channel id="AnimalPlanet.nl">1:0:1:19F:4:15E0:FFFF0000:0:0:0:</channel><!-- Animal Planet -->
@@ -10158,14 +10152,10 @@
 <!-- Cable --><channel id="SBS9.nl">1:0:19:4CD7:81A:600:FFFF0000:0:0:0:</channel><!-- SBS9 -->
 <!-- Cable --><channel id="SecretCircle.nl">1:0:1:4C3B:837:600:FFFF0000:0:0:0:</channel><!-- Secret Circle -->
 <!-- Cable --><channel id="SETAsia.nl">1:0:1:4E69:804:600:FFFF0000:0:0:0:</channel><!-- SET Asia -->
-<!-- Cable --><channel id="ShortsTV.nl">1:0:1:4B61:813:600:FFFF0000:0:0:0:</channel><!-- Shorts TV -->
 <!-- Cable --><channel id="ShortsTV.nl">1:0:19:4B61:813:600:FFFF0000:0:0:0:</channel><!-- Shorts TV -->
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:4B5E:813:600:FFFF0000:0:0:0:</channel><!-- Slam TV -->
-<!-- Cable --><channel id="Spike.nl">1:0:1:4BBC:831:600:FFFF0000:0:0:0:</channel><!-- Spike -->
 <!-- Cable --><channel id="Spike.nl">1:0:1:4BDD:833:600:FFFF0000:0:0:0:</channel><!-- Spike -->
 <!-- Cable --><channel id="Spike.nl">1:0:19:4BBC:831:600:FFFF0000:0:0:0:</channel><!-- Spike -->
-<!-- Cable --><channel id="Sport1Extra1.nl">1:0:1:4B37:810:600:FFFF0000:0:0:0:</channel><!-- sport1 Extra1 -->
-<!-- Cable --><channel id="Sport1Extra2.nl">1:0:1:4B38:810:600:FFFF0000:0:0:0:</channel><!-- sport1 Extra2 -->
 <!-- Cable --><channel id="StarGold.uk">1:0:1:4E6A:804:600:FFFF0000:0:0:0:</channel><!-- Star GOLD -->
 <!-- Cable --><channel id="StarPlus.uk">1:0:1:4E6B:804:600:FFFF0000:0:0:0:</channel><!-- StarPlus -->
 <!-- Cable --><channel id="StingrayBrava.nl">1:0:1:4E4C:803:600:FFFF0000:0:0:0:</channel><!-- BravaNL -->
@@ -10186,7 +10176,6 @@
 <!-- Cable --><channel id="WOS.nl">1:0:1:3016:CB:600:FFFF0000:0:0:0:</channel><!-- WOS TV -->
 <!-- Cable --><channel id="X-MO.nl">1:0:1:4B6C:814:600:FFFF0000:0:0:0:</channel><!-- X-MO -->
 <!-- Cable --><channel id="XITE.nl">1:0:1:4ADA:80D:600:FFFF0000:0:0:0:</channel><!-- XITE -->
-<!-- Cable --><channel id="XITE.nl">1:0:1:4CFC:81C:600:FFFF0000:0:0:0:</channel><!-- Xite -->
 <!-- Cable --><channel id="XITE.nl">1:0:19:4CFC:81C:600:FFFF0000:0:0:0:</channel><!-- Xite -->
 <!-- Cable --><channel id="ZDF.de">1:0:1:4A7B:808:600:FFFF0000:0:0:0:</channel><!-- ZDF -->
 <!-- Cable --><channel id="ZDF.de">1:0:19:4E3C:802:600:FFFF0000:0:0:0:</channel><!-- ZDF -->
@@ -10195,9 +10184,11 @@
 <!-- Cable --><channel id="ZendervdMaand.nl">1:0:1:4C85:83B:600:FFFF0000:0:0:0:</channel><!-- Zender van de Maand -->
 <!-- Cable --><channel id="ZiggoSport.nl">1:0:1:4A64:807:600:FFFF0000:0:0:0:</channel><!-- Ziggo Sport -->
 <!-- Cable --><channel id="ZiggoSport.nl">1:0:19:4CCD:81A:600:FFFF0000:0:0:0:</channel><!-- Ziggo Sport HD -->
+<!-- Cable --><channel id="ZiggoSportDocu.nl">1:0:1:4B37:810:600:FFFF0000:0:0:0:</channel><!-- sport1 Extra1 -->
 <!-- Cable --><channel id="ZiggoSportGolf.nl">1:0:19:4BB6:831:600:FFFF0000:0:0:0:</channel><!-- Sport1 Golf -->
 <!-- Cable --><channel id="ZiggoSportRacing.nl">1:0:19:4BAA:817:600:FFFF0000:0:0:0:</channel><!-- Sport1 Racing -->
 <!-- Cable --><channel id="ZiggoSportSelect.nl">1:0:19:4B79:815:600:FFFF0000:0:0:0:</channel><!-- Sport1 Select HD -->
+<!-- Cable --><channel id="ZiggoSportTennis.nl">1:0:19:4B38:810:600:FFFF0000:0:0:0:</channel><!-- Sport 1 Extra 2 -->
 <!-- Cable --><channel id="ZiggoSportVoetbal.nl">1:0:19:4BAB:817:600:FFFF0000:0:0:0:</channel><!-- Ziggo Sport1 Voetbal -->
 <!-- Cable --><channel id="ZiggoTV.nl">1:0:1:4C3C:837:600:FFFF0000:0:0:0:</channel><!-- Ziggo -->
 <!-- Cable --><channel id="ZiggoTV.nl">1:0:19:4B7F:815:600:FFFF0000:0:0:0:</channel><!-- Ziggo HD -->
@@ -10342,6 +10333,7 @@
 <!-- 0.8W --><channel id="tv2.no">1:0:1:5E4:1:46:E080000:0:0:0:</channel><!-- TV 2 (N) -->
 <!-- 0.8W --><channel id="tv2.no">1:0:19:1BA1:44:46:E080000:0:0:0:</channel><!-- TV 2 HD (N) -->
 <!-- 0.8W --><channel id="tv2.no">1:0:19:42B1:44:46:E080000:0:0:0:</channel><!-- TV 2 HD (N) -->
+<!-- 0.8W --><channel id="TV2Livsstil.no">1:0:19:1B9D:44:46:E080000:0:0:0:</channel><!-- TV 2 Livstill (N) -->
 <!-- 0.8W --><channel id="TV2Livsstil.no">1:0:19:1DFD:19:46:E080000:0:0:0:</channel><!-- TV 2 Livstill (N) -->
 <!-- 0.8W --><channel id="TV2Nyhetskanalen.no">1:0:1:4625:1:46:E080000:0:0:0:</channel><!-- TV 2 Nyhetskanalen (N) -->
 <!-- 0.8W --><channel id="TV2Nyhetskanalen.no">1:0:1:95:1:46:E080000:0:0:0:</channel><!-- TV 2 Nyhetskanalen (N) -->
@@ -10364,17 +10356,14 @@
 <!-- 0.8W --><channel id="Viasat4.no">1:0:1:9D2:19:46:E080000:0:0:0:</channel><!-- Viasat 4 -->
 <!-- 0.8W --><channel id="Viasat4.no">1:0:19:1D08:19:46:E080000:0:0:0:</channel><!-- Viasat 4 HD -->
 <!-- 0.8W --><channel id="Viasat4.no">1:0:19:408:22:46:E080000:0:0:0:</channel><!-- Viasat 4 HD -->
-
 <!-- 0.8W --><channel id="ViasatExplorer.no">1:0:19:1D6F:45:46:E080000:0:0:0:</channel><!-- Viasat Explore HD -->
-<!-- 0.8W --><channel id="ViasatHistory.no">1:0:19:412:45:46:E080000:0:0:0:</channel><!-- Viasat History HD -->
-<!-- 0.8W --><channel id="ViasatNature.no">1:0:19:417:45:46:E080000:0:0:0:</channel><!-- Viasat Nature HD -->
-<!-- 0.8W --><channel id="TV2Livsstil.no">1:0:19:1B9D:44:46:E080000:0:0:0:</channel><!-- TV 2 Livstill (N) -->
-
 <!-- 0.8W --><channel id="ViasatFilmAction.no">1:0:19:1F0B:23:46:E080000:0:0:0:</channel><!-- TV1000 Action -->
 <!-- 0.8W --><channel id="ViasatFilmFamily.no">1:0:19:1F0E:23:46:E080000:0:0:0:</channel><!-- Viasat Film Family -->
 <!-- 0.8W --><channel id="ViasatFilmHits.no">1:0:16:1EAE:23:46:E080000:0:0:0:</channel><!-- Viasat Film Hits HD -->
 <!-- 0.8W --><channel id="ViasatFilmPremiere.no">1:0:19:FD5:2:46:E080000:0:0:0:</channel><!-- Viasat Film Premiere -->
+<!-- 0.8W --><channel id="ViasatHistory.no">1:0:19:412:45:46:E080000:0:0:0:</channel><!-- Viasat History HD -->
 <!-- 0.8W --><channel id="ViasatHockey.no">1:0:19:1E06:3E:46:E080000:0:0:0:</channel><!-- Viasat Hockey HD -->
+<!-- 0.8W --><channel id="ViasatNature.no">1:0:19:417:45:46:E080000:0:0:0:</channel><!-- Viasat Nature HD -->
 <!-- 0.8W --><channel id="ViasatSeries.no">1:0:19:1161:1C:46:E080000:0:0:0:</channel><!-- Viasat Series -->
 <!-- 0.8W --><channel id="ViasatSeries.no">1:0:19:43B3:1C:46:E080000:0:0:0:</channel><!-- Viasat Series -->
 <!-- 0.8W --><channel id="ViasatUltra.no">1:0:19:1BB0:4B:46:E080000:0:0:0:</channel><!-- Viasat Ultra -->
