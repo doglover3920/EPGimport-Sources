@@ -6043,8 +6043,8 @@
 <!-- Cable --><channel id="TMC.fr">1:0:19:A1A:9C4:1:FFFF02BA:0:0:0:</channel><!-- TMCHD -->
 <!-- Cable --><channel id="TouteHistoire.fr">1:0:1:4282:446:1:FFFF012A:0:0:0:</channel><!-- toute L'HISTOIRE -->
 <!-- Cable --><channel id="TPSStar.fr">1:0:1:76D:76C:FD2A:FFFF0000:0:0:0:</channel><!-- TPS STAR -->
-<!-- Cable --><channel id="TraceSport.fr">1:0:1:18D1:189C:FD2A:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
-<!-- Cable --><channel id="TraceSport.fr">1:0:19:190A:1900:FD2A:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
+<!-- Cable --><channel id="TraceSportStars.eu">1:0:1:18D1:189C:FD2A:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
+<!-- Cable --><channel id="TraceSportStars.eu">1:0:19:190A:1900:FD2A:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
 <!-- Cable --><channel id="TraceTropical.fr">1:0:1:22C5:45A:1:FFFF0162:0:0:0:</channel><!-- TRACE TROPICAL -->
 <!-- Cable --><channel id="TraceUrban.fr">1:0:1:EDB:ED8:FD2A:FFFF0000:0:0:0:</channel><!-- Trace Urban HD -->
 <!-- Cable --><channel id="Trek.fr">1:0:1:4281:446:1:FFFF012A:0:0:0:</channel><!-- TREK -->
@@ -9687,7 +9687,7 @@
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:147E:139F:3E8:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:1A:1399:3E8:FFFF0000:0:0:0:</channel><!-- Slam TV -->
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:1A:13AD:3E8:FFFF0000:0:0:0:</channel><!-- Slam TV -->
-<!-- Cable --><channel id="StingrayBrava.nl">1:0:1:147D:139D:3E8:FFFF0000:0:0:0:</channel><!-- BravaNL -->
+<!-- Cable --><channel id="StingrayClassica.nl">1:0:1:147D:139D:3E8:FFFF0000:0:0:0:</channel><!-- BravaNL -->
 <!-- Cable --><channel id="StingrayDjazz.nl">1:0:1:1479:13A0:3E8:FFFF0000:0:0:0:</channel><!-- DJAZZ.tv -->
 <!-- Cable --><channel id="SuperRTL.de">1:0:1:142B:139C:3E8:FFFF0000:0:0:0:</channel><!-- Super RTL -->
 <!-- Cable --><channel id="TLC.nl">1:0:1:13CC:1394:3E8:FFFF0000:0:0:0:</channel><!-- TLC -->
@@ -9772,7 +9772,7 @@
 <!-- Cable --><channel id="Eurosport1.nl">1:0:1:710:12:10EF:FFFF0000:0:0:0:</channel><!-- Eurosport -->
 <!-- Cable --><channel id="Eurosport1.nl">1:0:19:5DC5:18:10EF:FFFF0000:0:0:0:</channel><!-- Eurosport HD -->
 <!-- Cable --><channel id="Eurosport2.nl">1:0:1:C1F:1F:10EF:FFFF0000:0:0:0:</channel><!-- Eurosport 2 HD -->
-<!-- Cable --><channel id="ExtremeSports.nl">1:0:1:134:3:10EF:FFFF0000:0:0:0:</channel><!-- Extreme Sports -->
+<!-- Cable --><channel id="ExtremeSports.eu">1:0:1:134:3:10EF:FFFF0000:0:0:0:</channel><!-- Extreme Sports -->
 <!-- Cable --><channel id="Family7.nl">1:0:1:36B8:1C:10EF:FFFF0000:0:0:0:</channel><!-- Family 7 -->
 <!-- Cable --><channel id="FashionTV.eu">1:0:1:2EE5:C:10EF:FFFF0000:0:0:0:</channel><!-- Fashion TV -->
 <!-- Cable --><channel id="FashionTV.eu">1:0:19:2EE5:C:10EF:FFFF0000:0:0:0:</channel><!-- Fashion TV -->
@@ -9860,13 +9860,13 @@
 <!-- Cable --><channel id="SLAM!TV.nl">1:0:1:426E:11:10EF:FFFF0000:0:0:0:</channel><!-- Slam TV -->
 <!-- Cable --><channel id="Spike.nl">1:0:1:2C6:7:10EF:FFFF0000:0:0:0:</channel><!-- Spike -->
 <!-- Cable --><channel id="Spike.nl">1:0:19:2C7:7:10EF:FFFF0000:0:0:0:</channel><!-- Spike HD -->
-<!-- Cable --><channel id="StingrayBrava.nl">1:0:1:38F:9:10EF:FFFF0000:0:0:0:</channel><!-- BravaNL -->
+<!-- Cable --><channel id="StingrayClassica.nl">1:0:1:38F:9:10EF:FFFF0000:0:0:0:</channel><!-- BravaNL -->
 <!-- Cable --><channel id="StingrayDjazz.nl">1:0:1:55F8:16:10EF:FFFF0000:0:0:0:</channel><!-- DJAZZ.tv -->
 <!-- Cable --><channel id="StingrayIconcerts.eu">1:0:1:3E8B:10:10EF:FFFF0000:0:0:0:</channel><!-- I-CONCERTS -->
 <!-- Cable --><channel id="SWR.de">1:0:1:325:8:10EF:FFFF0000:0:0:0:</channel><!-- SWR Fernsehen BW -->
 <!-- Cable --><channel id="TLC.nl">1:0:1:36B4:E:10EF:FFFF0000:0:0:0:</channel><!-- TLC -->
 <!-- Cable --><channel id="TLC.nl">1:0:19:3E82:10:10EF:FFFF0000:0:0:0:</channel><!-- TLC HD -->
-<!-- Cable --><channel id="TraceSport.fr">1:0:19:D7:2:10EF:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
+<!-- Cable --><channel id="TraceSportStars.eu">1:0:19:D7:2:10EF:FFFF0000:0:0:0:</channel><!-- Trace Sport HD -->
 <!-- Cable --><channel id="TRTturk.tr">1:0:1:3A99:F:10EF:FFFF0000:0:0:0:</channel><!-- TRT Türk -->
 <!-- Cable --><channel id="TV538.nl">1:0:1:4E27:14:10EF:FFFF0000:0:0:0:</channel><!-- TV538 -->
 <!-- Cable --><channel id="TV5MondeEurope.nl">1:0:1:2EE7:C:10EF:FFFF0000:0:0:0:</channel><!-- TV5 Monde Europe -->
@@ -9945,7 +9945,7 @@
 <!-- Cable --><channel id="RTVOost.nl">1:0:19:277E:A:1D25:FFFF0000:0:0:0:</channel><!-- TV Oost HD -->
 <!-- Cable --><channel id="SBS6.nl">1:0:1:CE:2:1D25:FFFF0000:0:0:0:</channel><!-- SBS 6 -->
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:20C:5:1D25:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
-<!-- Cable --><channel id="StingrayBrava.nl">1:0:1:275:6:1D25:FFFF0000:0:0:0:</channel><!-- Brava NL -->
+<!-- Cable --><channel id="StingrayClassica.nl">1:0:1:275:6:1D25:FFFF0000:0:0:0:</channel><!-- Brava NL -->
 <!-- Cable --><channel id="TLC.nl">1:0:1:19F:4:1D25:FFFF0000:0:0:0:</channel><!-- Animal Planet/TLC -->
 <!-- Cable --><channel id="TV5MondeEurope.fr">1:0:1:276:6:1D25:FFFF0000:0:0:0:</channel><!-- TV5 Monde Europee -->
 <!-- Cable --><channel id="TVoranje.nl">1:0:1:209:5:1D25:FFFF0000:0:0:0:</channel><!-- TV Oranje -->
@@ -10158,7 +10158,7 @@
 <!-- Cable --><channel id="Spike.nl">1:0:19:4BBC:831:600:FFFF0000:0:0:0:</channel><!-- Spike -->
 <!-- Cable --><channel id="StarGold.uk">1:0:1:4E6A:804:600:FFFF0000:0:0:0:</channel><!-- Star GOLD -->
 <!-- Cable --><channel id="StarPlus.uk">1:0:1:4E6B:804:600:FFFF0000:0:0:0:</channel><!-- StarPlus -->
-<!-- Cable --><channel id="StingrayBrava.nl">1:0:1:4E4C:803:600:FFFF0000:0:0:0:</channel><!-- BravaNL -->
+<!-- Cable --><channel id="StingrayClassica.nl">1:0:1:4E4C:803:600:FFFF0000:0:0:0:</channel><!-- BravaNL -->
 <!-- Cable --><channel id="StingrayDjazz.nl">1:0:1:4B30:810:600:FFFF0000:0:0:0:</channel><!-- DJAZZ.tv -->
 <!-- Cable --><channel id="TLC.nl">1:0:1:4ADC:80D:600:FFFF0000:0:0:0:</channel><!-- TLC -->
 <!-- Cable --><channel id="TLC.nl">1:0:19:4C6E:83A:600:FFFF0000:0:0:0:</channel><!-- TLC HD -->
