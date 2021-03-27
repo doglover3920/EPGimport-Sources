@@ -1208,13 +1208,13 @@
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:57:6:1:18630EC:0:0:0</channel> <!-- Passion XXX2-->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:93:4:1:186AFB5:0:0:0:</channel> <!-- Pink O TV-->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:19:8B:B1:39E:1860000:0:0:0:</channel> <!-- XY Plus -->
-<!-- 39.0E --><channel id="NOVA.bg">1:0:1:3F4:1:1:1862FEE:0:0:0:</channel> <!-- NOVA-->
+
 <!-- 39.0E --><channel id="NOVA.bg">1:0:1:3F4:1:1:1862FEF:0:0:0:</channel><!-- Nova TV -->
-<!-- 39.0E --><channel id="NOVA.bg">1:0:1:3F4:1:1:18630EC:0:0:0:</channel><!-- Nova TV -->
-<!-- 39.0E --><channel id="NOVA.bg">1:0:1:6F:B1:39E:1860000:0:0:0:</channel><!-- Nova -->
+
+<!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630AF:0:0:0:</channel> <!-- Nova -->
 <!-- 39.0E --><channel id="NOVA.bg">1:0:19:6F:B1:39E:1860000:0:0:0:</channel> <!-- Nova -->
-<!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630AE:0:0:0:</channel> <!-- Nova HD-->
-<!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:70:B1:39E:1860000:0:0:0:</channel><!-- Nova Sport Bulgaria -->
+<!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630A:0:0:0:</channel> <!-- Nova HD-->
+
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:1863190:0:0:0:</channel><!-- Nova Sport Bulgaria -->
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:186B0C1:0:0:0:</channel> <!-- Nova Sport-->
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:186B0C2:0:0:0:</channel><!-- Nova Sport Bulgaria -->
@@ -14178,6 +14178,7 @@
 <!-- 28.2E --><channel id="Hillsong.uk">1:0:1:C4A9:811:2:11A0000:0:0:0:</channel><!-- Hillsong -->
 <!-- 28.2E --><channel id="holidaycruise.uk">1:0:1:D328:836:2:11A0000:0:0:0:</channel><!-- holiday+cruise -->
 <!-- 28.2E --><channel id="HUM-EUROPE.uk">1:0:1:D14C:832:2:11A0000:0:0:0:</channel><!-- HUM-EUROPE -->
+<!-- 28.2E --><channel id="Pitaara.uk">1:0:1:CB86:831:2:11A0000:0:0:0:</channel><!-- Pitaara -->
 <!-- 28.2E --><channel id="HUMMasala.uk">1:0:1:D12A:832:2:11A0000:0:0:0:</channel><!-- HUM Masala -->
 <!-- 28.2E --><channel id="HUMNews.uk">1:0:1:D13E:832:2:11A0000:0:0:0:</channel><!-- HUM News -->
 <!-- 28.2E --><channel id="IdealWorld.uk">1:0:1:D129:832:2:11A0000:0:0:0:</channel><!-- Ideal World -->
