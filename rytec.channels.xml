@@ -1208,13 +1208,10 @@
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:57:6:1:18630EC:0:0:0</channel> <!-- Passion XXX2-->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:93:4:1:186AFB5:0:0:0:</channel> <!-- Pink O TV-->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:19:8B:B1:39E:1860000:0:0:0:</channel> <!-- XY Plus -->
-
 <!-- 39.0E --><channel id="NOVA.bg">1:0:1:3F4:1:1:1862FEF:0:0:0:</channel><!-- Nova TV -->
-
-<!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630AF:0:0:0:</channel> <!-- Nova -->
 <!-- 39.0E --><channel id="NOVA.bg">1:0:19:6F:B1:39E:1860000:0:0:0:</channel> <!-- Nova -->
 <!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630A:0:0:0:</channel> <!-- Nova HD-->
-
+<!-- 39.0E --><channel id="NOVA.bg">1:0:19:D4:5:1:18630AF:0:0:0:</channel> <!-- Nova -->
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:1863190:0:0:0:</channel><!-- Nova Sport Bulgaria -->
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:186B0C1:0:0:0:</channel> <!-- Nova Sport-->
 <!-- 39.0E --><channel id="NOVAsport.bg">1:0:1:9:3:1:186B0C2:0:0:0:</channel><!-- Nova Sport Bulgaria -->
@@ -7997,10 +7994,8 @@
 <!-- Cable --><channel id="MTV.uk">1:0:1:453:3D:601:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="MTVBase.uk">1:0:1:6A:33:601:FFFF0000:0:0:0:</channel><!-- MTV Base -->
 <!-- Cable --><channel id="MTVClassic.uk">1:0:1:3EB:3C:601:FFFF0000:0:0:0:</channel><!-- MTV Classic -->
-<!-- Cable --><channel id="MTVDance.uk">1:0:1:3F3:3C:601:FFFF0000:0:0:0:</channel><!-- MTV Dance -->
 <!-- Cable --><channel id="MTVHits.uk">1:0:1:CD:34:601:FFFF0000:0:0:0:</channel><!-- MTV Hits -->
 <!-- Cable --><channel id="MTVMusic.uk">1:0:1:3F4:3C:601:FFFF0000:0:0:0:</channel><!-- MTV MUSIC -->
-<!-- Cable --><channel id="MTVRocks.uk">1:0:1:3EF:3C:601:FFFF0000:0:0:0:</channel><!-- MTV Rocks -->
 <!-- Cable --><channel id="MUTV.uk">1:0:1:1F5:37:601:FFFF0000:0:0:0:</channel><!-- MUTV -->
 <!-- Cable --><channel id="NatGeoWild.uk">1:0:1:2BE:39:601:FFFF0000:0:0:0:</channel><!-- Nat Geo Wild -->
 <!-- Cable --><channel id="NatGeoWild.uk">1:0:19:6A5:43:601:FFFF0000:0:0:0:</channel><!-- NatGeo Wild HD -->
@@ -13982,7 +13977,6 @@
 <!-- 27.5W --><channel id="Channel4.uk">1:0:19:4500:1000:1:CFDACE7:0:0:0:</channel><!-- Channel 4 HD -->
 <!-- 27.5W --><channel id="Channel5.uk">1:0:19:4540:1000:1:CFDACE7:0:0:0:</channel><!-- Channel 5 HD -->
 <!-- 27.5W --><channel id="Film4plus1.uk">1:0:1:4F80:1000:1:CFDACE7:0:0:0:</channel><!-- Film4 +1 -->
-<!-- 27.5W --><channel id="Film4plus1.uk">1:0:16:4F80:1000:1:CFDACE7:0:0:0:</channel><!-- Film4 +1 -->
 <!-- 27.5W --><channel id="ITV1London.uk">1:0:19:44C8:1000:1:CFDACE7:0:0:0:</channel><!-- ITV1 London HD -->
 <!-- 27.5W --><channel id="More4Plus1.uk">1:0:16:4FC0:1000:1:CFDACE7:0:0:0:</channel><!-- More4 +1 -->
 <!-- 27.5W --><channel id="S4C.uk">1:0:19:4580:1000:1:CFDACE7:0:0:0:</channel><!-- S4C -->
@@ -14115,12 +14109,9 @@
 <!-- 28.2E --><channel id="A1TV.uk">1:0:1:C7AD:817:2:11A0000:0:0:0:</channel><!-- A1 TV -->
 <!-- 28.2E --><channel id="AAJTAK.uk">1:0:1:D395:830:2:11A0000:0:0:0:</channel><!-- AAJ TAK -->
 <!-- 28.2E --><channel id="Aastha.uk">1:0:1:D3D5:829:2:11A0000:0:0:0:</channel><!-- Aastha TV Internation -->
-<!-- 28.2E --><channel id="ABNTV.uk"></channel><!-- ABN TV -->
-<!-- 28.2E --><channel id="ABPNews.uk">1:0:1:D397:830:2:11A0000:0:0:0:</channel><!-- ABP News -->
 <!-- 28.2E --><channel id="AbuDhabiTV.uk">1:0:1:CBA7:83C:2:11A0000:0:0:0:</channel><!-- Abu Dhabi TV -->
 <!-- 28.2E --><channel id="AhlebaitTV.uk">1:0:1:584B:82E:2:11A0000:0:0:0:</channel><!-- Ahlebait TV -->
 <!-- 28.2E --><channel id="AhlulbaytTV.uk">1:0:1:C495:811:2:11A0000:0:0:0:</channel><!-- Ahlulbayt TV -->
-<!-- 28.2E --><channel id="AIT.uk">1:0:1:D3CC:829:2:11A0000:0:0:0:</channel><!-- AIT Int'l -->
 <!-- 28.2E --><channel id="AkaalChannel.uk">1:0:1:C7AC:817:2:11A0000:0:0:0:</channel><!-- Akaal Channel -->
 <!-- 28.2E --><channel id="AkaalChannel.uk">1:0:1:D32C:836:2:11A0000:0:0:0:</channel><!-- Akaal Channel -->
 <!-- 28.2E --><channel id="AplusTV.uk">1:0:1:5855:82E:2:11A0000:0:0:0:</channel><!-- Aplus TV -->
@@ -14164,10 +14155,8 @@
 <!-- 28.2E --><channel id="FrontRunner2.uk">1:0:1:CB8F:831:2:11A0000:0:0:0:</channel><!-- FrontRunner 2 -->
 <!-- 28.2E --><channel id="GEONews.uk">1:0:1:C4E5:813:2:11A0000:0:0:0:</channel><!-- GEO News -->
 <!-- 28.2E --><channel id="GEONews.uk">1:0:1:C4E5:877:2:11A0000:0:0:0:</channel><!-- GEO News -->
-<!-- 28.2E --><channel id="GEOTEZ.uk">1:0:1:D74B:82F:2:11A0000:0:0:0:</channel><!-- GEO TEZ -->
 <!-- 28.2E --><channel id="GEOTV.uk">1:0:1:D3A9:830:2:11A0000:0:0:0:</channel><!-- GEO TV -->
 <!-- 28.2E --><channel id="GNTV.uk">1:0:1:D115:832:2:11A0000:0:0:0:</channel><!-- GN TV -->
-<!-- 28.2E --><channel id="GospelChannel.uk">1:0:1:D11F:832:2:11A0000:0:0:0:</channel><!-- Gospel Channel -->
 <!-- 28.2E --><channel id="GraceTV.uk">1:0:1:D3D3:829:2:11A0000:0:0:0:</channel><!-- Grace TV Global -->
 <!-- 28.2E --><channel id="HeartTV.uk">1:0:1:D747:82F:2:11A0000:0:0:0:</channel><!-- Heart TV -->
 <!-- 28.2E --><channel id="HGTVplus1.uk">1:0:1:CFEF:83F:2:11A0000:0:0:0:</channel><!-- Home+1 -->
@@ -14178,7 +14167,6 @@
 <!-- 28.2E --><channel id="Hillsong.uk">1:0:1:C4A9:811:2:11A0000:0:0:0:</channel><!-- Hillsong -->
 <!-- 28.2E --><channel id="holidaycruise.uk">1:0:1:D328:836:2:11A0000:0:0:0:</channel><!-- holiday+cruise -->
 <!-- 28.2E --><channel id="HUM-EUROPE.uk">1:0:1:D14C:832:2:11A0000:0:0:0:</channel><!-- HUM-EUROPE -->
-<!-- 28.2E --><channel id="Pitaara.uk">1:0:1:CB86:831:2:11A0000:0:0:0:</channel><!-- Pitaara -->
 <!-- 28.2E --><channel id="HUMMasala.uk">1:0:1:D12A:832:2:11A0000:0:0:0:</channel><!-- HUM Masala -->
 <!-- 28.2E --><channel id="HUMNews.uk">1:0:1:D13E:832:2:11A0000:0:0:0:</channel><!-- HUM News -->
 <!-- 28.2E --><channel id="IdealWorld.uk">1:0:1:D129:832:2:11A0000:0:0:0:</channel><!-- Ideal World -->
@@ -14214,12 +14202,10 @@
 <!-- 28.2E --><channel id="Now90s.uk">1:0:1:D74A:82F:2:11A0000:0:0:0:</channel><!-- Now 90 ‘s -->
 <!-- 28.2E --><channel id="NTD.uk">1:0:1:D742:82F:2:11A0000:0:0:0:</channel><!-- NTD -->
 <!-- 28.2E --><channel id="NTV.uk">1:0:1:D3CD:829:2:11A0000:0:0:0:</channel><!-- NTV -->
-<!-- 28.2E --><channel id="OliveTV.uk">1:0:1:CB88:831:2:11A0000:0:0:0:</channel><!-- Olive TV -->
 <!-- 28.2E --><channel id="PaversShoes.uk">1:0:1:585B:82E:2:11A0000:0:0:0:</channel><!-- PaversShoes.tv -->
-<!-- 28.2E --><channel id="PeaceTVUrdu.uk">1:0:1:CBAA:83C:2:11A0000:0:0:0:</channel><!-- Peace TV Urdu -->
+<!-- 28.2E --><channel id="Pitaara.uk">1:0:1:CB86:831:2:11A0000:0:0:0:</channel><!-- Pitaara -->
 <!-- 28.2E --><channel id="PriceCrash.uk">1:0:1:D329:836:2:11A0000:0:0:0:</channel><!-- Price Crash -->
 <!-- 28.2E --><channel id="PrimalCure.uk">1:0:1:D3D6:829:2:11A0000:0:0:0:</channel><!-- Primal Cure -->
-<!-- 28.2E --><channel id="PropellerTV.uk">1:0:1:CB86:831:2:11A0000:0:0:0:</channel><!-- Propeller TV -->
 <!-- 28.2E --><channel id="Property.uk">1:0:1:CB8D:831:2:11A0000:0:0:0:</channel><!-- Property Show -->
 <!-- 28.2E --><channel id="PsychicToday.uk">1:0:1:CFE0:83F:2:11A0000:0:0:0:</channel><!-- Psychic Today -->
 <!-- 28.2E --><channel id="PsychicToday.uk">1:0:1:d148:832:2:11a0000:0:0:0:</channel><!-- Psychic Today -->
@@ -14230,7 +14216,6 @@
 <!-- 28.2E --><channel id="RepublicBharat.uk">1:0:1:D382:830:2:11A0000:0:0:0:</channel><!-- Republic Bharat -->
 <!-- 28.2E --><channel id="ROK.uk">1:0:1:D39B:830:2:11A0000:0:0:0:</channel><!-- ROK -->
 <!-- 28.2E --><channel id="ROKplus1.uk">1:0:1:D76E:82F:2:11A0000:0:0:0:</channel><!-- ROK +1 -->
-<!-- 28.2E --><channel id="SafeerTV.uk">1:0:1:CBCA:831:2:11A0000:0:0:0:</channel><!-- Safeer TV -->
 <!-- 28.2E --><channel id="Samaa.uk">1:0:1:D3C4:829:2:11A0000:0:0:0:</channel><!-- Samaa -->
 <!-- 28.2E --><channel id="Sangat.uk">1:0:1:2540:82F:2:11A0000:0:0:0:</channel><!-- Sangat -->
 <!-- 28.2E --><channel id="Sanskar.uk">1:0:1:C52B:813:2:11A0000:0:0:0:</channel><!-- Sanskar -->
@@ -14501,12 +14486,10 @@
 <!-- 28.2E --><channel id="MTVBase.uk">1:0:1:1A45:834:2:11A0000:0:0:0:</channel><!-- MTV BASE -->
 <!-- 28.2E --><channel id="MTVBeats.uk">1:0:1:FB8:7EA:2:11A0000:0:0:0:</channel><!-- MTV Beats -->
 <!-- 28.2E --><channel id="MTVClassic.uk">1:0:1:1A46:834:2:11A0000:0:0:0:</channel><!-- MTV CLASSIC -->
-<!-- 28.2E --><channel id="MTVDance.uk">1:0:1:1A4B:834:2:11A0000:0:0:0:</channel><!-- MTV DANCE -->
 <!-- 28.2E --><channel id="MTVHits.uk">1:0:1:C796:815:2:11A0000:0:0:0:</channel><!-- MTV HITS -->
 <!-- 28.2E --><channel id="MTVMusic.uk">1:0:1:C797:815:2:11A0000:0:0:0:</channel><!-- MTV Music -->
 <!-- 28.2E --><channel id="MTVMusicPlus1.uk">1:0:1:1A4A:834:2:11A0000:0:0:0:</channel><!-- MTV Music +1 -->
 <!-- 28.2E --><channel id="MTVplus1.uk">1:0:1:1A43:834:2:11A0000:0:0:0:</channel><!-- MTV+1 -->
-<!-- 28.2E --><channel id="MTVRocks.uk">1:0:1:1A42:834:2:11A0000:0:0:0:</channel><!-- MTV ROCKS -->
 <!-- 28.2E --><channel id="MUTV.uk">1:0:1:FF1:7DB:2:11A0000:0:0:0:</channel><!-- MUTV HD -->
 <!-- 28.2E --><channel id="MUTV.uk">1:0:19:D7EA:82C:2:11A0000:0:0:0:</channel><!-- MUTV HD -->
 <!-- 28.2E --><channel id="MUTV.uk">1:0:19:FF0:7ED:2:11A0000:0:0:0:</channel><!-- MUTV HD -->
@@ -15182,12 +15165,10 @@
 <!-- Cable --><channel id="MTV.uk">1:0:19:F3F:27:F020:FFFF0000:0:0:0:</channel><!-- MTV HD -->
 <!-- Cable --><channel id="MTVBase.uk">1:0:1:192:4:F020:FFFF0000:0:0:0:</channel><!-- MTV BASE -->
 <!-- Cable --><channel id="MTVBeats.uk">1:0:1:714:12:F020:FFFF0000:0:0:0:</channel><!-- MTV Beats -->
-<!-- Cable --><channel id="MTVDance.uk">1:0:1:193:4:F020:FFFF0000:0:0:0:</channel><!-- MTV DANCE -->
 <!-- Cable --><channel id="MTVHits.uk">1:0:1:194:4:F020:FFFF0000:0:0:0:</channel><!-- MTV HITS -->
 <!-- Cable --><channel id="MTVLiveHD.eu">1:0:19:B57:1D:F020:FFFF0000:0:0:0:</channel><!-- MTV Live HD -->
 <!-- Cable --><channel id="MTVMusic.uk">1:0:1:196:4:F020:FFFF0000:0:0:0:</channel><!-- MTV Music -->
 <!-- Cable --><channel id="MTVOMG.uk">1:0:1:199:4:F020:FFFF0000:0:0:0:</channel><!-- MTV OMG -->
-<!-- Cable --><channel id="MTVRocks.uk">1:0:1:19A:4:F020:FFFF0000:0:0:0:</channel><!-- MTV ROCKS -->
 <!-- Cable --><channel id="MUTV.uk">1:0:1:143:3:F020:FFFF0000:0:0:0:</channel><!-- MUTV -->
 <!-- Cable --><channel id="MUTV.uk">1:0:1:7DE:14:F020:FFFF0000:0:0:0:</channel><!-- MUTV -->
 <!-- Cable --><channel id="My5.uk">1:0:1:322:8:F020:FFFF0000:0:0:0:</channel><!-- My5 -->
