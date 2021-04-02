@@ -3247,7 +3247,7 @@
 <!-- 19.2E --><channel id="SkyCinemaPlus24.de">1:0:19:87:B:85:C00000:0:0:0:</channel><!-- Sky Cinema+24 HD -->
 <!-- 19.2E --><channel id="SkyCinemaSpecial.de">1:0:19:6F:D:85:C00000:0:0:0:</channel><!-- Sky Cinema Best Of 2019 HD -->
 <!-- 19.2E --><channel id="SkyCinemaThriller.de">1:0:19:B:4:85:C00000:0:0:0:</channel><!-- Sky Cinema Thriller -->
-<!-- 19.2E --><channel id="SkyComedy.de">1:0:16:8:3:85:C00000:0:0:0:</channel><!-- Sky Comedy -->
+<!-- 19.2E --><channel id="SkyCinemaFun.de">1:0:16:8:3:85:C00000:0:0:0:</channel><!-- Sky Cinema Fun  -->
 <!-- 19.2E --><channel id="SkyComedy.de">1:0:19:E:2:85:C00000:0:0:0:</channel><!-- Sky Comedy -->
 <!-- 19.2E --><channel id="SkyCrime.de">1:0:19:D:6:85:C00000:0:0:0:</channel><!-- Sky Crime -->
 <!-- 19.2E --><channel id="SkyKrimi.de">1:0:19:17:4:85:C00000:0:0:0:</channel><!-- Sky Krimi -->
@@ -4919,14 +4919,14 @@
 <!-- 19.2E --><channel id="LA2.es">1:0:1:7474:3F0:1:C00000:0:0:0:</channel><!-- LA 2 -->
 <!-- 19.2E --><channel id="LaLigaTVBar.es">1:0:1:7793:424:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar -->
 <!-- 19.2E --><channel id="LaLigaTVBar.es">1:0:19:7859:41A:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar -->
-<!-- 19.2E --><channel id="LaLigaTVBar1.es">1:0:1:76C5:40E:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar 1 -->
+
 <!-- 19.2E --><channel id="LaLigaTVBar2.es">1:0:1:769A:41E:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar 2 -->
 <!-- 19.2E --><channel id="LaLigaTVBar3.es">1:0:1:7574:412:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar 3 -->
 <!-- 19.2E --><channel id="LaLigaTVBar4.es">1:0:1:7582:412:1:C00000:0:0:0:</channel><!-- LaLiga TV Bar 4 -->
 <!-- 19.2E --><channel id="LaSexta.sp">1:0:1:74A6:41C:1:C00000:0:0:0:</channel><!-- LA SEXTA HD -->
 <!-- 19.2E --><channel id="LaSexta.sp">1:0:19:7537:426:1:C00000:0:0:0:</channel><!-- LA SEXTA HD -->
 <!-- 19.2E --><channel id="M.CineDocRoll.es">1:0:19:78BF:3EC:1:C00000:0:0:0:</channel><!-- M. Cine Doc and Roll -->
-<!-- 19.2E --><channel id="M.Crimen.es">1:0:1:749D:41C:1:C00000:0:0:0:</channel><!-- M. Crimen -->
+<!-- 19.2E --><channel id="MovistarOscars.es">1:0:1:749D:41C:1:C00000:0:0:0:</channel><!-- M. Oscars -->
 <!-- 19.2E --><channel id="M.eSports.sp">1:0:1:76C5:40E:1:C00000:0:0:0:</channel><!-- M. ESPORTS -->
 <!-- 19.2E --><channel id="M.LaLiga.es">1:0:1:7797:424:1:C00000:0:0:0:</channel><!-- M. LaLiga -->
 <!-- 19.2E --><channel id="M.LaLiga.es">1:0:19:750F:420:1:C00000:0:0:0:</channel><!-- M. LaLiga -->
@@ -4964,7 +4964,7 @@
 <!-- 19.2E --><channel id="MLigadeCampeones6.es">1:0:1:757C:412:1:C00000:0:0:0:</channel><!-- M. Liga de Campeones 6 -->
 <!-- 19.2E --><channel id="MLigadeCampeones7.es">1:0:1:7583:412:1:C00000:0:0:0:</channel><!-- M. Liga de Campeones 7 -->
 <!-- 19.2E --><channel id="MLigadeCampeones8.es">1:0:1:7576:412:1:C00000:0:0:0:</channel><!-- M. Liga de Campeones 8 -->
-<!-- 19.2E --><channel id="MovistarDisney.es"></channel><!-- Movistar Disney -->
+
 <!-- 19.2E --><channel id="MovistarFormula1.es">1:0:1:74A4:41C:1:C00000:0:0:0:</channel><!-- MOVISTAR F1 -->
 <!-- 19.2E --><channel id="MovistarFormula1.es">1:0:19:7531:426:1:C00000:0:0:0:</channel><!-- MOVISTAR F1 HD -->
 <!-- 19.2E --><channel id="MTVEsp.es">1:0:1:74A2:41C:1:C00000:0:0:0:</channel><!-- MTV -->
