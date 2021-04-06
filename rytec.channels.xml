@@ -5010,6 +5010,7 @@
 <!-- 19.2E --><channel id="Viajar.es">1:0:1:76C9:40E:1:C00000:0:0:0:</channel><!-- Viajar -->
 <!-- 19.2E --><channel id="Viajar.es">1:0:19:7884:414:1:C00000:0:0:0:</channel><!-- Viajar -->
 <!-- 30.0W --><channel id="AandE.es">1:0:1:12:6:6:CE40000:0:0:0:</channel><!-- AE -->
+<!-- 30.0W --><channel id="AragonTV.es">1:0:19:27B2:3E9:22D4:CE40000:0:0:0:</channel><!-- Aragón Televisión -->
 <!-- 30.0W --><channel id="AMC.es">1:0:1:1:6:6:CE40000:0:0:0:</channel><!-- AMC -->
 <!-- 30.0W --><channel id="CanalExtremadura.es">1:0:1:4:F:2:CE4AA8A:0:0:0:</channel><!-- EXTREMADURA TV -->
 <!-- 30.0W --><channel id="CanalParlamento.es">1:0:1:2:F:2:CE4AA8A:0:0:0:</channel><!-- Canal Parlamento -->
@@ -9610,7 +9611,7 @@
 <!-- Cable --><channel id="MotorVision.eu">1:0:19:1473:13A5:3E8:FFFF0000:0:0:0:</channel><!-- Motors TV -->
 <!-- Cable --><channel id="mtv.nl">1:0:1:19:1395:3E8:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="MTV80s.eu">1:0:1:142E:139D:3E8:FFFF0000:0:0:0:</channel><!-- MTV 80s -->
-<!-- Cable --><channel id="MTVBrandNew.nl">1:0:1:140B:1399:3E8:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
+<!-- Cable --><channel id="MTVHits.eu">1:0:1:140B:1399:3E8:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
 <!-- Cable --><channel id="MTVMusic.eu">1:0:1:140C:1399:3E8:FFFF0000:0:0:0:</channel><!-- MTV Music 24 -->
 <!-- Cable --><channel id="ndr.de">1:0:1:1431:139D:3E8:FFFF0000:0:0:0:</channel><!-- NDR -->
 <!-- Cable --><channel id="ndr.de">1:0:1:264:13AC:3E8:FFFF0000:0:0:0:</channel><!-- NDR -->
@@ -9801,7 +9802,7 @@
 <!-- Cable --><channel id="mtv.nl">1:0:19:C1E:1F:10EF:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="MTV80s.eu">1:0:1:4270:11:10EF:FFFF0000:0:0:0:</channel><!-- MTV 80s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:426C:11:10EF:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
-<!-- Cable --><channel id="MTVBrandNew.nl">1:0:1:4269:11:10EF:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
+<!-- Cable --><channel id="MTVHits.eu">1:0:1:4269:11:10EF:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
 <!-- Cable --><channel id="Nautical.eu">1:0:1:135:3:10EF:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="ndr.de">1:0:1:324:8:10EF:FFFF0000:0:0:0:</channel><!-- NDR -->
 <!-- Cable --><channel id="NET5.nl">1:0:1:69:1:10EF:FFFF0000:0:0:0:</channel><!-- NET 5 -->
@@ -10115,7 +10116,7 @@
 <!-- Cable --><channel id="mtv.nl">1:0:1:4BF9:834:600:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="mtv.nl">1:0:19:4BA3:817:600:FFFF0000:0:0:0:</channel><!-- MTV HD -->
 <!-- Cable --><channel id="MTV80s.eu">1:0:1:4B36:810:600:FFFF0000:0:0:0:</channel><!-- MTV 80s -->
-<!-- Cable --><channel id="MTVBrandNew.nl">1:0:1:4C1E:836:600:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
+<!-- Cable --><channel id="MTVHits.eu">1:0:1:4C1E:836:600:FFFF0000:0:0:0:</channel><!-- MTV BrandNew -->
 <!-- Cable --><channel id="MTVLiveHD.eu">1:0:19:4E3D:802:600:FFFF0000:0:0:0:</channel><!-- MTV Live HD -->
 <!-- Cable --><channel id="MTVMusic.eu">1:0:1:4B68:814:600:FFFF0000:0:0:0:</channel><!-- MTV Music 24 -->
 <!-- Cable --><channel id="MyZen.nl">1:0:19:4E57:803:600:FFFF0000:0:0:0:</channel><!-- myZen.tv HD -->
@@ -10299,7 +10300,7 @@
 <!-- 0.8W --><channel id="FEM.no">1:0:19:4353:4:46:E080000:0:0:0:</channel><!-- FEM -->
 <!-- 0.8W --><channel id="FOX.no">1:0:1:427C:A:46:E080000:0:0:0:</channel><!-- FOX (N) -->
 <!-- 0.8W --><channel id="FOX.no">1:0:1:9D4:A:46:E080000:0:0:0:</channel><!-- FOX (N) -->
-<!-- 0.8W --><channel id="FOX.no">1:0:19:446:18:46:E080000:0:0:0:</channel><!-- FOX HD -->
+
 <!-- 0.8W --><channel id="H2.no">1:0:19:1C16:29:46:E080000:0:0:0:</channel><!-- H2 HD -->
 <!-- 0.8W --><channel id="H2.no">1:0:19:1C1F:29:46:E080000:0:0:0:</channel><!-- H2 HD -->
 <!-- 0.8W --><channel id="HistoryChannelHD.no">1:0:1:1E87:14:46:E080000:0:0:0:</channel><!-- History Chnl HD - Europe -->
@@ -10408,7 +10409,7 @@
 <!-- 0.8W --><channel id="ViasatSeries.no">1:0:19:1161:1C:46:E080000:0:0:0:</channel><!-- Viasat Series -->
 <!-- 0.8W --><channel id="ViasatSeries.no">1:0:19:43B3:1C:46:E080000:0:0:0:</channel><!-- Viasat Series -->
 <!-- 0.8W --><channel id="ViasatUltra.no">1:0:19:1BB0:4B:46:E080000:0:0:0:</channel><!-- Viasat Ultra -->
-<!-- 0.8W --><channel id="ViasatUltra.no">1:0:19:1BB0:50:46:E080000:0:0:0:</channel><!-- Viasat Ultra -->
+<!-- 0.8W --><channel id="ViasatUltra.no">1:0:19:1F34:23:46:E080000:0:0:0:</channel><!-- Viasat Ultra -->
 <!-- 0.8W --><channel id="Viasport+.no">1:0:19:1C0A:4E:46:E080000:0:0:0:</channel><!-- Viasport+ -->
 <!-- 0.8W --><channel id="Viasport1.no">1:0:19:1D74:3E:46:E080000:0:0:0:</channel><!-- Viasport 1 HD -->
 <!-- 0.8W --><channel id="Viasport2.no">1:0:19:1B73:4E:46:E080000:0:0:0:</channel><!-- Viasport2 -->
@@ -12251,10 +12252,12 @@
 <!-- 0.8W --><channel id="TV4.se">1:0:1:A97:1B:46:E080000:0:0:0:</channel><!-- TV4 -->
 <!-- 0.8W --><channel id="TV4.se">1:0:19:467F:E:46:E080000:0:0:0:</channel><!-- TV4 HD -->
 <!-- 0.8W --><channel id="TV4.se">1:0:19:57D:E:46:E080000:0:0:0:</channel><!-- TV4 HD -->
+<!-- 0.8W --><channel id="TV4Fakta.se">1:0:1:4298:1:46:E080000:0:0:0:</channel><!-- TV4 Fakta -->
 <!-- 0.8W --><channel id="TV4Fakta.se">1:0:16:1B88:1:46:E080000:0:0:0:</channel><!-- TV4 Fakta -->
 <!-- 0.8W --><channel id="TV4FaktaXL.se">1:0:16:1BAE:42:46:E080000:0:0:0:</channel><!-- TV4 Fakta XL -->
 <!-- 0.8W --><channel id="TV4FaktaXL.se">1:0:16:1C44:30:46:E080000:0:0:0:</channel><!-- TV4 Fakta XL -->
 <!-- 0.8W --><channel id="TV4FaktaXL.se">1:0:16:4669:30:46:E080000:0:0:0:</channel><!-- TV4 Fakta XL -->
+<!-- 0.8W --><channel id="TV4Film.se">1:0:1:4299:1:46:E080000:0:0:0:</channel><!-- TV4 Film -->
 <!-- 0.8W --><channel id="TV4Film.se">1:0:16:1B89:1:46:E080000:0:0:0:</channel><!-- TV4 Film -->
 <!-- 0.8W --><channel id="TV4Guld.se">1:0:16:1B87:1:46:E080000:0:0:0:</channel><!-- TV4 Guld -->
 <!-- 0.8W --><channel id="TV4Komedi.se">1:0:1:1BFE:1B:46:E080000:0:0:0:</channel><!-- TV4 Komedi -->
