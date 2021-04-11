@@ -6122,6 +6122,7 @@
 <!-- 13.0E --><channel id="RTLTVI.be">1:0:1:12D6:2E7C:13E:820000:0:0:0:</channel><!-- RTL-TVi HD -->
 <!-- 13.0E --><channel id="RTLTVI.be">1:0:19:4211:2F44:13E:820000:0:0:0:</channel><!-- RTL-TVi HD -->
 <!-- 13.0E --><channel id="ScienceVie.fr">1:0:1:1CF:26AC:13F:820000:0:0:0:</channel><!-- Science et Vie -->
+<!-- 13.0E --><channel id="Franceinfo.fr">1:0:1:1A3:26AC:13F:820000:0:0:0:</channel><!-- France Info -->
 <!-- 13.0E --><channel id="TeleMelody.fr">1:0:1:1FB7:2454:13E:820000:0:0:0:</channel><!-- TELE MELODY -->
 <!-- 13.0E --><channel id="TeleTOON.fr">1:0:1:1FB0:2454:13E:820000:0:0:0:</channel><!-- TELETOON+ -->
 <!-- 13.0E --><channel id="Teva.fr">1:0:1:1D2:26AC:13F:820000:0:0:0:</channel><!-- TEVA -->
@@ -7377,8 +7378,8 @@
 <!-- 0.8W --><channel id="CartoonNetwork.hu">1:0:1:797E:2C7:600:E080000:0:0:0:</channel><!-- Cartoon Network Central & Eastern Europe -->
 <!-- 0.8W --><channel id="CartoonNetworkTCM.hu">1:0:1:7852:2C4:600:E080000:0:0:0:</channel><!-- Cartoon Network / TCM -->
 <!-- 0.8W --><channel id="CartoonNetworkTCM(3-21).hu">1:0:1:797E:2C7:600:E080000:0:0:0:</channel><!-- Cartoon Network / TCM (3-21) -->
-<!-- 0.8W --><channel id="ChiliTV.hu">1:0:1:766F:2BF:600:E080000:0:0:0:</channel><!-- Chili -->
-<!-- 0.8W --><channel id="ChiliTV.hu">1:0:1:7673:2BF:600:E080000:0:0:0:</channel><!-- Chili -->
+<!-- 0.8W --><channel id="TV2Séf.hu">1:0:1:766F:2BF:600:E080000:0:0:0:</channel><!-- TV2 Séf -->
+<!-- 0.8W --><channel id="TV2Séf.hu">1:0:1:7673:2BF:600:E080000:0:0:0:</channel><!-- TV2 Séf -->
 <!-- 0.8W --><channel id="Cinemax.hu">1:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- Cinemax -->
 <!-- 0.8W --><channel id="Cinemax2.hu">1:0:1:78C2:2C5:600:E080000:0:0:0:</channel><!-- Cinemax2 -->
 <!-- 0.8W --><channel id="ComedyCentral.hu">1:0:1:1F7:1B:2C0:E080000:0:0:0:</channel><!-- Comedy Central Hungary -->
@@ -7525,6 +7526,8 @@
 <!-- 0.8W --><channel id="Nickelodeon.hu">1:0:1:77AC:2C2:600:E080000:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 0.8W --><channel id="Nickelodeon.hu">1:0:1:77CA:2C2:600:E080000:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 0.8W --><channel id="NickJr.hu">1:0:1:3F0:5:1111:E082DE3:0:0:0:</channel><!-- Nick JR Hungary -->
+<!-- 0.8W --><channel id="Nicktoons.hu">1:0:1:77B2:2C2:600:E080000:0:0:0:</channel><!-- Nicktoons -->
+<!-- 0.8W --><channel id="Nicktoons.hu">1:0:1:77D0:2C2:600:E080000:0:0:0:</channel><!-- Nicktoons -->
 <!-- 0.8W --><channel id="NickJr.hu">1:0:1:77AD:2C2:600:E080000:0:0:0:</channel><!-- Nick JR Hungary -->
 <!-- 0.8W --><channel id="NickJr.hu">1:0:1:77CB:2C2:600:E080000:0:0:0:</channel><!-- Nick JR Hungary -->
 <!-- 0.8W --><channel id="no_epg_music">1:0:1:79F0:2C8:600:E080000:0:0:0:</channel><!-- MTV Music -->
@@ -7542,9 +7545,9 @@
 <!-- 0.8W --><channel id="RTLKlub.hu">1:0:19:7728:2C1:600:E080000:0:0:0:</channel><!-- RTL Klub HD -->
 <!-- 0.8W --><channel id="RTLplus.hu">1:0:1:79ED:2C8:600:E080000:0:0:0:</channel><!-- RTL+ -->
 <!-- 0.8W --><channel id="RTLplus.hu">1:0:1:79F9:2C8:600:E080000:0:0:0:</channel><!-- RTL+ -->
-<!-- 0.8W --><channel id="RTLSpike.hu">1:0:1:1B6B:28:46:E080000:0:0:0:</channel><!-- RTL Spike -->
-<!-- 0.8W --><channel id="RTLSpike.hu">1:0:1:77AB:2C2:600:E080000:0:0:0:</channel><!-- RTL Spike -->
-<!-- 0.8W --><channel id="RTLSpike.hu">1:0:1:77BF:2C2:600:E080000:0:0:0:</channel><!-- RTL Spike -->
+
+<!-- 0.8W --><channel id="TeenNick.hu">1:0:1:77AB:2C2:600:E080000:0:0:0:</channel><!-- Teen Nick -->
+<!-- 0.8W --><channel id="TeenNick.hu">1:0:1:77BF:2C2:600:E080000:0:0:0:</channel><!-- Teen Nick -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:1:100E:3:1:E082F62:0:0:0:</channel><!-- Slager TV -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:1:7859:2C4:600:E080000:0:0:0:</channel><!-- Slager TV -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:1:7985:2C7:600:E080000:0:0:0:</channel><!-- Slager TV -->
