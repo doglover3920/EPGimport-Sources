@@ -6250,6 +6250,7 @@
 <!-- 19.2E --><channel id="MCM.fr">1:0:19:220A:44C:1:C00000:0:0:0:</channel><!-- MCM HD -->
 <!-- 19.2E --><channel id="Mezzo.fr">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO HD -->
 <!-- 19.2E --><channel id="MezzoLiveHD.fr">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
+<!-- 19.2E --><channel id="MTVHits.fr">1:0:19:1F43:42E:1:C00000:0:0:0:</channel><!-- MTV HITS -->
 <!-- 19.2E --><channel id="MTV.fr">1:0:19:1F44:42E:1:C00000:0:0:0:</channel><!-- MTV FRANCE HD -->
 <!-- 19.2E --><channel id="MULTISPORTS1.fr">1:0:19:1F4D:42E:1:C00000:0:0:0:</channel><!-- MULTISPORTS 1 -->
 <!-- 19.2E --><channel id="MULTISPORTS2.fr">1:0:19:22D1:434:1:C00000:0:0:0:</channel><!-- MULTISPORTS 2 -->
@@ -6955,8 +6956,8 @@
 <!-- 0.8W --><channel id="TLC.hr">1:0:1:3:65:1771:E080000:0:0:0:</channel><!-- TLC -->
 <!-- 0.8W --><channel id="TLC.hr">1:0:1:320:1:5E:30B048:0:0:0:</channel><!-- TLC -->
 <!-- 0.8W --><channel id="TravelChannel.hr">1:0:1:A5A:7:1:E08313F:0:0:0:</channel><!-- Travel -->
-<!-- 0.8W --><channel id="TV1.hr">1:0:1:8:1:1:DE82D6C:0:0:0:</channel><!-- TV1 -->
-<!-- 0.8W --><channel id="TV1.hr">1:0:1:8:1:1:DE82D6D:0:0:0:</channel><!-- TV1 (AMOS 4W) -->
+<!-- 0.8W --><channel id="">1:0:1:8:1:1:DE82D6C:0:0:0:</channel><!-- TV1 -->
+<!-- 0.8W --><channel id="">1:0:1:8:1:1:DE82D6D:0:0:0:</channel><!-- TV1 (AMOS 4W) -->
 <!-- 0.8W --><channel id="TV1000.hr">1:0:1:62C:2:1:E0831B3:0:0:0:</channel><!-- TV1000 -->
 <!-- 0.8W --><channel id="Universal.hr">1:0:1:555:4:1:E0830EF:0:0:0:</channel><!-- Universal Channel -->
 <!-- 0.8W --><channel id="ViasatExplorer.hr">1:0:1:54A:3:1:E083163:0:0:0:</channel><!-- Viasat Explorer -->
@@ -7272,7 +7273,7 @@
 <!-- 16.0E --><channel id="TLC.hr">1:0:1:58B:765C:16E:A00000:0:0:0:</channel><!-- TLC -->
 <!-- 16.0E --><channel id="TravelChannel.hr">1:0:1:552:75FB:16E:A00000:0:0:0:</channel><!-- Travel -->
 <!-- 16.0E --><channel id="TravelXP.hr">1:0:19:772:C6D4:16E:A00000:0:0:0:</channel><!-- Travelxp HD -->
-<!-- 16.0E --><channel id="TV1.ba">1:0:1:8:1:1:A0B147:0:0:0:</channel><!-- RTV Mostar -->
+<!-- 16.0E --><channel id="">1:0:1:8:1:1:A0B147:0:0:0:</channel><!-- RTV Mostar -->
 <!-- 16.0E --><channel id="TV1000.hr">1:0:1:363:C3B4:16E:A00000:0:0:0:</channel><!-- TV1000 -->
 <!-- 16.0E --><channel id="TV1000.hr">1:0:1:517:75F9:16E:A00000:0:0:0:</channel><!-- TV1000 -->
 <!-- 16.0E --><channel id="TV1000.hr">1:0:16:718:C5A8:16E:A00000:0:0:0:</channel><!-- TV1000 -->
@@ -8142,9 +8143,11 @@
 <!-- Cable --><channel id="W.uk">1:0:1:3ED:3C:601:FFFF0000:0:0:0:</channel><!-- Watch -->
 <!-- Cable --><channel id="ZeeTV.uk">1:0:1:51E:3F:601:FFFF0000:0:0:0:</channel><!-- Zee TV -->
 <!-- Cable --><channel id="">1:0:1:204:37:601:FFFF0000:0:0:0:</channel><!-- PPV Channel 2 -->
-<!-- 0.8W --><channel id="Ras1.is">1:0:2:AFD:22:46:E080000:0:0:0:</channel><!-- Ras 1 -->
-<!-- 0.8W --><channel id="Ras2.is">1:0:2:AFE:22:46:E080000:0:0:0:</channel><!-- Ras 2 -->
-<!-- 0.8W --><channel id="RUV.is">1:0:1:AFC:22:46:E080000:0:0:0:</channel><!-- RUV -->
+<!-- 0.8W --><channel id="Ras1.is">1:0:2:AFD:22:46:E080000:0:0:0:http%3A//example.m3u8</channel><!-- Ras 1 -->
+<!-- 0.8W --><channel id="N4.is">4097:0:1:4:0:341:0:0:0:0:http%3A//example.m3u8</channel><!-- N4 -->
+<!-- 0.8W --><channel id="">4097:0:1:2:0:341:0:0:0:0:http%3A//example.m3u8</channel><!-- RUV 2 -->
+<!-- 0.8W --><channel id="Ras2.is">1:0:2:AFE:22:46:E080000:0:0:0:http%3A//example.m3u8</channel><!-- Ras 2 -->
+<!-- 0.8W --><channel id="RUV.is">1:0:1:AFC:22:46:E080000:0:0:0:http%3A//example.m3u8</channel><!-- RUV -->
 <!-- 13.0E --><channel id="20Mediaset.it">1:0:1:78:4B0:110:820000:0:0:0:</channel><!-- 20 Mediaset -->
 <!-- 13.0E --><channel id="20Mediaset.it">1:0:1:F:1770:110:820000:0:0:0:</channel><!-- 20 Mediaset -->
 <!-- 13.0E --><channel id="20Mediaset.it">1:0:19:78:4B0:110:820000:0:0:0:</channel><!-- 20 Mediaset -->
@@ -9180,7 +9183,7 @@
 <!-- 19.2E --><channel id="EdgeSport.nl">1:0:19:1197:406:1:C00000:0:0:0:</channel> <!-- EDGE HD -->
 <!-- 19.2E --><channel id="MTV80s.eu">1:0:1:6FF1:436:1:C00000:0:0:0:</channel><!-- MTV 80s -->
 <!-- 19.2E --><channel id="MTVHits.eu">1:0:1:6FEE:436:1:C00000:0:0:0:</channel><!-- MTV Hits -->
-<!-- 19.2E --><channel id="MTVHits.eu">1:0:19:1F43:42E:1:C00000:0:0:0:</channel><!-- MTV HITS -->
+
 <!-- 19.2E --><channel id="MTVMusic.eu">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Music 24 -->
 <!-- 19.2E --><channel id="VH1.eu">1:0:1:6FF0:436:1:C00000:0:0:0:</channel><!-- VH1 -->
 <!-- 23.5E --><channel id="CBSReality.eu">1:0:16:3C33:C90:3:EB0000:0:0:0:</channel><!-- CBS Reality -->
@@ -9518,6 +9521,7 @@
 <!-- 45.0E --><channel id="SkyNewsInt.eu">1:0:19:D8:2:D5:1C20000:0:0:0:</channel> <!-- Sky News International -->
 <!-- 45.0E --><channel id="TRTworld.nws">1:0:19:138D:6:D5:1C20000:0:0:0:</channel> <!-- TRT World -->
 <!-- 45.0E --><channel id="TV5MondeEurope.fr">1:0:19:13AA:6:D5:1C20000:0:0:0:</channel> <!-- TV5 Monde Europe -->
+<!-- 5.0W --><channel id="RTFrance.fr">1:0:19:728:2904:55F:DDE0000:0:0:0:</channel><!-- RT France -->
 <!-- 5.0W --><channel id="no_epg_news">1:0:16:1AC:4FB0:55F:DDE0000:0:0:0:</channel><!-- Russia Today (fr) -->
 <!-- 7E/9.0E/16E --><channel id="CGTN.cn">1:0:11:208A:52D0:7E:460000:0:0:0:</channel><!-- CCTV News -->
 <!-- 9.0E --><channel id="BBCWorldNews.nws">1:0:16:EC:1644:9C:5A0000:0:0:0:</channel><!-- BBC World News Europe -->
