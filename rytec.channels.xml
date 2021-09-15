@@ -3037,6 +3037,8 @@
 <!-- 13.0E --><channel id="AnixeSerie.de">1:0:19:E80:3200:13E:820000:0:0:0:</channel><!-- Anixe Serie HD -->
 <!-- 13.0E --><channel id="DeutscheWelleEN.de">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW -->
 <!-- 13.0E --><channel id="ZDF.de">1:0:1:64F:6:64:DE80000:0:0:0:</channel><!-- ZDF -->
+<!-- 13.0E --><channel id="OneMusicTelevision.de">1:0:1:E85:3200:13E:820000:0:0:0:</channel><!-- One Music Television -->
+<!-- 13.0E --><channel id="ZweiMusicTelevision.de">1:0:1:E86:3200:13E:820000:0:0:0:</channel><!-- Zwei Music Television -->
 <!-- 19.2E --><channel id="123.tv.de">1:0:1:296:5:85:C00000:0:0:0:</channel><!-- 1-2-3.tv -->
 <!-- 19.2E --><channel id="123.tv.de">1:0:19:157E:41F:1:C00000:0:0:0:</channel><!-- 1-2-3.tv HD -->
 <!-- 19.2E --><channel id="13thStreet.de">1:0:19:7F:D:85:C00000:0:0:0:</channel><!-- 13th Street HD -->
@@ -7863,6 +7865,11 @@
 <!-- IPTV --><channel id="CanalSavoir.fr">4097:0:1:2:0:1:0:0:0:0:http%3a//</channel><!-- Canal savoir -->
 <!-- IPTV --><channel id="CHCH.cdn">4097:0:1:10:0:1:0:0:0:0:http%3a//</channel><!-- ChChing -->
 <!-- IPTV --><channel id="BeCuriousTV.ch">4097:0:1:16:1:41:0:0:0:0:http%3a//</channel><!-- BeCurious TV -->
+<!-- IPTV --><channel id="HelvetiaOneTV.ch">1:0:1:6BF0:6AD4:EC:0:0:0:0:http%3a//</channel><!-- Helvetia One TV -->
+<!-- IPTV --><channel id="musig24.ch">1:0:1:711A:71F4:EC:0:0:0:0:http%3a//</channel><!-- Musig24 -->
+<!-- IPTV --><channel id="SwissSportTV.ch">1:0:1:88AA:75CE:EC:0:0:0:0:http%3a//</channel><!-- Swiss Sport TV -->
+<!-- IPTV --><channel id="WetterTV.ch">1:0:1:DA5C:7689:EC:0:0:0:0::http%3a//</channel><!-- Wetter.TV -->
+<!-- IPTV --><channel id="Kanal9.ch">1:0:1:FF57:A9E8:EC:0:0:0:0:http%3a//</channel><!-- Kanal 9 -->
 <!-- IPTV --><channel id="Canal9.ch">4097:0:1:1:1:41:0:0:0:0:http%3a//</channel><!-- Canal 9 -->
 <!-- IPTV --><channel id="Canal9.ch">4097:0:1:11:1:41:0:0:0:0:http%3a//</channel><!-- Canal 9 Sierre -->
 <!-- IPTV --><channel id="CanalAlphaJU.ch">4097:0:1:20:1:41:0:0:0:0:http%3a//</channel><!-- Canal Alpha Jura -->
@@ -11674,7 +11681,7 @@
 <!-- Cable --><channel id="TVN.pl">1:0:19:961:18:601:FFFF0000:0:0:0:</channel><!-- TVN HD -->
 <!-- Cable --><channel id="TVN24.pl">1:0:19:AF4:1C:601:FFFF0000:0:0:0:</channel><!-- TVN24 HD -->
 <!-- Cable --><channel id="TVN7.pl">1:0:19:B56:1D:601:FFFF0000:0:0:0:</channel><!-- TVN7 HD -->
-<!-- Cable --><channel id="TVNCNBCBiznes.pl">1:0:1:6AC:11:601:FFFF0000:0:0:0:</channel><!-- TVN 24 Biznes i ÂSwia -->
+
 <!-- Cable --><channel id="TVNCNBCBiznes.pl">1:0:19:6AC:11:601:FFFF0000:0:0:0:</channel><!-- TVN24 BiS HD -->
 <!-- Cable --><channel id="TVNFabula.pl">1:0:19:AF6:1C:601:FFFF0000:0:0:0:</channel><!-- TVN Fabuøa -->
 <!-- Cable --><channel id="TVNStyle.pl">1:0:19:B57:1D:601:FFFF0000:0:0:0:</channel><!-- TVN Style HD -->
