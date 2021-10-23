@@ -2725,6 +2725,7 @@
 <!-- 16.0E --><channel id="JOJ.sk">1:0:19:7D4:9E98:16E:A00000:0:0:0:</channel><!-- TV JOJ HD -->
 <!-- 16.0E --><channel id="JOJCinema.cz">1:0:19:4C2:76C1:16E:A00000:0:0:0:</channel><!-- JOJ Cinema HD -->
 <!-- 16.0E --><channel id="JOJCinema.cz">1:0:1F:4C5:76C1:16E:A00000:0:0:0:</channel><!-- JOJ Cinema HD -->
+<!-- 16.0E --><channel id="JOJSport.sk">1:0:19:25A:C418:16E:A00000:0:0:0:</channel><!-- JOJ Sport -->
 <!-- 16.0E --><channel id="Jojko.sk">1:0:16:4C9:76C1:16E:A00000:0:0:0:</channel><!-- Jojko -->
 <!-- 16.0E --><channel id="JOJPlus.sk">1:0:16:45C:526C:16E:A00000:0:0:0:</channel><!-- JOJ Plus -->
 <!-- 16.0E --><channel id="JOJPlus.sk">1:0:19:7D6:9E98:16E:A00000:0:0:0:</channel><!-- JOJ Plus -->
@@ -2762,7 +2763,7 @@
 <!-- 16.0E --><channel id="SpektrumHome.cz">1:0:1F:4CB:76C1:16E:A00000:0:0:0:</channel><!-- Spektrum Home -->
 <!-- 16.0E --><channel id="Sport1.cz">1:0:19:78:9F60:16E:A00000:0:0:0:</channel><!-- Sport 1 Czechia & Slovakia -->
 <!-- 16.0E --><channel id="Sport2.cz">1:0:1F:4CC:76C1:16E:A00000:0:0:0:</channel><!-- Sport 2 HD Czechia -->
-<!-- 16.0E --><channel id="TA3.sk">1:0:16:489:76C0:16E:A00000:0:0:0:</channel><!-- TA3 (24h) -->
+
 <!-- 16.0E --><channel id="TA3.sk">1:0:19:7DC:9E98:16E:A00000:0:0:0:</channel><!-- TA3 (24h) -->
 <!-- 16.0E --><channel id="TELKA.cz"></channel><!-- Telka -->
 <!-- 16.0E --><channel id="TLC.cz">1:0:16:74:9F60:16E:A00000:0:0:0:</channel><!-- TLC -->
@@ -8390,8 +8391,8 @@
 <!-- 13.0E --><channel id="Canale5.it">1:0:1:2:1770:110:820000:0:0:0:</channel><!-- Canale 5 -->
 <!-- 13.0E --><channel id="Canale5.it">1:0:19:7A:4B0:110:820000:0:0:0:</channel><!-- Canale 5 -->
 <!-- 13.0E --><channel id="Cartoonito.it">1:0:16:85:4B0:110:820000:0:0:0:</channel><!-- Cartoonito -->
-<!-- 13.0E --><channel id="Cielo.it">1:0:19:1018:1A90:FBFF:820000:0:0:0:</channel><!-- cielo -->
-<!-- 13.0E --><channel id="Cielo.it">1:0:19:1018:1A90:FBFF:82AF29:0:0:0:</channel><!-- cielo HD -->
+<!-- 13.0E --><channel id="Cielo.it">1:0:19:1018:1D4C:FBFF:820000:0:0:0:</channel><!-- cielo -->
+
 <!-- 13.0E --><channel id="Cine34.it">1:0:16:6F:4B0:110:820000:0:0:0:</channel><!-- Cine 34 -->
 <!-- 13.0E --><channel id="ClassTVModa.it">1:0:1:2C2A:1AF4:FBFF:820000:0:0:0:</channel><!-- Class TV Moda -->
 <!-- 13.0E --><channel id="DMAX.it">1:0:19:37AD:1AF4:FBFF:820000:0:0:0:</channel><!-- DMAX HD -->
@@ -8507,8 +8508,8 @@
 <!-- 13.0E --><channel id="Tgnorba24.it">1:0:1:E2C:708:C8:820000:0:0:0:</channel><!-- TG24 Norba -->
 <!-- 13.0E --><channel id="TopCrime.it">1:0:16:84:4B0:110:820000:0:0:0:</channel><!-- Top Crime -->
 <!-- 13.0E --><channel id="TV2000.it">1:0:19:2BAC:1AF4:FBFF:820000:0:0:0:</channel><!-- TV2000 -->
-<!-- 13.0E --><channel id="Tv8.it">1:0:19:1C5C:1A90:FBFF:820000:0:0:0:</channel><!-- TV 8 Italia -->
-<!-- 13.0E --><channel id="Tv8.it">1:0:19:1C5C:1A90:FBFF:82AF29:0:0:0:</channel><!-- TV 8 Italia HD -->
+<!-- 13.0E --><channel id="Tv8.it">1:0:19:1C5C:1D4C:FBFF:820000:0:0:0:</channel><!-- TV 8 Italia -->
+<!-- 13.0E --><channel id=""></channel><!-- TV 8 Italia HD -->
 <!-- 13.0E --><channel id="TVAVicenza.it">1:0:1:425C:3DB8:13E:820000:0:0:0:</channel><!-- TVA Vicenza.it -->
 <!-- 13.0E --><channel id="UNINETTUNOUniversityTV.it">1:0:1:4536:30D4:13E:820000:0:0:0:</channel><!-- Uni Nettuno university -->
 <!-- 13.0E --><channel id="UnireSat.it">1:0:1:4243:3DB8:13E:820000:0:0:0:</channel><!-- UnireSat -->
@@ -8723,6 +8724,10 @@
 <!-- DVB-T --><channel id="RadioItalia.it">1:0:1:23A:4DAF:217C:EEEE0000:0:0:0:</channel><!-- RadioItalia -->
 <!-- DVB-T --><channel id="RadioItalia.it">1:0:1:3C:200:1D:EEEE0000:0:0:0:</channel><!-- RadioItalia -->
 <!-- DVB-T --><channel id="RadionorbaTV.it">1:0:1:3:6F:217C:EEEE0000:0:0:0:</channel><!-- RadioNorba TV -->
+<!-- DVB-T --><channel id="Rai1.it">1:0:19:3EB:1:217C:EEEE0000:0:0:0:</channel><!-- RaiUno HD -->
+<!-- DVB-T --><channel id="Rai2.it">1:0:19:41C:2:217C:EEEE0000:0:0:0:</channel><!-- RaiDue HD -->
+<!-- DVB-T --><channel id="Rai3.it">1:0:19:41B:2:217C:EEEE0000:0:0:0:</channel><!-- RaiTre HD -->
+<!-- DVB-T --><channel id="RaiSportPlus.it">1:0:19:3E9:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Sport + -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:218C:4:13E:EEEE0000:0:0:0:</channel><!-- RaiUno HD -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:1:13E:EEEE0000:0:0:0:</channel><!-- RaiUno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:4800:13E:EEEE0000:0:0:0:</channel><!-- RaiUno -->
@@ -9163,7 +9168,7 @@
 <!-- DVB-T --><channel id="History.it">1:0:19:DB9:1644:FBFF:820000:0:0:0:</channel><!-- History HD -->
 <!-- DVB-T --><channel id="Joi.it">1:0:1:AB:385:110:EEEE0000:0:0:0:</channel><!-- Joi - Premium -->
 <!-- DVB-T --><channel id="LaEffe.it">1:0:1:3BCA:19C8:FBFF:820000:0:0:0:</channel><!-- LaF -->
-<!-- DVB-T --><channel id="MotorTrend.it">1:0:1:32:202:1D:EEEE0000:0:0:0:</channel><!-- Motor Trend -->
+<!-- DVB-T --><channel id="MotorTrend.it">1:0:1:2:7918:217C:EEEE0000:0:0:0:</channel><!-- Motor Trend -->
 <!-- DVB-T --><channel id="MS_Sport.it">1:0:1:21:306F:217C:EEEE0000:0:0:0:</channel><!-- MS Sport -->
 <!-- DVB-T --><channel id="MTVMusic.it">1:0:1:595:19C8:FBFF:820000:0:0:0:</channel><!-- MTV Music -->
 <!-- DVB-T --><channel id="myDeejay.it">1:0:1:2C28:19C8:FBFF:820000:0:0:0:</channel><!-- Deejay TV -->
@@ -9433,7 +9438,7 @@
 <!-- 16.0E --><channel id="MediasetItalia.int">1:0:1:391:16A:16E:A00000:0:0:0:</channel><!-- Italia 1 -->
 <!-- 16.0E --><channel id="MediasetItalia.int">1:0:16:72C:C5A8:16E:A00000:0:0:0:</channel><!-- Italia 1 -->
 <!-- 16.0E --><channel id="MTV80s.eu">1:0:16:7E:2:40:A00000:0:0:0:</channel><!-- MTV 80s -->
-<!-- 16.0E --><channel id="myZen.tv">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel><!-- Myzen -->
+<!-- 16.0E --><channel id="CroTV.hr">1:0:19:76D:C6D4:16E:A00000:0:0:0:</channel><!-- CroTV -->
 <!-- 16.0E --><channel id="TravelChannelHD.eu">1:0:19:E74:50DC:16E:A00000:0:0:0:</channel><!-- Travel channel -->
 <!-- 16.0E --><channel id="Wness.tv">1:0:16:44E:526C:16E:A00000:0:0:0:</channel><!-- Wness TV -->
 <!-- 19.2E --><channel id="EdgeSport.nl">1:0:19:1197:406:1:C00000:0:0:0:</channel> <!-- EDGE HD -->
@@ -9627,6 +9632,7 @@
 <!-- 13.0E --><channel id="qazaqtv.kz">1:0:1:29:2F44:13E:820000:0:0:0:</channel><!-- Qazaq TV -->
 <!-- 13.0E --><channel id="RaiNews.it">1:0:1:2144:3070:13E:820000:0:0:0:</channel><!-- Rai News -->
 <!-- 13.0E --><channel id="RaiNews.it">1:0:19:452F:30D4:13E:820000:0:0:0:</channel><!-- Rai News 24 HD -->
+<!-- 13.0E --><channel id="InsightUHD.eu">1:0:11:451:238C:13E:820000:0:0:0:</channel><!-- Insight UHD -->
 <!-- 13.0E --><channel id="RecordTV.eu">1:0:1:1:1F40:13E:820000:0:0:0:</channel><!-- Record TV -->
 <!-- 13.0E --><channel id="RecordTV.eu">1:0:1:35DB:1388:13E:820000:0:0:0:</channel><!-- Record TV -->
 <!-- 13.0E --><channel id="RTDocumentary.pl">1:0:1:2067:24B8:13E:820000:0:0:0:</channel><!-- RT Documentary HD -->
@@ -11380,7 +11386,7 @@
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32DF:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32FD:190:13E:820000:0:0:0:</channel><!-- National Geographic -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:331B:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
-<!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- National Geographic -->
+<!-- 13.0E --><channel id="TVPuls2.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- TV Puls 2 -->
 <!-- 13.0E --><channel id="NickelodeonHD.pl">1:0:1:E:1964:13E:820000:0:0:0:</channel><!-- NICKELODEON HD -->
 <!-- 13.0E --><channel id="NickJr.pl">1:0:1:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr. -->
 <!-- 13.0E --><channel id="NickPolska.pl">1:0:1:9:1964:13E:820000:0:0:0:</channel><!-- Nickelodeon -->
@@ -13699,7 +13705,7 @@
 <!-- 16.0E --><channel id="ArenaSport2.svn">1:0:16:11A4:4289:FF00:A0313E:0:0:0:</channel><!-- Arena 2 -->
 <!-- 16.0E --><channel id="ArenaSport3.svn">1:0:19:6C:1:40:A00000:0:0:0:</channel><!-- Arena Sport 3 -->
 <!-- 16.0E --><channel id="ArenaSport4.svn">1:0:1:54B:75FB:16E:A00000:0:0:0:</channel><!-- Arena Sport 4 -->
-<!-- 16.0E --><channel id="ArenaTV.svn">1:0:16:2A:3:40:A00000:0:0:0:</channel><!-- Arena TV -->
+<!-- 16.0E --><channel id="ArenaTV.svn">1:0:19:780:C6D4:16E:A00000:0:0:0:</channel><!-- Arena TV -->
 <!-- 16.0E --><channel id="ATMKranjskaGora.svn">1:0:1:2:9CA4:16E:A00000:0:0:0:</channel><!-- ATM Kranjska Gora -->
 <!-- 16.0E --><channel id="AXN.svn">1:0:1:455:9FC4:16E:A00000:0:0:0:</channel><!-- AXN -->
 <!-- 16.0E --><channel id="AXN.svn">1:0:1:73A:4288:16E:A00000:0:0:0:</channel><!-- AXN Adria -->
