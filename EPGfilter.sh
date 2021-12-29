@@ -14,7 +14,7 @@ J=1
                 fi
             fi    
         done
-
+/usr/bin/dos2unix /etc/epgimport/FILTERpattern.txt
 grep -v -f "/etc/epgimport/FILTERpattern.txt" "/tmp/rytec.channels.xml" > "/etc/epgimport/filtered.channels.xml"
 grep -f "/etc/epgimport/FILTERpattern.txt" "/tmp/rytec.channels.xml" > "/etc/epgimport/removed.channels.xml"
 
