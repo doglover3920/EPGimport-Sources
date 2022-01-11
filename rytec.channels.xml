@@ -566,7 +566,7 @@
 <!-- 0.8W --><channel id="DisneyJr.nl">1:0:16:1C11:19:46:E080000:0:0:0:</channel><!-- Disney Junior -->
 <!-- 0.8W --><channel id="E!Entertainment.nl">1:0:1:CB2:4:1:E08AF9C:0:0:0:</channel><!-- E! Entertainment -->
 <!-- 0.8W --><channel id="FoodNetwork.eu">1:0:1:78C5:2C5:600:E080000:0:0:0:</channel><!-- Food Network HD -->
-<!-- 0.8W --><channel id="ID.nl">1:0:1:A8C:2:5E:E080000:0:0:0:</channel><!-- Investigation Disc. -->
+
 <!-- 0.8W --><channel id="Mezzo.be">1:0:1:3F0:1:1:E08318E:0:0:0:</channel><!-- Mezzo HD -->
 <!-- 0.8W --><channel id="NGCWild.nl">1:0:1:12C5:26:46:E080000:0:0:0:</channel><!-- NGC Wild HD -->
 <!-- 0.8W --><channel id="TCM.nl">1:0:1:191:2:46:E080000:0:0:0:</channel><!-- Nordic TCM -->
@@ -6718,9 +6718,9 @@
 <!-- Misc --><channel id="TV5MONDEMaghreb-Orient.fr">1:0:1:133:1FE:2BE:1040000:0:0:0:</channel><!-- TV5 Monde Maghreb-Orient -->
 <!-- 0.8W --><channel id="animalplanet.gr">1:0:1:A2E:2:5E:E080000:0:0:0:</channel><!-- Animal Planet HD -->
 <!-- 0.8W --><channel id="DiscoveryHD.gr">1:0:1:9C4:2:5E:E080000:0:0:0:</channel><!-- Discovery HD Showcase -->
-<!-- 0.8W --><channel id="DiscoveryID.gr">1:0:1:A8C:2:5E:E080000:0:0:0:</channel><!-- Discovery IDX -->
+
 <!-- 0.8W --><channel id="DiscoveryScience.gr">1:0:1:C80:2:5E:E080000:0:0:0:</channel><!-- DiscoveryScience HD -->
-<!-- 0.8W --><channel id="DiscoveryTurboXtra.gr">1:0:1:BB9:2:5E:E080000:0:0:0:</channel><!-- Discovery Turbo Xtra -->
+
 <!-- 1.9E --><channel id="ERTWorld.gr">1:0:1:20A:17:3:130000:0:0:0:</channel><!-- ERT World -->
 <!-- 13.0E --><channel id="Action24.gr">1:0:1:175:1C84:13E:820000:0:0:0:</channel><!-- Action24 -->
 <!-- 13.0E --><channel id="alpha.gr">1:0:1:145:157C:13E:820000:0:0:0:</channel><!-- alpha -->
@@ -7469,7 +7469,7 @@
 <!-- DVB-T --><channel id="">1:0:1:145E:D403:20BF:EEEE0000:0:0:0:</channel><!-- M1 Gold -->
 <!-- 0.8W --><channel id="AMC.hu">1:0:1:7981:2C7:600:E080000:0:0:0:</channel><!-- AMCHu -->
 <!-- 0.8W --><channel id="AMC.hu">1:0:1:7996:2C7:600:E080000:0:0:0:</channel><!-- AMCHu -->
-<!-- 0.8W --><channel id="AnimalPlanet.hu">1:0:1:A2D:2:5E:E080000:0:0:0:</channel><!-- Animal Planet HD -->
+
 <!-- 0.8W --><channel id="AnimalPlanet.hu">1:0:19:106B:26:46:E080000:0:0:0:</channel><!-- Animal Planet HD -->
 <!-- 0.8W --><channel id="AnimalPlanet.hu">1:0:19:7923:2C6:600:E080000:0:0:0:</channel><!-- Animal Planet HD -->
 <!-- 0.8W --><channel id="Antena2.ro">1:0:1:76D2:2C0:600:E080000:0:0:0:</channel><!-- Antena Stars -->
@@ -7535,19 +7535,19 @@
 <!-- 0.8W --><channel id="DigiWorld.hu">1:0:1:FD2:D:1:E082E2F:0:0:0:</channel><!-- DIGI World HD HU -->
 <!-- 0.8W --><channel id="DikhTV.hu">1:0:1:5F0:3:1:E080000:0:0:0:</channel><!-- Dikh TV  -->
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:1004:5:1:E080000:0:0:0:</channel><!-- Discovery HU  -->
-<!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:384:2:5E:E080000:0:0:0:</channel><!-- Discovery Channel -->
+
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:44C:2:5E:E080000:0:0:0:</channel><!-- Discovery Channel -->
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:78B7:2C5:600:E080000:0:0:0:</channel><!-- Discovery Channel -->
 <!-- 0.8W --><channel id="DiscoveryHDShowcase.hu">1:0:19:1006:29:46:E080000:0:0:0:</channel><!-- Discovery HD Showcase -->
 <!-- 0.8W --><channel id="DiscoveryScience.hu">1:0:1:77F2:2C3:600:E080000:0:0:0:</channel><!-- Discovery Science -->
-<!-- 0.8W --><channel id="DiscoveryScience.hu">1:0:1:C81:2:5E:E080000:0:0:0:</channel><!-- Discovery Science -->
+
 <!-- 0.8W --><channel id="DisneyChannel.hu">1:0:1:77EF:2C3:600:E080000:0:0:0:</channel><!-- Disney Channel -->
 <!-- 0.8W --><channel id="DisneyChannel.hu">1:0:1:7803:2C3:600:E080000:0:0:0:</channel><!-- Disney Channel -->
 <!-- 0.8W --><channel id="DOQ.hu">1:0:1:79FB:2C8:600:E080000:0:0:0:</channel><!-- DOQ -->
 <!-- 0.8W --><channel id="DOQ.hu">1:0:1:79FE:2C8:600:E080000:0:0:0:</channel><!-- DOQ -->
 <!-- 0.8W --><channel id="DOQ.hu">1:0:1:7A00:2C8:600:E080000:0:0:0:</channel><!-- DOQ -->
 <!-- 0.8W --><channel id="DTX.hu">1:0:1:77FA:2C3:600:E080000:0:0:0:</channel><!-- DTX -->
-<!-- 0.8W --><channel id="DTX.hu">1:0:1:BB9:2:5E:E080000:0:0:0:</channel><!-- DTX -->
+
 <!-- 0.8W --><channel id="DTX.hu">1:0:1:BBA:2:5E:E08B00F:0:0:0:</channel><!-- DTX -->
 <!-- 0.8W --><channel id="DuckTV.cz">1:0:1:77F9:2C3:600:E080000:0:0:0:</channel><!-- Duck TV -->
 <!-- 0.8W --><channel id="DuckTV.hu">1:0:1:77F9:2C3:600:E080000:0:0:0:</channel><!-- Duck TV -->
@@ -7625,7 +7625,7 @@
 <!-- 0.8W --><channel id="HiTMusic.hu">1:0:1:A1E:5:1:E080000:0:0:0:</channel><!-- H!T Music Channel  -->
 <!-- 0.8W --><channel id="HiTMusic.hu">1:0:1:A1E:5:1:E082E09:0:0:0:</channel><!-- H!T Music Channel  -->
 <!-- 0.8W --><channel id="ID.hu">1:0:1:785B:2C4:600:E080000:0:0:0:</channel><!-- Discovery ID -->
-<!-- 0.8W --><channel id="ID.hu">1:0:1:A8C:2:5E:E080000:0:0:0:</channel><!-- Investigation Disc. -->
+
 <!-- 0.8W --><channel id="IDXtra.hu">1:0:1:785B:2C4:600:E080000:0:0:0:</channel><!-- ID Xtra -->
 <!-- 0.8W --><channel id="IDXtra.hu">1:0:1:BC5:AF3:BB:E080000:0:0:0:</channel><!-- ID Xtra -->
 <!-- 0.8W --><channel id="IzauraTV.hu">1:0:1:79F7:2C8:600:E080000:0:0:0:</channel><!-- Izaura TV -->
@@ -8736,7 +8736,7 @@
 <!-- 9.0E --><channel id="Sportitalia.it">1:0:19:2009:32A:110:5A0000:0:0:0:</channel><!-- SPORTITALIA -->
 <!-- 9.0E --><channel id="Stories.it">1:0:1:AC:385:110:5A0000:0:0:0:</channel><!-- PREMIUM STORIES -->
 <!-- 9.0E --><channel id="TopCalcio24.it">1:0:1:3E9:10E1:217C:5A0000:0:0:0:</channel><!-- MONDO CALCIO -->
-<!-- 9.0E --><channel id="VideoGruppo.it">1:0:1:3EA:10E1:217C:5A0000:0:0:0:</channel><!-- Video Gruppo -->
+<!-- 9.0E --><channel id="TopCalcio24.it">1:0:1:3EA:10E1:217C:5A0000:0:0:0:</channel><!-- Video Gruppo -->
 <!-- 9.0E --><channel id="TeleCity.it">1:0:1:70E:18E1:217C:5A0000:0:0:0:</channel><!-- TeleCity -->
 <!-- 9.0E --><channel id="TopCalcio24.it">1:0:1:61:791A:217C:5A0000:0:0:0:</channel><!-- MONDO CALCIO -->
 <!-- DVB-T --><channel id="20Mediaset.it">1:0:1:7E3:389:110:EEEE0000:0:0:0:</channel><!-- 20 Mediaset -->
@@ -9166,6 +9166,7 @@
 <!-- 13.0E --><channel id="DoveTv.it">1:0:1:3C01:64:FBFF:820000:0:0:0:</channel><!-- DoveTv -->
 <!-- 13.0E --><channel id="EasyBaby.it">1:0:1:E4A:708:C8:820000:0:0:0:</channel><!-- Easy Baby -->
 <!-- 13.0E --><channel id="Eurosport2.it">1:0:1:2BC7:19C8:FBFF:820000:0:0:0:</channel><!-- Eurosport 2 -->
+<!-- 13.0E --><channel id="Explorer.it">1:0:19:34DE:1AF4:FBFF:820000:0:0:0:</channel><!-- Explorer -->
 <!-- 13.0E --><channel id="Fox.it">1:0:1:1FBA:251C:FBFF:820000:0:0:0:</channel><!-- Fox HD -->
 <!-- 13.0E --><channel id="Fox.it">1:0:1:1FBF:251C:FBFF:820000:0:0:0:</channel><!-- Fox HD -->
 <!-- 13.0E --><channel id="Fox.it">1:0:19:379D:14B4:FBFF:820000:0:0:0:</channel><!-- Fox HD -->
@@ -12526,7 +12527,7 @@
 <!-- 0.8W --><channel id="HGTV.ro">1:0:1:D52:2:1:E080000:0:0:0:</channel><!-- HGTV -->
 <!-- 0.8W --><channel id="History.ro">1:0:1:40A:7:1:E082E56:0:0:0:</channel><!-- History -->
 <!-- 0.8W --><channel id="HistoryHD.ro">1:0:19:106A:29:46:E080000:0:0:0:</channel><!-- History HD -->
-<!-- 0.8W --><channel id="IDXtraHD.ro">1:0:1:A8C:2:5E:E080000:0:0:0:</channel><!-- ID Xtra Europe HD -->
+
 <!-- 0.8W --><channel id="IDXtraHD.ro">1:0:1:A8C:2:5E:E08B00F:0:0:0:</channel><!-- ID Xtra Europe HD -->
 <!-- 0.8W --><channel id="IneditTV.ro">1:0:1:2B00:B:1111:E082F3C:0:0:0:</channel><!-- Inedit TV -->
 <!-- 0.8W --><channel id="InvestigationDiscovery.ro">1:0:1:785B:2C4:600:E080000:0:0:0:</channel><!-- Investigation Discove -->
