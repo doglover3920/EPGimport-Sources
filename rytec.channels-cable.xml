@@ -906,6 +906,8 @@
 <!-- Cable --><channel id="Biography.de">1:0:1:FBB:19E:4:FFFF0000:0:0:0:</channel><!-- Biography Channel -->
 <!-- Cable --><channel id="Bloomberg.nws">1:0:1:FAF:191:4:FFFF0000:0:0:0:</channel><!-- Bloomberg TV -->
 <!-- Cable --><channel id="bluePrime.ch">1:0:16:271A:2BD:7:FFFF0000:0:0:0:</channel><!-- TC Prime -->
+<!-- Cable --><channel id="blueSport1.ch">1:0:16:273D:2BD:7:FFFF0000:0:0:0:</channel><!-- Teleclub Sport 2 / Sky Sport 2 -->
+<!-- Cable --><channel id="blueSport3.ch">1:0:16:2742:2BD:7:FFFF0000:0:0:0:</channel><!-- TC Sport 3 -->
 <!-- Cable --><channel id="blueStars.ch">1:0:16:2715:2BD:7:FFFF0000:0:0:0:</channel><!-- Blue Stars -->
 <!-- Cable --><channel id="BNsat.ba">1:0:1:10E0:197:4:FFFF0000:0:0:0:</channel><!-- BN Sat -->
 <!-- Cable --><channel id="Boing.it">1:0:1:110B:1A8:4:FFFF0000:0:0:0:</channel><!-- Boing -->
@@ -1061,8 +1063,6 @@
 <!-- Cable --><channel id="tagesschau24.de">1:0:1:FCE:1AC:4:FFFF0000:0:0:0:</channel><!-- tagesschau 24 HD -->
 <!-- Cable --><channel id="TCCinema.ch">1:0:16:2711:2BD:7:FFFF0000:0:0:0:</channel><!-- TC Cinema -->
 <!-- Cable --><channel id="TCSport1.ch">1:0:16:2738:2BD:7:FFFF0000:0:0:0:</channel><!-- TC Sport 1 -->
-<!-- Cable --><channel id="TCSport2.ch">1:0:16:273D:2BD:7:FFFF0000:0:0:0:</channel><!-- Teleclub Sport 2 / Sky Sport 2 -->
-<!-- Cable --><channel id="TCSport3.ch">1:0:16:2742:2BD:7:FFFF0000:0:0:0:</channel><!-- TC Sport 3 -->
 <!-- Cable --><channel id="Tele5.de">1:0:1:FB6:192:4:FFFF0000:0:0:0:</channel><!-- Tele 5 -->
 <!-- Cable --><channel id="TeleZuri.ch">1:0:1:DBE:199:4:FFFF0000:0:0:0:</channel><!-- TeleZüri HD -->
 <!-- Cable --><channel id="TF1.fr">1:0:1:107B:1A1:4:FFFF0000:0:0:0:</channel><!-- TF1 -->
@@ -1118,6 +1118,8 @@
 <!-- Cable --><channel id="blueAction.ch">1:0:16:1B5D:DC:1:FFFF0000:0:0:0:</channel><!-- TC Action -->
 <!-- Cable --><channel id="blueAction.ch">1:0:19:1BC1:DD:1:FFFF0000:0:0:0:</channel><!-- TC Action -->
 <!-- Cable --><channel id="BlueHustler.ero">1:0:1:13E:39:1:FFFF0000:0:0:0:</channel><!-- Blue Hustler -->
+<!-- Cable --><channel id="blueSport1.ch">1:0:16:1B85:DC:1:FFFF0000:0:0:0:</channel><!-- TC Sport 2 -->
+<!-- Cable --><channel id="blueSport1.ch">1:0:19:1BCB:DE:1:FFFF0000:0:0:0:</channel><!-- TC Sport 2 -->
 <!-- Cable --><channel id="blueSportEvent1.ch">1:0:16:1B8A:DC:1:FFFF0000:0:0:0:</channel><!-- blue Sport Event 1 -->
 <!-- Cable --><channel id="blueSportEvent2.ch">1:0:16:1B8C:DC:1:FFFF0000:0:0:0:</channel><!-- blue Sport Event 2 -->
 <!-- Cable --><channel id="blueZoomD.ch">1:0:16:1B8F:DC:1:FFFF0000:0:0:0:</channel><!-- TC Zoom -->
@@ -1320,8 +1322,6 @@
 <!-- Cable --><channel id="TCRMCSportAccess1.ch">1:0:19:1BDA:E0:1:FFFF0000:0:0:0:</channel><!-- TC RMC Sport Access 1 -->
 <!-- Cable --><channel id="TCSport1.ch">1:0:16:1B80:DC:1:FFFF0000:0:0:0:</channel><!-- TC Sport 1 -->
 <!-- Cable --><channel id="TCSport1.ch">1:0:19:1BC6:DE:1:FFFF0000:0:0:0:</channel><!-- TC Sport 1 -->
-<!-- Cable --><channel id="TCSport2.ch">1:0:16:1B85:DC:1:FFFF0000:0:0:0:</channel><!-- TC Sport 2 -->
-<!-- Cable --><channel id="TCSport2.ch">1:0:19:1BCB:DE:1:FFFF0000:0:0:0:</channel><!-- TC Sport 2 -->
 <!-- Cable --><channel id="Tele1.ch">1:0:19:2425:1C:1:FFFF0000:0:0:0:</channel><!-- TELE 1 HD -->
 <!-- Cable --><channel id="Tele5.de">1:0:1:34:36:1:FFFF0000:0:0:0:</channel><!-- Tele 5 -->
 <!-- Cable --><channel id="TeleBarn.ch">1:0:19:2429:1C:1:FFFF0000:0:0:0:</channel><!-- Tele Bärn HD -->
@@ -3099,9 +3099,9 @@
 <!-- Cable --><channel id="Nickelodeon.hu">1:0:1:17C:E8:1:FFFF0000:0:0:0:</channel><!-- Nickelodeon -->
 <!-- Cable --><channel id="NickJr.hu">1:0:1:1A4:D4:1:FFFF0000:0:0:0:</channel><!-- Nick Jr -->
 <!-- Cable --><channel id="Nicktoons.hu">1:0:1:1A6:E8:1:FFFF0000:0:0:0:</channel><!-- Nicktoons -->
-<!-- Cable --><channel id="RTL+.hu">1:0:1:23F:D0:1:FFFF0000:0:0:0:</channel><!-- RTL+ -->
+<!-- Cable --><channel id="RTL.hu">1:0:1:235:CD:1:FFFF0000:0:0:0:</channel><!-- RTL Klub -->
 <!-- Cable --><channel id="RTL2.hu">1:0:1:236:D0:1:FFFF0000:0:0:0:</channel><!-- RTL2 HD -->
-<!-- Cable --><channel id="RTLKlub.hu">1:0:1:235:CD:1:FFFF0000:0:0:0:</channel><!-- RTL Klub -->
+<!-- Cable --><channel id="RTLHarom.hu">1:0:1:23F:D0:1:FFFF0000:0:0:0:</channel><!-- RTL+ -->
 <!-- Cable --><channel id="SlagerTV.hu">1:0:1:256:CD:1:FFFF0000:0:0:0:</channel><!-- MagyarSlagerTV -->
 <!-- Cable --><channel id="Sorozat+.hu">1:0:1:255:CD:1:FFFF0000:0:0:0:</channel><!-- Sorozat+ -->
 <!-- Cable --><channel id="SuperTV2.hu">1:0:1:251:D0:1:FFFF0000:0:0:0:</channel><!-- SuperTV2 -->
