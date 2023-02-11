@@ -20,12 +20,12 @@ The description must be unique for each source, and is displayed on the UI.
 -->
 
 	<mappings>
-		<channel name="rytec.channels.xml.xz">
-			<url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
-			<url>http://epgspot.com/rytec_epg/rytec.channels.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/rytec.channels.xml.xz</url>
-			<url>http://rytecepg.dyndns.tv/epg_data/rytec.channels.xml.xz</url>
-			<url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
+		<channel name="rytec.channels.xml-cable.xz">
+			<url>http://www.xmltvepg.nl/rytec.channels.xml-cable.xz</url>
+			<url>http://epgspot.com/rytec_epg/rytec.channels.xml-cable.xz</url>
+			<url>http://rytecepg.wanwizard.eu/rytec.channels.xml-cable.xz</url>
+			<url>http://rytecepg.dyndns.tv/epg_data/rytec.channels.xml-cable.xz</url>
+			<url>http://epg.vuplus-community.net/rytec.channels.xml-cable.xz</url>
 		</channel>
 
 		<channel name="azman.channels.xml.xz">
@@ -39,7 +39,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</mappings>
 
 	<sourcecat sourcecatname="Rytec General XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>News Channels (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNWS.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNWS.xz</url>
@@ -47,7 +47,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecNWS.xz</url>
 			<url>http://epg.vuplus-community.net/rytecNWS.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Erotic (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecERO.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecERO.xz</url>
@@ -55,7 +55,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecERO.xz</url>
 			<url>http://epg.vuplus-community.net/rytecERO.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>AFN (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecAFN.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecAFN.xz</url>
@@ -63,7 +63,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecAFN.xz</url>
 			<url>http://epg.vuplus-community.net/rytecAFN.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Rytec IPTV XMLTV (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIPTV.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecIPTV.xz</url>
@@ -71,7 +71,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecIPTV.xz</url>
 			<url>http://epg.vuplus-community.net/rytecIPTV.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Miscellaneous XMLTV (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecMisc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecMisc.xz</url>
@@ -82,7 +82,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Belgie/Belgique/Nederland/France XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Nederland - Basis (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNL_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNL_Basic.xz</url>
@@ -90,7 +90,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecNL_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecNL_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Vlaanderen - Basis (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecBE_VL_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecBE_VL_Basic.xz</url>
@@ -98,7 +98,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecBE_VL_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecBE_VL_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Vlaanderen/Nederland - Gemeenschappelijk (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecBE_NL_Common.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecBE_NL_Common.xz</url>
@@ -106,7 +106,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecBE_NL_Common.xz</url>
 			<url>http://epg.vuplus-community.net/rytecBE_NL_Common.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Nederland - Sport/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNL_Extra.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNL_Extra.xz</url>
@@ -114,7 +114,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecNL_Extra.xz</url>
 			<url>http://epg.vuplus-community.net/rytecNL_Extra.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Wallonie - Telesat Base (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecBE_FR_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecBE_FR_Basic.xz</url>
@@ -122,7 +122,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecBE_FR_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecBE_FR_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>France - TNT (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecTNT_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecTNT_Basic.xz</url>
@@ -130,7 +130,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecTNT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecTNT_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>France/Wallonie - Commun (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecBE_FR_Common.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecBE_FR_Common.xz</url>
@@ -138,7 +138,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecBE_FR_Common.xz</url>
 			<url>http://epg.vuplus-community.net/rytecBE_FR_Common.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>France - Mixte (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecFR_Mixte.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecFR_Mixte.xz</url>
@@ -146,7 +146,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecFR_Mixte.xz</url>
 			<url>http://epg.vuplus-community.net/rytecFR_Mixte.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>France - Sport/Cinema (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecFR_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecFR_SportMovies.xz</url>
@@ -157,7 +157,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Bulgaria XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Bulgaria</description>
 			<url>http://www.xmltvepg.nl/rytecBG.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecBG.xz</url>
@@ -168,7 +168,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Ceska/Slovensko XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Slovensko - Bazicky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSK_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSK_Basic.xz</url>
@@ -176,7 +176,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSK_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSK_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Ceska - Bazicky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecCZ_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecCZ_Basic.xz</url>
@@ -184,7 +184,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecCZ_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecCZ_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Ceska/Slovensko - Rozdeleny (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecCZ_SK_Common.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecCZ_SK_Common.xz</url>
@@ -192,7 +192,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecCZ_SK_Common.xz</url>
 			<url>http://epg.vuplus-community.net/rytecCZ_SK_Common.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Ceska/Slovensko - Sportove/Filmy (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecCZ_SK_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecCZ_SK_SportMovies.xz</url>
@@ -203,7 +203,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Danmark XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Danmark - Grundleggende (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDK_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDK_Basic.xz</url>
@@ -211,7 +211,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecDK_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecDK_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Danmark - Delt (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDK_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDK_Misc.xz</url>
@@ -219,7 +219,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecDK_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecDK_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Danmark - Sport/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDK_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDK_SportMovies.xz</url>
@@ -230,7 +230,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Deutschland/Osterreich/Switzerland XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Deutschland - Basis  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDE_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDE_Basic.xz</url>
@@ -238,7 +238,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecDE_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecDE_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Osterreich - Basis  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecAT_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecAT_Basic.xz</url>
@@ -246,7 +246,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecAT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecAT_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Switzerland - Basis  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecCH_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecCH_Basic.xz</url>
@@ -254,7 +254,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecCH_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecCH_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Deutschland/Osterreich/Switzerland - Gemeinsam  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDE_Common.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDE_Common.xz</url>
@@ -262,7 +262,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecDE_Common.xz</url>
 			<url>http://epg.vuplus-community.net/rytecDE_Common.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Deutschland/Osterreich/Switzerland - Sports/Film  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDE_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecDE_SportMovies.xz</url>
@@ -273,7 +273,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Ellada XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Ellada - Genikos (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecGR_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecGR_Basic.xz</url>
@@ -281,7 +281,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecGR_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecGR_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Ellada - Athlitismos/Kinimatografou (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecGR_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecGR_SportMovies.xz</url>
@@ -315,7 +315,7 @@ The description must be unique for each source, and is displayed on the UI.
     </sourcecat>
 
 	<sourcecat sourcecatname="Rytec Italia XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Italia - Basis (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIT_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecIT_Basic.xz</url>
@@ -323,7 +323,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecIT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecIT_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Italia - Sky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIT_Sky.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecIT_Sky.xz</url>
@@ -331,7 +331,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecIT_Sky.xz</url>
 			<url>http://epg.vuplus-community.net/rytecIT_Sky.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Italia - Sports/Film/Premium (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIT_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecIT_SportMovies.xz</url>
@@ -384,7 +384,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Portugal XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Portugal (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecPT.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecPT.xz</url>
@@ -395,7 +395,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Magyarorszag XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Magyarorszag - Basic (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHU_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHU_Basic.xz</url>
@@ -403,7 +403,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecHU_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecHU_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Magyarorszag - Sport/Film (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHU_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHU_SportMovies.xz</url>
@@ -414,7 +414,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Norge XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Norge - Basic (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNO_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNO_Basic.xz</url>
@@ -422,7 +422,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecNO_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecNO_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Norge - Delt (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNO_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNO_Misc.xz</url>
@@ -430,7 +430,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecNO_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecNO_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Norge - Sport/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecNO_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecNO_SportMovies.xz</url>
@@ -441,7 +441,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Romania XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Romania - Baza (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecRO_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecRO_Basic.xz</url>
@@ -449,7 +449,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecRO_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecRO_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Romania - Sport/Film (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecRO_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecRO_SportMovies.xz</url>
@@ -460,7 +460,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Croatia XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Hrvatska - Osnovni (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHRV_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHRV_Basic.xz</url>
@@ -468,7 +468,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecHRV_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecHRV_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Hrvatska - Dodatni (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHRV_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHRV_Misc.xz</url>
@@ -476,7 +476,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecHRV_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecHRV_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Hrvatska - Sport/Film (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHRV_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHRV_SportMovies.xz</url>
@@ -487,7 +487,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Serbia/Montenegro XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Srbija/Crna Gora - Osnovni (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSRB_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSRB_Basic.xz</url>
@@ -495,7 +495,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSRB_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSRB_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Srbija/Crna Gora - Dodatni (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSRB_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSRB_Misc.xz</url>
@@ -503,7 +503,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSRB_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSRB_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Srbija/Crna Gora - Sport/Film (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecHRV_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecHRV_SportMovies.xz</url>
@@ -514,7 +514,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Slovenia XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Slovenija - Podlaga (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSVN_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSVN_Basic.xz</url>
@@ -522,7 +522,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSVN_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSVN_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Slovenija - Dodatni (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSVN_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSVN_Misc.xz</url>
@@ -530,7 +530,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSVN_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSVN_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Slovenija - Sport/Film (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSVN_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSVN_SportMovies.xz</url>
@@ -541,7 +541,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Sverige XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Sverige - Grundlaggande (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSE_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSE_Basic.xz</url>
@@ -549,7 +549,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSE_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSE_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Sverige - Diverse (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSE_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSE_Misc.xz</url>
@@ -557,7 +557,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecSE_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecSE_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Sverige - Sport/Filmer (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecSE_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecSE_SportMovies.xz</url>
@@ -568,7 +568,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Suomi XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Suomi - Perustiedot (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecFI_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecFI_Basic.xz</url>
@@ -576,7 +576,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecFI_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecFI_Basic.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Suomi - Yhteinen (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecFI_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecFI_Misc.xz</url>
@@ -584,7 +584,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecFI_Misc.xz</url>
 			<url>http://epg.vuplus-community.net/rytecFI_Misc.xz</url>
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Suomi - Sport/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecFI_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecFI_SportMovies.xz</url>
@@ -595,7 +595,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec UK XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>UK/Ireland - FreeSat/FTA (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecUK_Basic.xz</url>
@@ -604,7 +604,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecUK_Basic.xz</url>
 		</source>
 
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>UK/Ireland - Sky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_SkyLive.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecUK_SkyLive.xz</url>
@@ -613,7 +613,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecUK_SkyLive.xz</url>
 		</source>
 
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>UK/Ireland - Sports/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz</url>
@@ -624,7 +624,7 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 <!--
 	<sourcecat sourcecatname="Rytec Poland XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Polska - Podstawowy (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecPL_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecPL_Basic.xz</url>
@@ -632,7 +632,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecPL_Basic.xz</url>
 
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Polska - Dodatkowy (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecPL_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecPL_Misc.xz</url>
@@ -640,7 +640,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecPL_Misc.xz</url>
 
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Polska - Sport/Kino (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecPL_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecPL_SportMovies.xz</url>
@@ -652,7 +652,7 @@ The description must be unique for each source, and is displayed on the UI.
 -->
 <!--
 	<sourcecat sourcecatname="Rytec Espana XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Espana - Basic (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecES_Basic.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecES_Basic.xz</url>
@@ -660,7 +660,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecES_Basic.xz</url>
 
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Espana - Adicional (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecES_Misc.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecES_Misc.xz</url>
@@ -668,7 +668,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecES_Misc.xz</url>
 
 		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+		<source type="gen_xmltv" channels="rytec.channels.xml-cable.xz">
 			<description>Espana - Deportes/Pelicula (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecES_SportMovies.xz</url>
 			<url>http://epgspot.com/rytec_epg/rytecES_SportMovies.xz</url>
