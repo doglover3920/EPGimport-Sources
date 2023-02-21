@@ -148,7 +148,7 @@
 <!-- Cable --><channel id="DisneyChannel.nl">1:0:19:2C0:7:1:FFFF0000:0:0:0:</channel><!-- Disney VL -->
 <!-- Cable --><channel id="DisneyJr.nl">1:0:1:8FD:17:1:FFFF0000:0:0:0:</channel><!-- Disney JR -->
 <!-- Cable --><channel id="DisneyVL.be">1:0:1:25E:6:1:FFFF0000:0:0:0:</channel><!-- Disney Channel VL -->
-<!-- Cable --><channel id="DobbitTV.be">1:0:1:456:B:1:FFFF0000:0:0:0:</channel><!-- DOBBIT TV -->
+<!-- Cable --><channel id="DobbitTVNL.be">1:0:1:456:B:1:FFFF0000:0:0:0:</channel><!-- DOBBIT TV -->
 <!-- Cable --><channel id="Eclips.be">1:0:1:4B9:C:1:FFFF0000:0:0:0:</channel><!-- Eclips -->
 <!-- Cable --><channel id="een.be">1:0:19:44F:B:1:FFFF0000:0:0:0:</channel><!-- één HD -->
 <!-- Cable --><channel id="ElevenSports1F.be">1:0:19:133:3:1:FFFF0000:0:0:0:</channel><!-- Eleven Sports 1 FR -->
@@ -2945,7 +2945,7 @@
 <!-- Cable --><channel id="NRJ12.fr">1:0:1:2747:6:601:FFFF0000:0:0:0:</channel><!-- NRJ 12 -->
 <!-- Cable --><channel id="NRJ12.fr">1:0:19:1DD8:258:FD2A:FFFF0000:0:0:0:</channel><!-- NRJ12 HD -->
 <!-- Cable --><channel id="NRJHits.fr">1:0:1:276B:402:1:FFFF016A:0:0:0:</channel><!-- NRJ HITS -->
-<!-- Cable --><channel id="OCSGéants.fr">1:0:19:85E:834:FD2A:FFFF0000:0:0:0:</channel><!-- OCSGEANTSHD -->
+<!-- Cable --><channel id="OCSGeants.fr">1:0:19:85E:834:FD2A:FFFF0000:0:0:0:</channel><!-- OCSGEANTSHD -->
 <!-- Cable --><channel id="OCSMax.fr">1:0:1:FBE:FA0:FD2A:FFFF0000:0:0:0:</channel><!-- OCSMAXHD -->
 <!-- Cable --><channel id="OCSPulp.fr">1:0:19:1EB5:320:FD2A:FFFF0000:0:0:0:</channel><!-- OCSCHOCHD -->
 <!-- Cable --><channel id="OLTV.fr">1:0:1:1BA9:64:FD2A:FFFF0000:0:0:0:</channel><!-- OL TV -->
@@ -3187,7 +3187,7 @@
 <!-- Cable --><channel id="TLC.hu">1:0:1:13B:EB:1:FFFF0000:0:0:0:</channel><!-- TLC -->
 <!-- Cable --><channel id="TravelChannel.hu">1:0:1:141:D4:1:FFFF0000:0:0:0:</channel><!-- Travel Channel HD -->
 <!-- Cable --><channel id="tv2.hu">1:0:1:265:CD:1:FFFF0000:0:0:0:</channel><!-- TV2 -->
-<!-- Cable --><channel id="TV2Séf.hu">1:0:1:24F:D0:1:FFFF0000:0:0:0:</channel><!-- TV2 Séf -->
+<!-- Cable --><channel id="TV2Sef.hu">1:0:1:24F:D0:1:FFFF0000:0:0:0:</channel><!-- TV2 Séf -->
 <!-- Cable --><channel id="TV4.hu">1:0:1:257:D0:1:FFFF0000:0:0:0:</channel><!-- TV4 -->
 <!-- Cable --><channel id="ViasatExplorer.hu">1:0:1:14E:EF:1:FFFF0000:0:0:0:</channel><!-- Viasat Explore HD -->
 <!-- Cable --><channel id="ViasatHistory.hu">1:0:1:151:EF:1:FFFF0000:0:0:0:</channel><!-- Viasat History HD -->
@@ -3261,7 +3261,7 @@
 <!-- DVB-T --><channel id="tv2.hu">1:0:1:CA:2:22C7:EEEE0000:0:0:0:</channel><!-- TV2  -->
 <!-- DVB-T --><channel id="TV2Comedy.hu">1:0:1:19A:4:22C7:EEEE0000:0:0:0:</channel><!-- TV2 Comedy  -->
 <!-- DVB-T --><channel id="TV2Kids.hu">1:0:1:195:4:22C7:EEEE0000:0:0:0:</channel><!-- TV2 Kids  -->
-<!-- DVB-T --><channel id="TV2Séf.hu">1:0:1:202:5:22C7:EEEE0000:0:0:0:</channel><!-- TV2 Séf  -->
+<!-- DVB-T --><channel id="TV2Sef.hu">1:0:1:202:5:22C7:EEEE0000:0:0:0:</channel><!-- TV2 Séf  -->
 <!-- DVB-T --><channel id="TV4.hu">1:0:1:19E:4:22C7:EEEE0000:0:0:0:</channel><!-- TV4  -->
 <!-- DVB-T --><channel id="TVPaprika.hu">1:0:1:1A0:4:22C7:EEEE0000:0:0:0:</channel><!-- TV Paprika  -->
 <!-- DVB-T --><channel id="Viasat3.hu">1:0:1:12D:3:22C7:EEEE0000:0:0:0:</channel><!-- Viasat 3  -->
@@ -4922,6 +4922,7 @@
 <!-- Cable --><channel id="FOX.nl">1:0:19:3EB:801:600:FFFF0000:0:0:0:</channel><!-- FOX NL -->
 <!-- Cable --><channel id="FOX.nl">1:0:19:4C6B:83A:600:FFFF0000:0:0:0:</channel><!-- Fox Channel HD -->
 <!-- Cable --><channel id="HistoryHD.be">1:0:19:4CF9:81C:600:FFFF0000:0:0:0:</channel><!-- HISTORY HD -->
+<!-- Cable --><channel id="HogelandTV.nl">1:0:1:1BCA:C86:600:FFFF0000:0:0:0:</channel><!--  Hogeland TV -->
 <!-- Cable --><channel id="HorseCountry.nl">1:0:1:4E67:804:600:FFFF0000:0:0:0:</channel><!-- Horse and Country -->
 <!-- Cable --><channel id="ID.nl">1:0:1:4BB5:831:600:FFFF0000:0:0:0:</channel><!-- ID -->
 <!-- Cable --><channel id="Ketnet.be">1:0:1:4A51:806:600:FFFF0000:0:0:0:</channel><!-- Ketnet/OP12 -->
@@ -4973,6 +4974,7 @@
 <!-- Cable --><channel id="NPOPolitiek101.nl">1:0:1:4ACF:80C:600:FFFF0000:0:0:0:</channel><!-- NPO Politiek -->
 <!-- Cable --><channel id="NPOPolitiek101.nl">1:0:16:FA1:834:600:FFFF0000:0:0:0:</channel><!-- NPO Politiek -->
 <!-- Cable --><channel id="NPOZappelinExtra.nl">1:0:1:4E50:803:600:FFFF0000:0:0:0:</channel><!-- NPO Zappelin Extra -->
+<!-- Cable --><channel id="OmroepAssen.nl">1:0:16:1BC7:C86:600:FFFF0000:0:0:0:</channel><!--  Omroep Assen TV -->
 <!-- Cable --><channel id="OmroepBrabant.nl">1:0:1:4C89:83B:600:FFFF0000:0:0:0:</channel><!-- Omroep Brabant -->
 <!-- Cable --><channel id="OmroepBrabant.nl">1:0:1:5459:83B:600:FFFF0000:0:0:0:</channel><!-- Omroep Brabant -->
 <!-- Cable --><channel id="OmroepBrabant.nl">1:0:16:138F:837:600:FFFF0000:0:0:0:</channel><!-- TV Omroep Brabant -->
@@ -5011,12 +5013,14 @@
 <!-- Cable --><channel id="RTLZ.nl">1:0:1:4BE6:833:600:FFFF0000:0:0:0:</channel><!-- RTL Z -->
 <!-- Cable --><channel id="RTLZ.nl">1:0:16:1772:838:600:FFFF0000:0:0:0:</channel><!-- RTL Z -->
 <!-- Cable --><channel id="RTLZ.nl">1:0:19:4AF7:840:600:FFFF0000:0:0:0:</channel><!-- RTL Z HD -->
+<!-- Cable --><channel id="RTV1.nl">1:0:16:1BC8:C86:600:FFFF0000:0:0:0:</channel><!--  RTV1 -->
 <!-- Cable --><channel id="RTV7.nl">1:0:1:4AC5:80C:600:FFFF0000:0:0:0:</channel><!-- RTV-7 -->
 <!-- Cable --><channel id="RTV7.nl">1:0:1:4C3A:837:600:FFFF0000:0:0:0:</channel><!-- RTV 7 -->
 <!-- Cable --><channel id="RTV7.nl">1:0:16:1397:837:600:FFFF0000:0:0:0:</channel><!-- RTV-7 -->
 <!-- Cable --><channel id="RTVDrenthe.nl">1:0:1:4C87:83B:600:FFFF0000:0:0:0:</channel><!-- RTV Drenthe -->
 <!-- Cable --><channel id="RTVDrenthe.nl">1:0:1:5457:83B:600:FFFF0000:0:0:0:</channel><!-- TV Drenthe -->
 <!-- Cable --><channel id="RTVDrenthe.nl">1:0:16:138B:837:600:FFFF0000:0:0:0:</channel><!-- TV Drenthe -->
+<!-- Cable --><channel id="RTVGO.nl">1:0:19:1BC5:C86:600:FFFF0000:0:0:0:</channel><!--  RTV GO! -->
 <!-- Cable --><channel id="RTVNoord.nl">1:0:1:4C7F:83B:600:FFFF0000:0:0:0:</channel><!-- RTV Noord -->
 <!-- Cable --><channel id="RTVNoord.nl">1:0:1:544F:83B:600:FFFF0000:0:0:0:</channel><!-- TV Noord -->
 <!-- Cable --><channel id="RTVNoord.nl">1:0:16:138A:837:600:FFFF0000:0:0:0:</channel><!-- TV Noord -->
@@ -5029,6 +5033,7 @@
 <!-- Cable --><channel id="RTVWest.nl">1:0:1:4B0C:80E:600:FFFF0000:0:0:0:</channel><!-- TV West -->
 <!-- Cable --><channel id="RTVWest.nl">1:0:1:52DC:80E:600:FFFF0000:0:0:0:</channel><!-- TV West -->
 <!-- Cable --><channel id="RTVWest.nl">1:0:16:1392:837:600:FFFF0000:0:0:0:</channel><!-- TV West -->
+<!-- Cable --><channel id="RTVZulthe.nl">1:0:1:1BC9:C86:600:FFFF0000:0:0:0:</channel><!--  RTV Zulthe -->
 <!-- Cable --><channel id="RussiaToday.uk">1:0:1:4B98:816:600:FFFF0000:0:0:0:</channel><!-- Russia today -->
 <!-- Cable --><channel id="Sat1.de">1:0:1:4AD1:80C:600:FFFF0000:0:0:0:</channel><!-- SAT.1 -->
 <!-- Cable --><channel id="Sat1.de">1:0:16:FA5:834:600:FFFF0000:0:0:0:</channel><!-- SAT. 1 -->
@@ -5088,6 +5093,7 @@
 <!-- Cable --><channel id="ZiggoTV.nl">1:0:1:4C3C:837:600:FFFF0000:0:0:0:</channel><!-- Ziggo -->
 <!-- Cable --><channel id="ZiggoTV.nl">1:0:19:4B7F:815:600:FFFF0000:0:0:0:</channel><!-- Ziggo HD -->
 <!-- Cable --><channel id="Zing.uk">1:0:1:4E6E:804:600:FFFF0000:0:0:0:</channel><!-- Zing -->
+<!-- Cable --><channel id="ZO!34TV.nl">1:0:1:1BCB:C86:600:FFFF0000:0:0:0:</channel><!--  ZO!34 TV -->
 <!-- Cable --><channel id="AdultChannel.no">1:0:1:CE:6:46:FFFF0000:0:0:0:</channel><!-- Adult Channel -->
 <!-- Cable --><channel id="AlJazeera.nws">1:0:1:CF:D:46:FFFF0000:0:0:0:</channel><!-- Al Jazeera English -->
 <!-- Cable --><channel id="AnimalPlanet.no">1:0:19:270:4:46:FFFF0000:0:0:0:</channel><!-- Animal Planet HD -->
