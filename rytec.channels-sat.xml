@@ -241,7 +241,6 @@
 <!-- 1.9E --><channel id="Balkanika.bg">1:0:1:188:9:3:130000:0:0:0:</channel><!-- Balkanika Music TV -->
 <!-- 1.9E --><channel id="Balkanika.bg">1:0:1:CB:12:3:130000:0:0:0:</channel> <!-- Balkanika-->
 <!-- 1.9E --><channel id="Balkanika.bg">1:0:1:CF:12:3:130000:0:0:0:</channel><!-- Balkanika Music TV -->
-<!-- 1.9E --><channel id="no_epg_xxx">1:0:1:165:8:3:130000:0:0:0:</channel> <!-- Barely Legal -->
 <!-- 1.9E --><channel id="BGMusicChannel.bg">1:0:1:74:E:3:130000:0:0:0:</channel> <!-- BG Music Channel-->
 <!-- 1.9E --><channel id="BHTV.bg">1:0:1:21B:17:3:130000:0:0:0:</channel> <!-- BHTV -->
 <!-- 1.9E --><channel id="BloombergTVBG.bg">1:0:1:F7:14:3:130000:0:0:0:</channel> <!-- Bloomberg BG -->
@@ -302,6 +301,7 @@
 <!-- 1.9E --><channel id="Nick.bg">1:0:1:111:15:3:130000:0:0:0:</channel> <!-- Nickelodeon Bulgaria-->
 <!-- 1.9E --><channel id="Nicktoons.bg">1:0:1:112:15:3:130000:0:0:0:</channel> <!-- NickToons Bulgaria-->
 <!-- 1.9E --><channel id="Nicktoons.bg">1:0:1:1EA:B:1:130000:0:0:0:</channel> <!-- NickToons Bulgaria-->
+<!-- 1.9E --><channel id="no_epg_xxx">1:0:1:165:8:3:130000:0:0:0:</channel> <!-- Barely Legal -->
 <!-- 1.9E --><channel id="NOVA.bg">1:0:1:106:15:3:130000:0:0:0:</channel> <!-- Nova HD-->
 <!-- 1.9E --><channel id="NOVAnews.bg">1:0:1:90:F:3:130000:0:0:0:</channel> <!-- Nova News HD-->
 <!-- 1.9E --><channel id="NOVAsport.bg">1:0:1:10B:15:3:130000:0:0:0:</channel><!-- Nova Sport Bulgaria -->
@@ -575,9 +575,9 @@
 <!-- 39.0E --><channel id="HistoryChannel.bg">1:0:19:E8:B2:39E:1860000:0:0:0:</channel> <!-- History Channel -->
 <!-- 39.0E --><channel id="HistoryHD.bg">1:0:1:193:3:1C:1860000:0:0:0:</channel><!-- History HD Europe -->
 <!-- 39.0E --><channel id="HistoryHD.bg">1:0:1:D0:5:1:18630AF:0:0:0:</channel><!-- History HD Europe -->
-<!-- 39.0E --><channel id="HobbyTV.bg">1:0:19:CB:5:1:1860000:0:0:0:</channel> <!-- Hobby TV-->
 <!-- 39.0E --><channel id="HistoryHD.bg">1:0:1:D0:5:1:18630B0:0:0:0:</channel> <!-- History Channel HD -->
 <!-- 39.0E --><channel id="HistoryHD.bg">1:0:19:D0:5:1:1863167:0:0:0:</channel><!-- History HD Europe -->
+<!-- 39.0E --><channel id="HobbyTV.bg">1:0:19:CB:5:1:1860000:0:0:0:</channel> <!-- Hobby TV-->
 <!-- 39.0E --><channel id="ID.bg">1:0:1:13E:12:1C:1860000:0:0:0:</channel><!-- Investigation Discovery Europe -->
 <!-- 39.0E --><channel id="ID.bg">1:0:19:1EF:B:1:186AB7F:0:0:0:</channel><!-- Investigation Discove -->
 <!-- 39.0E --><channel id="IDXtra.bg">1:0:1:7A:4:1:186AFB5:0:0:0:</channel> <!-- ID Xtra-->
@@ -648,8 +648,6 @@
 <!-- 39.0E --><channel id="Nicktoons.bg">1:0:1:48:6:1:18630EC:0:0:0</channel> <!-- Nick Toons-->
 <!-- 39.0E --><channel id="Nicktoons.bg">1:0:1:48:6:1:18630EC:0:0:0:</channel> <!-- Nick Toons-->
 <!-- 39.0E --><channel id="Nicktoons.bg">1:0:19:FB:B2:39E:1860000:0:0:0:</channel> <!-- Nicktoons -->
-<!--1.9E --><channel id="no_epg_xxx">1:0:1:1AB:A:2:130000:0:0:0:</channel> <!-- XY Max-->
-<!--1.9E --><channel id="no_epg_xxx">1:0:1:1C0:A:2:130000:0:0:0:</channel> <!-- XY Mix-->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:3A:2:1:1862FA2:0:0:0:</channel> <!-- XYPLUS -->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:3A:2:1:1862FA3:0:0:0:</channel> <!-- XY Plus -->
 <!-- 39.0E --><channel id="no_epg_xxx">1:0:1:57:6:1:18630EC:0:0:0</channel> <!-- Passion XXX2-->
@@ -853,6 +851,8 @@
 <!-- 45.0E --><channel id="VivacomArena.bg">1:0:19:86:1:D5:1C20000:0:0:0:</channel> <!-- VIVACOM Arena HD -->
 <!-- 45.0E --><channel id="Wness.tv">1:0:1:13A3:6:D5:1C20000:0:0:0:</channel> <!-- WNESS TV -->
 <!-- IPTV --><channel id="TVT.bg">1:0:1:65:0:0:0:0:0:0:HTTP%3A//</channel> <!-- TVT-->
+<!--1.9E --><channel id="no_epg_xxx">1:0:1:1AB:A:2:130000:0:0:0:</channel> <!-- XY Max-->
+<!--1.9E --><channel id="no_epg_xxx">1:0:1:1C0:A:2:130000:0:0:0:</channel> <!-- XY Mix-->
 <!-- IPTV --><channel id="AuftankenTV.ch">1:0:1:1626:2B5C:13E:820000:0:0:0:HTTP%3A//</channel><!-- Auftanken TV -->
 <!-- IPTV --><channel id="Nick_7+.ch">1:0:1:5377:4592:EC:0:0:0:0:HTTP%3A//</channel><!-- Nick / 7+ -->
 <!-- Misc --><channel id="TF1.fr">1:0:1:8:1:1:14AB136:0:0:0:</channel><!-- TF1 HD -->
@@ -3742,6 +3742,7 @@
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:19:106A:29:46:E080000:0:0:0:</channel><!-- History Chnl HD -->
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:19:106E:29:46:E080000:0:0:0:</channel><!-- History Chnl HD -->
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:19:106F:29:46:E080000:0:0:0:</channel><!-- HISTORY -->
+<!-- 0.8W --><channel id="HISTORY.hu">1:0:19:3C36:C90:3:EB0000:0:0:0:</channel><!-- History HD -->
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:19:773C:2C1:600:E080000:0:0:0:</channel><!-- History HD -->
 <!-- 0.8W --><channel id="ID.hu">1:0:1:785B:2C4:600:E080000:0:0:0:</channel><!-- Discovery ID -->
 <!-- 0.8W --><channel id="ID.hu">1:0:1:A14:5:1:E080000:0:0:0:</channel><!-- Investigation Discovery -->
@@ -4017,7 +4018,6 @@
 <!-- 23,5E --><channel id="RTL.hu">1:0:1:4F12:C81:3:EB0000:0:0:0:</channel><!-- RTL -->
 <!-- 23.5E --><channel id="AutoMotorSport.hu">1:0:19:1432:CA2:3:EB0000:0:0:0:</channel><!-- Auto Motor und Sport -->
 <!-- 23.5E --><channel id="AutoMotorSport.hu">1:0:19:17D7:C91:3:EB0000:0:0:0:</channel><!-- AutoMotorSport HD  -->
-<!-- 23.5E --><channel id="ZoneReality.hu">1:0:16:3C33:C90:3:EB0000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 23.5E --><channel id="Cinemax.hu">1:0:19:3C2C:C90:3:EB0000:0:0:0:</channel><!--  Cinemax HD -->
 <!-- 23.5E --><channel id="Cinemax2.hu">1:0:19:3CF6:C95:3:EB0000:0:0:0:</channel><!-- Cinemax2 -->
 <!-- 23.5E --><channel id="ComedyCentral.hu">1:0:16:3A9F:C84:3:EB0000:0:0:0:</channel><!-- Comedy Central Hungary -->
@@ -4030,7 +4030,6 @@
 <!-- 23.5E --><channel id="Duna2.hu">1:0:16:3AA0:C84:3:EB0000:0:0:0:</channel><!-- Duna World / M4 Sport+ -->
 <!-- 23.5E --><channel id="ExtremeSports.hu">1:0:16:3B6C:C8D:3:EB0000:0:0:0:</channel><!-- Extreme Sports Channel -->
 <!-- 23.5E --><channel id="FEM3.hu">1:0:16:3AA5:C84:3:EB0000:0:0:0:</channel><!-- Fem3 -->
-<!-- 23.5E --><channel id="JimJam.hu">1:0:16:3C37:C90:3:EB0000:0:0:0:</channel><!-- JimJam CZ  -->
 <!-- 23.5E --><channel id="Film4.hu">1:0:1:4EFE:C81:3:EB0000:0:0:0:</channel><!-- Film 4 -->
 <!-- 23.5E --><channel id="FilmPlus.hu">1:0:1:4F00:C81:3:EB0000:0:0:0:</channel><!-- Film+ HD Hungary -->
 <!-- 23.5E --><channel id="FilmPlus.hu">1:0:19:3AA1:C84:3:EB0000:0:0:0:</channel><!-- Film+ HD Hungary -->
@@ -4038,6 +4037,7 @@
 <!-- 23.5E --><channel id="Galaxy.hu">1:0:16:3A98:C84:3:EB0000:0:0:0:</channel><!-- Galaxy4 -->
 <!-- 23.5E --><channel id="HirTV.hu">1:0:16:3AA7:C84:3:EB0000:0:0:0:</channel><!-- HirTV -->
 <!-- 23.5E --><channel id="IzauraTV.hu">1:0:16:3AA3:C84:3:EB0000:0:0:0:</channel><!-- Izaura TV -->
+<!-- 23.5E --><channel id="JimJam.hu">1:0:16:3C37:C90:3:EB0000:0:0:0:</channel><!-- JimJam CZ  -->
 <!-- 23.5E --><channel id="LoveNature.hu">1:0:19:30F:C94:3:EB0000:0:0:0:</channel><!-- Love Nature -->
 <!-- 23.5E --><channel id="m1.hu">1:0:1:4EF2:C8B:3:EB0000:0:0:0:</channel><!-- M1 HD -->
 <!-- 23.5E --><channel id="m1.hu">1:0:19:3A9A:C84:3:EB0000:0:0:0:</channel><!-- M1 HD -->
@@ -4048,7 +4048,6 @@
 <!-- 23.5E --><channel id="MagyarATV.hu">1:0:16:3AA6:C84:3:EB0000:0:0:0:</channel><!-- ATV -->
 <!-- 23.5E --><channel id="Minimax.hu">1:0:1:4EFB:C81:3:EB0000:0:0:0:</channel><!-- Minimax  -->
 <!-- 23.5E --><channel id="Minimax.hu">1:0:16:3CFB:C95:3:EB0000:0:0:0:</channel><!-- Minimax  -->
-<!-- 0.8W --><channel id="HISTORY.hu">1:0:19:3C36:C90:3:EB0000:0:0:0:</channel><!-- History HD -->
 <!-- 23.5E --><channel id="MoziPlus.hu">1:0:16:3AAB:C84:3:EB0000:0:0:0:</channel><!-- Mozi+ -->
 <!-- 23.5E --><channel id="MuzsikaTV.hu">1:0:1:4F09:C81:3:EB0000:0:0:0:</channel><!-- Muzsika TV -->
 <!-- 23.5E --><channel id="MuzsikaTV.hu">1:0:16:3AAC:C84:3:EB0000:0:0:0:</channel><!-- Muzsika TV -->
@@ -4085,6 +4084,7 @@
 <!-- 23.5E --><channel id="ViasatNature.hu">1:0:19:3CF1:C95:3:EB0000:0:0:0:</channel><!-- Viasat Nature -->
 <!-- 23.5E --><channel id="ViasatNature.hu">1:0:19:4EA0:CA4:3:EB0000:0:0:0:</channel><!-- Viasat Nature -->
 <!-- 23.5E --><channel id="Zenebutik.hu">1:0:16:3AAA:C84:3:EB0000:0:0:0:</channel><!-- Zenebutik -->
+<!-- 23.5E --><channel id="ZoneReality.hu">1:0:16:3C33:C90:3:EB0000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 30.0W --><channel id="Mezzo.en">1:0:19:138F:30:36:CE40000:0:0:0:</channel><!-- Mezzo -->
 <!-- 31.5E --><channel id="Boomerang.hu">1:0:1:2149:1474:A7:13B0000:0:0:0:</channel><!-- Boomerang -->
 <!-- 31.5E --><channel id="CartoonNetwork.hu">1:0:1:20E3:1470:A7:13B0000:0:0:0:</channel><!-- Cartoon Network -->
@@ -5938,9 +5938,11 @@
 <!-- 28.2E --><channel id="CGTN.cn">1:0:1:D3C8:829:2:11A0000:0:0:0:</channel><!-- CCTV News -->
 <!-- 28.2E --><channel id="CNBC.uk">1:0:1:C6C2:82A:2:11A0000:0:0:0:</channel><!-- CNBC -->
 <!-- 28.2E --><channel id="CNBC.uk">1:0:19:13E0:7E8:2:11A0000:0:0:0:</channel><!-- CNBC -->
+<!-- 28.2E --><channel id="NHKworld.jp">1:0:19:CF9B:83A:2:11A0000:0:0:0:</channel><!-- NHK World TV HD -->
 <!-- 28.2E --><channel id="CNN.nws">1:0:1:C48C:811:2:11A0000:0:0:0:</channel><!-- CNN -->
 <!-- 28.2E --><channel id="CNN.nws">1:0:19:C472:837:2:11A0000:0:0:0:</channel><!-- CNN -->
 <!-- 28.2E --><channel id="Euronews.nws">1:0:1:D3D0:829:2:11A0000:0:0:0:</channel><!-- Euronews (english) -->
+<!-- 28.2E --><channel id="ArirangTv.kr">1:0:19:CF9E:83A:2:11A0000:0:0:0:</channel><!-- Arirang TV -->
 <!-- 28.2E --><channel id="EWTNCatholic.eu">1:0:1:CBA8:83C:2:11A0000:0:0:0:</channel><!-- EWTN Catholic -->
 <!-- 28.2E --><channel id="France24.fr">1:0:19:D80E:838:2:11A0000:0:0:0:</channel><!-- France 24 (English) -->
 <!-- 28.2E --><channel id="NBCNewsNow.nws">1:0:19:D1CE:841:2:11A0000:0:0:0:</channel><!-- NBC News Now -->
@@ -7288,17 +7290,17 @@
 <!-- 0.8W --><channel id="TLCsverige.se">1:0:1:1A1:4:46:E080000:0:0:0:</channel><!-- TLC Sverige -->
 <!-- 0.8W --><channel id="TLCsverige.se">1:0:19:1C3E:21:46:E080000:0:0:0:</channel><!-- TLC Sverige HD -->
 <!-- 0.8W --><channel id="TravelChannelHD.eu">1:0:19:424:4A:46:E080000:0:0:0:</channel><!-- Travel Channel HD -->
-<!-- 0.8W --><channel id="TV10.se">1:0:19:1EFB:4F:46:E080000:0:0:0:</channel><!-- TV10 -->
 <!-- 0.8W --><channel id="TV10.se">1:0:16:FC5:3:46:E080000:0:0:0:</channel><!-- TV10 -->
 <!-- 0.8W --><channel id="TV10.se">1:0:19:1B77:45:46:E080000:0:0:0:</channel><!-- TV10 -->
+<!-- 0.8W --><channel id="TV10.se">1:0:19:1EFB:4F:46:E080000:0:0:0:</channel><!-- TV10 -->
 <!-- 0.8W --><channel id="TV10.se">1:0:19:42EB:45:46:E080000:0:0:0:</channel><!-- TV10 -->
 <!-- 0.8W --><channel id="TV11.se">1:0:1:83B:1B:46:E080000:0:0:0:</channel><!-- Kanal 11 -->
 <!-- 0.8W --><channel id="TV11.se">1:0:19:4440:4:46:E080000:0:0:0:</channel><!-- Kanal 11 -->
 <!-- 0.8W --><channel id="TV12.se">1:0:19:1E0C:3D:46:E080000:0:0:0:</channel><!-- TV12 HD -->
-<!-- 0.8W --><channel id="TV3.se">1:0:19:1D16:4F:46:E080000:0:0:0:</channel><!-- TV3 (S) -->
 <!-- 0.8W --><channel id="TV3.se">1:0:1:D4F:2:46:E080000:0:0:0:</channel><!-- TV3 (S) -->
 <!-- 0.8W --><channel id="TV3.se">1:0:1:D56:2:46:E080000:0:0:0:</channel><!-- TV3 (S) -->
 <!-- 0.8W --><channel id="TV3.se">1:0:19:115E:45:46:E080000:0:0:0:</channel><!-- TV3 HD (S) -->
+<!-- 0.8W --><channel id="TV3.se">1:0:19:1D16:4F:46:E080000:0:0:0:</channel><!-- TV3 (S) -->
 <!-- 0.8W --><channel id="TV3.se">1:0:19:4426:45:46:E080000:0:0:0:</channel><!-- TV3 HD (S) -->
 <!-- 0.8W --><channel id="TV3.se">1:0:19:4699:18:46:E080000:0:0:0:</channel><!-- TV3 HD (S) -->
 <!-- 0.8W --><channel id="TV4.se">1:0:1:1C24:1:46:E080000:0:0:0:</channel><!-- TV4 -->
@@ -7311,14 +7313,14 @@
 <!-- 0.8W --><channel id="TV4Film.se">1:0:1:4299:1:46:E080000:0:0:0:</channel><!-- TV4 Film -->
 <!-- 0.8W --><channel id="TV4Film.se">1:0:16:1B89:1:46:E080000:0:0:0:</channel><!-- TV4 Film -->
 <!-- 0.8W --><channel id="TV4Guld.se">1:0:16:1B87:1:46:E080000:0:0:0:</channel><!-- TV4 Guld -->
-<!-- 0.8W --><channel id="TV6.se">1:0:19:1C15:4E:46:E080000:0:0:0:</channel><!-- TV6 HD Sweden -->
 <!-- 0.8W --><channel id="TV6.se">1:0:19:1B86:3E:46:E080000:0:0:0:</channel><!-- TV6 HD Sweden -->
+<!-- 0.8W --><channel id="TV6.se">1:0:19:1C15:4E:46:E080000:0:0:0:</channel><!-- TV6 HD Sweden -->
 <!-- 0.8W --><channel id="TV6.se">1:0:19:4296:3E:46:E080000:0:0:0:</channel><!-- TV6 HD Sweden -->
 <!-- 0.8W --><channel id="TV8.se">1:0:1:1BA3:1:46:E080000:0:0:0:</channel><!-- TV8 -->
 <!-- 0.8W --><channel id="TV8.se">1:0:1:73A:3E:46:E080000:0:0:0:</channel><!-- TV8 -->
 <!-- 0.8W --><channel id="TV8.se">1:0:16:1BA3:3:46:E080000:0:0:0:</channel><!-- TV8 -->
-<!-- 0.8W --><channel id="TV8.se">1:0:19:1EF9:4F:46:E080000:0:0:0:</channel><!-- TV8 -->
 <!-- 0.8W --><channel id="TV8.se">1:0:19:1B75:45:46:E080000:0:0:0:</channel><!-- TV8 -->
+<!-- 0.8W --><channel id="TV8.se">1:0:19:1EF9:4F:46:E080000:0:0:0:</channel><!-- TV8 -->
 <!-- 0.8W --><channel id="TV8.se">1:0:19:4285:45:46:E080000:0:0:0:</channel><!-- TV8 -->
 <!-- 0.8W --><channel id="ViasatFilmAction.fi">1:0:19:115F:50:46:E080000:0:0:0:</channel><!-- Viasat Film Action -->
 <!-- 0.8W --><channel id="ViasatFilmAction.se">1:0:19:115F:50:46:E080000:0:0:0:</channel><!-- Viasat Film Action -->
@@ -8492,8 +8494,8 @@
 <!-- 28.2E --><channel id="BBC1Scotland.uk">1:0:19:22C5:80D:2:11A0000:0:0:0:</channel><!-- BBC 1 Scot HD -->
 <!-- 28.2E --><channel id="BBC1South.uk">1:0:19:04B4:7E8:2:11A0000:0:0:0:</channel><!-- BBC One South HD -->
 <!-- 28.2E --><channel id="BBC1South.uk">1:0:19:4B4:7E8:2:11A0000:0:0:0:</channel><!-- BBC One South HD -->
-<!-- 28.2E --><channel id="BBC1SouthEast.uk">1:0:19:1B13:802:2:11A0000:0:0:0:</channel><!-- BBC 1 S East -->
 <!-- 28.2E --><channel id="BBC1SouthEast.uk">1:0:1:193D:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 S East -->
+<!-- 28.2E --><channel id="BBC1SouthEast.uk">1:0:19:1B13:802:2:11A0000:0:0:0:</channel><!-- BBC 1 S East -->
 <!-- 28.2E --><channel id="BBC1SouthWest.uk">1:0:1:18ED:7FD:2:11A0000:0:0:0:</channel><!-- BBC 1 S West -->
 <!-- 28.2E --><channel id="BBC1SouthWest.uk">1:0:19:2865:7FE:2:11A0000:0:0:0:</channel><!-- BBC One South West HD -->
 <!-- 28.2E --><channel id="BBC1Wales.uk">1:0:19:22CF:80D:2:11A0000:0:0:0:</channel><!-- BBC 1 Wal HD -->
@@ -8523,6 +8525,7 @@
 <!-- 28.2E --><channel id="BBCOneHD.uk">1:0:1:195B:7F5:2:11A0000:0:0:</channel><!-- BBC One -->
 <!-- 28.2E --><channel id="BBCOneHD.uk">1:0:19:1B1D:802:2:11A0000:0:0:0:</channel><!-- BBC One HD -->
 <!-- 28.2E --><channel id="BBCOneHD.uk">1:0:19:1B31:802:2:11A0000:0:0:0:</channel><!-- BBC One HD -->
+<!-- 28.2E --><channel id="BBCParliament.uk">1:0:19:18A4:7FD:2:11A0000:0:0:0:</channel><!-- BBC Parliament -->
 <!-- 28.2E --><channel id="BBCParliament.uk">1:0:1:1912:7F5:2:11A0000:0:0:</channel><!-- BBC Parliament -->
 <!-- 28.2E --><channel id="BBCParliament.uk">1:0:1:1912:7F5:2:11A0000:0:0:0:</channel><!-- BBC Parliament -->
 <!-- 28.2E --><channel id="BBCRedButton.uk">1:0:1:1913:7F5:2:11A0000:0:0:</channel><!-- BBC RB -->
