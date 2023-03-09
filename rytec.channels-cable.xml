@@ -493,7 +493,6 @@
 <!-- Cable --><channel id="Rai3.it">1:0:1:327:8:1:FFFF01FB:0:0:0:</channel><!-- Rai 3 -->
 <!-- Cable --><channel id="RaiGulp.it">1:0:1:712:12:1:FFFF0273:0:0:0:</channel><!-- Rai Gulp -->
 <!-- Cable --><channel id="RaiNews.it">1:0:1:32A:8:1:FFFF01FB:0:0:0:</channel><!-- Rai News -->
-<!-- Cable --><channel id="RaiSport2.it">1:0:1:70F:12:1:FFFF0273:0:0:0:</channel><!-- Rai Sport 2 -->
 <!-- Cable --><channel id="RecordTV.eu">1:0:1:453:B:1:FFFF0213:0:0:0:</channel><!-- Rede Record Internaci -->
 <!-- Cable --><channel id="Rete4.it">1:0:1:328:8:1:FFFF01FB:0:0:0:</channel><!-- Rete 4 -->
 <!-- Cable --><channel id="RMCdecouverte.fr">1:0:1:4B9:C:1:FFFF021B:0:0:0:</channel><!-- RMC DECOUVERTE -->
@@ -663,7 +662,6 @@
 <!-- Cable --><channel id="Rai4.it">1:0:1:5554:322:8:FFFF0000:0:0:0:</channel><!-- Rai 4 -->
 <!-- Cable --><channel id="RaiNews.it">1:0:1:31C:133:3:FFFF0000:0:0:0:</channel><!-- Rai News -->
 <!-- Cable --><channel id="RaiScuola.it">1:0:1:31B:133:3:FFFF0000:0:0:0:</channel><!-- Rai Scuola -->
-<!-- Cable --><channel id="RaiSport2.it">1:0:1:2FD:143:3:FFFF0000:0:0:0:</channel><!-- Rai Sport 2 -->
 <!-- Cable --><channel id="rbbBerlin.de">1:0:1:1CF:139:3:FFFF0000:0:0:0:</channel><!-- rbb Berlin HD -->
 <!-- Cable --><channel id="RecordTV.eu">1:0:1:34A:145:3:FFFF0000:0:0:0:</channel><!-- Record int. -->
 <!-- Cable --><channel id="Rete4.it">1:0:1:30C:133:3:FFFF0000:0:0:0:</channel><!-- Rete 4 * -->
@@ -822,7 +820,6 @@
 <!-- Cable --><channel id="Rai3.it">1:0:1:C2:32:18:FFFF0000:0:0:0:</channel><!-- Rai3 -->
 <!-- Cable --><channel id="RaiScuola.it">1:0:1:C4:32:18:FFFF0000:0:0:0:</channel><!-- Rai Scuola -->
 <!-- Cable --><channel id="RaiSport.it">1:0:1:C7:34:19:FFFF0000:0:0:0:</channel><!-- Rai Sport 1 -->
-<!-- Cable --><channel id="RaiSport2.it">1:0:1:C8:34:19:FFFF0000:0:0:0:</channel><!-- Rai Sport 2 -->
 <!-- Cable --><channel id="RaiStoria.it">1:0:1:C9:34:19:FFFF0000:0:0:0:</channel><!-- Rai Storia -->
 <!-- Cable --><channel id="rheinmaintv.de">1:0:1:7A:1C:C:FFFF0000:0:0:0:</channel><!-- rhein main tv -->
 <!-- Cable --><channel id="RSILa1.ch">1:0:1:BE:C:2:FFFF021A:0:0:0:</channel><!-- RSI LA 1 -->
@@ -3692,8 +3689,8 @@
 <!-- Cable --><channel id="SkySpMix.uk">1:0:19:A2B:4C:601:FFFF0000:0:0:0:</channel><!-- Sky Sports Mix HD -->
 <!-- Cable --><channel id="SkySpNews.uk">1:0:1:130:35:601:FFFF0000:0:0:0:</channel><!-- Sky Sports News HQ -->
 <!-- Cable --><channel id="SkySpNews.uk">1:0:19:70C:44:601:FFFF0000:0:0:0:</channel><!-- Sky Sports News HQ HD -->
-<!-- Cable --><channel id="SkySports1.ie">1:0:19:76D:45:601:FFFF0000:0:0:0:</channel><!-- Sky Sports 1 HD -->
-<!-- Cable --><channel id="SkySports5.ie">1:0:19:770:45:601:FFFF0000:0:0:0:</channel><!-- Sky Sports 5 HD -->
+<!-- Cable --><channel id="">1:0:19:76D:45:601:FFFF0000:0:0:0:</channel><!-- Sky Sports 1 HD -->
+<!-- Cable --><channel id="">1:0:19:770:45:601:FFFF0000:0:0:0:</channel><!-- Sky Sports 5 HD -->
 <!-- Cable --><channel id="SkySpPL.uk">1:0:1:1FE:37:601:FFFF0000:0:0:0:</channel><!-- Sky Sports Premier League -->
 <!-- Cable --><channel id="SkySpTheOpen.uk">1:0:1:D3:34:601:FFFF0000:0:0:0:</channel><!-- Sky Sports Golf -->
 <!-- Cable --><channel id="SkySpTheOpen.uk">1:0:19:70D:44:601:FFFF0000:0:0:0:</channel><!-- Sky Sports Golf HD -->
@@ -3928,9 +3925,6 @@
 <!-- DVB-T --><channel id="RaiPremium.it">1:0:16:3EE:4:13E:EEEE0000:0:0:0:</channel><!-- Rai Premium -->
 <!-- DVB-T --><channel id="RaiScuola.it">1:0:16:41E:2:217C:EEEE0000:0:0:0:</channel><!-- Rai Scuola -->
 <!-- DVB-T --><channel id="RaiSport.it">1:0:16:41D:2:217C:EEEE0000:0:0:0:</channel><!-- Rai Sport HD -->
-<!-- DVB-T --><channel id="RaiSportPlus.it">1:0:19:2197:5:13E:EEEE0000:0:0:0:</channel><!-- Rai Sport + -->
-<!-- DVB-T --><channel id="RaiSportPlus.it">1:0:19:3E9:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Sport + -->
-<!-- DVB-T --><channel id="RaiSportPlus.it">1:0:19:400:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Sport + HD -->
 <!-- DVB-T --><channel id="RaiStoria.it">1:0:16:3EF:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Storia -->
 <!-- DVB-T --><channel id="RaiYoyo.it">1:0:1:2186:4:13E:EEEE0000:0:0:0:</channel><!-- Rai YoYo -->
 <!-- DVB-T --><channel id="RaiYoyo.it">1:0:16:3ED:1:217C:EEEE0000:0:0:0:</channel><!-- Rai YoYo -->
@@ -6113,6 +6107,7 @@
 <!-- Cable --><channel id="Diva.svn">1:0:1:2905:69:1F5:FFFF0000:0:0:0:</channel><!-- Universal Channel -->
 <!-- Cable --><channel id="DMSat.svn">1:0:1:283E:67:1F5:FFFF0000:0:0:0:</channel><!-- DM Sat -->
 <!-- Cable --><channel id="DTXHD.svn">1:0:1:3779:8E:1F5:FFFF0000:0:0:0:</channel><!-- HD Discovery DTX -->
+<!-- Cable --><channel id="E!Entertainment.svn">1:0:1:2BC4:6C:1F5:FFFF0000:0:0:0:</channel><!-- E! -->
 <!-- Cable --><channel id="E!Entertainment.svn">1:0:1:2BC4:70:1F5:FFFF0000:0:0:0:</channel><!-- E! -->
 <!-- Cable --><channel id="EPICDramaHD.svn">1:0:1:3843:90:1F5:FFFF0000:0:0:0:</channel><!-- EPIC Drama HD -->
 <!-- Cable --><channel id="Euronews.svn">1:0:1:2D54:74:1F5:FFFF0000:0:0:0:</channel><!-- Euro News -->
