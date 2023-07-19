@@ -34,7 +34,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epgspot.com/rytec_epg/azman.channels.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/azman.channels.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/epg_data/azman.channels.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>			
+			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>
 		</channel>
 	</mappings>
 
@@ -292,34 +292,34 @@ The description must be unique for each source, and is displayed on the UI.
 	</sourcecat>
 
 <sourcecat sourcecatname="Koala Espana EPG Movistar XMLTV">
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Koala 3 dias XMLTV</description>
-        <url>http://tropical.jungle-team.online/epg/koala3.xml.gz</url>
-    </source>
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Koala 7 dias - Classic XMLTV</description>
-        <url>http://tropical.jungle-team.online/epg/koala7.xml.gz</url>
-    </source>
 	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Koala 7 dias - Mod XMLTV </description>
-        <url>http://tropical.jungle-team.online/epg/koala7_2.xml.gz</url>
-    </source>
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Koala 15 dias XMLTV</description>
-        <url>http://tropical.jungle-team.online/epg/koala15.xml.gz</url>
-    </source>
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Koala 30 dias XMLTV</description>
-        <url>http://tropical.jungle-team.online/epg/koala30.xml.gz</url>
-    </source>
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>LaQuay TDT Channels XMLTV</description>
-        <url>http://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml.gz</url>
-    </source>
-    <source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
-        <description>Pluto XMLTV</description>
-        <url>http://tropical.jungle-team.online/epg/es.xml.gz</url>
-    </source>
+		<description>Koala 3 dias XMLTV</description>
+		<url>http://tropical.jungle-team.online/epg/koala3.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>Koala 7 dias - Classic XMLTV</description>
+		<url>http://tropical.jungle-team.online/epg/koala7.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>Koala 7 dias - Mod XMLTV </description>
+		<url>http://tropical.jungle-team.online/epg/koala7_2.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>Koala 15 dias XMLTV</description>
+		<url>http://tropical.jungle-team.online/epg/koala15.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>Koala 30 dias XMLTV</description>
+		<url>http://tropical.jungle-team.online/epg/koala30.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>LaQuay TDT Channels XMLTV</description>
+		<url>http://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml.gz</url>
+	</source>
+	<source type="gen_xmltv" nocheck="1" channels="http://tropical.jungle-team.online/epg/koala_epg.channels.xml.gz">
+		<description>Pluto XMLTV</description>
+		<url>http://tropical.jungle-team.online/epg/es.xml.gz</url>
+	</source>
 </sourcecat>
 
 
@@ -358,8 +358,8 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epgspot.com/rytec_epg/azman_basic.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/azman_basic.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/epg_data/azman_basic.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_basic.xml.xz</url>			
-		</source>	
+			<url>http://epg.vuplus-community.net/azman_basic.xml.xz</url>
+		</source>
 
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - Dodatkowy</description>
@@ -368,9 +368,9 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epgspot.com/rytec_epg/azman_misc.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/azman_misc.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/epg_data/azman_misc.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_misc.xml.xz</url>			
+			<url>http://epg.vuplus-community.net/azman_misc.xml.xz</url>
 		</source>
-		
+
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - IPTV</description>
 			<url>http://www.topolowa4.pl/azman_iptv.xml.xz</url>
@@ -378,9 +378,9 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epgspot.com/rytec_epg/azman_iptv.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/azman_iptv.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/epg_data/azman_iptv.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_iptv.xml.xz</url>			
+			<url>http://epg.vuplus-community.net/azman_iptv.xml.xz</url>
 		</source>
-	
+
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - Radio</description>
 			<url>http://www.topolowa4.pl/azman_radio.xml.xz</url>
@@ -388,7 +388,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epgspot.com/rytec_epg/azman_radio.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/azman_radio.xml.xz</url>
 			<url>http://rytecepg.dyndns.tv/epg_data/azman_radio.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_radio.xml.xz</url>			
+			<url>http://epg.vuplus-community.net/azman_radio.xml.xz</url>
 		</source>
 	</sourcecat>
 
