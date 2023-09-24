@@ -1590,7 +1590,7 @@
 <!-- Cable --><channel id="CartoonNetwork.dk">1:0:1:81:19:1:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- 0.8W --><channel id="CartoonNetwork.fi">1:0:16:1EEC:19:46:E080000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- Cable --><channel id="CartoonNetwork.fi">1:0:1:0192:000A:0000:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
-<!-- 19.2E --><channel id="CartoonNetwork.fr">1:0:19:245C:440:1:C00000:0:0:0:</channel><!-- Cartoon Network -->
+
 <!-- Cable --><channel id="CartoonNetwork.fr">1:0:1:131:3:1:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- Cable --><channel id="CartoonNetwork.fr">1:0:1:714:708:FD2A:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- Cable --><channel id="CartoonNetwork.fr">1:0:1:D51:14A:0:80E8:0:0:0:</channel><!-- Cartoon Network -->
@@ -5171,7 +5171,7 @@
 <!-- DVB-T --><channel id="LCI.fr">1:0:1:603:6:20FA:EEEE0000:0:0:0:</channel><!-- LCI -->
 <!-- DVB-T --><channel id="LCI.fr">1:0:16:308:3:20FA:EEEE0000:0:0:0:</channel><!-- LCI -->
 <!-- 13.0E --><channel id="LCP.fr">1:0:1:139:3E1C:13F:820000:0:0:0:</channel><!-- LCP -->
-<!-- 19.2E --><channel id="LCP.fr">1:0:19:2337:442:1:C00000:0:0:0:</channel><!-- LCP -->
+<!-- 19.2E --><channel id="LCP.fr">1:0:19:245C:440:1:C00000:0:0:0:</channel><!-- LCP -->
 <!-- 5.0W --><channel id="LCP.fr">1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:</channel><!-- LCP -->
 <!-- 5.0W --><channel id="LCP.fr">1:0:19:609:6:20FA:DDE0000:0:0:0:</channel><!-- LCP -->
 <!-- Cable --><channel id="LCP.fr">1:0:1:1E90:320:FD2A:FFFF0000:0:0:0:</channel><!-- LCP -->
@@ -9962,7 +9962,7 @@
 <!-- 16.0E --><channel id="TarafTV.ro">1:0:1:2:773:773:A00000:0:0:0:</channel><!-- Taraf TV -->
 <!-- 27.5W --><channel id="TBN-UK.uk">1:0:16:4EC0:1000:1:CFDACE7:0:0:0:</channel><!-- TBN UK -->
 <!-- 28.2E --><channel id="TBN-UK.uk">1:0:1:CB9C:83C:2:11A0000:0:0:0:</channel><!-- TBN UK -->
-<!-- 19.2E --><channel id="TCM.fr">1:0:19:2329:442:1:C00000:0:0:0:</channel><!-- TCM -->
+
 <!-- 5.0W --><channel id="TCM.fr">1:0:1:393:5208:55E:DDE0000:0:0:0:</channel><!-- TCM -->
 <!-- Cable --><channel id="TCM.fr">1:0:1:648:10:1:FFFF0000:0:0:0:</channel><!-- TCM -->
 <!-- Cable --><channel id="TCM.fr">1:0:1:6BB:6A4:FD2A:FFFF0000:0:0:0:</channel><!-- TCM -->
@@ -10093,7 +10093,7 @@
 <!-- DVB-T --><channel id="TF1.fr">1:0:1:501:5:20FA:EEEE0000:0:0:0:</channel><!-- TF1 -->
 <!-- DVB-T --><channel id="TF1.fr">1:0:19:601:6:20FA:EEEE0000:0:0:0:</channel><!-- TF1 -->
 <!-- 13.0E --><channel id="TF1SeriesFilms.fr">1:0:1:140:3E1C:13F:820000:0:0:0:</channel><!-- TF1 Séries Films -->
-<!-- 19.2E --><channel id="TF1SeriesFilms.fr">1:0:19:232B:442:1:C00000:0:0:0:</channel><!-- TF1 Séries Films -->
+<!-- 19.2E --><channel id="TF1SeriesFilms.fr">1:0:19:21FF:44C:1:C00000:0:0:0:</channel><!-- TF1 Séries Films -->
 <!-- 5.0W --><channel id="TF1SeriesFilms.fr">1:0:19:A01:A:20FA:DDE0000:0:0:0:</channel><!-- TF1 Séries Films -->
 <!-- 5.0W --><channel id="TF1SeriesFilms.fr">1:0:19:BB8:4E84:55F:DDE0000:0:0:0:</channel><!-- TF1 Séries Films -->
 <!-- Cable --><channel id="TF1SeriesFilms.fr">1:0:1:1936:1900:FD2A:FFFF0000:0:0:0:</channel><!-- TF1 Séries Films -->
