@@ -627,6 +627,7 @@
 <!-- Cable --><channel id="AT5.nl">1:0:1:52DA:80E:600:FFFF0000:0:0:0:</channel><!-- AT5 -->
 <!-- Cable --><channel id="AT5.nl">1:0:16:1394:837:600:FFFF0000:0:0:0:</channel><!-- AT5 -->
 <!-- 16.0E --><channel id="ATMKranjskaGora.svn">1:0:1:2:9CA4:16E:A00000:0:0:0:</channel><!-- ATM Kranjska Gora -->
+<!-- 28.2E --><channel id="ATNBanglaUK.uk">1:0:1:1db3:82d:2:11a0000:0:0:0:</channel><!-- ATN Bangla UK -->
 <!-- 28.2E --><channel id="ATNBanglaUK.uk">1:0:1:5849:82E:2:11A0000:0:0:0:</channel><!-- ATN Bangla UK -->
 <!-- Cable --><channel id="ATV.be">1:0:1:D3:2:1:FFFF0000:0:0:0:</channel><!-- ATV – BE -->
 <!-- IPTV --><channel id="ATV.be">4097:0:1:2:0:32:0:0:0:0:HTTP%3A//</channel><!-- ATV – BE -->
@@ -1572,6 +1573,7 @@
 <!-- Cable --><channel id="CartoonNetwork.svn">1:0:1:2A32:6C:1F5:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- 28.2E --><channel id="CartoonNetwork.uk">1:0:1:1C2E:83B:2:11A0000:0:0:0:</channel><!--Cartoon Network -->
 <!-- 28.2E --><channel id="CartoonNetwork.uk">1:0:1:C7B1:817:2:11A0000:0:0:0:</channel><!-- Cartoon Network -->
+<!-- 28.2E --><channel id="CartoonNetwork.uk">1:0:19:0fe9:7e8:2:11a0000:0:0:0:</channel><!--Cartoon Network -->
 <!-- 28.2E --><channel id="CartoonNetwork.uk">1:0:19:FA9:7E8:2:11A0000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- 28.2E --><channel id="CartoonNetworkPlus1.uk">1:0:1:1C2F:83B:2:11A0000:0:0:0:</channel><!--Cartoon Network +1 -->
 <!-- 13.0E --><channel id="CartoonPlus1.it">1:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- Cartoon Network +1 -->
@@ -1709,6 +1711,7 @@
 <!-- 28.2E --><channel id="Channel5plus1.uk">1:0:1:83B:83D:2:11A0000:0:0:0:</channel><!-- Channel 5+1 -->
 <!-- 28.2E --><channel id="Channel7.uk">1:0:1:5727:82B:2:11A0000:0:0:0:</channel><!-- Channel 7 -->
 <!-- 28.2E --><channel id="Channels24.uk">1:0:1:5726:82B:2:11A0000:0:0:0:</channel><!-- Channels 24 -->
+<!-- 28.2E --><channel id="ChartShowRetro.uk">1:0:1:cfdf:83f:2:11a0000:0:0:0:</channel><!-- Chart Show Retro -->
 <!-- Cable --><channel id="ChassePeche.fr">1:0:16:644:10:1:FFFF0000:0:0:0:</channel><!-- Chasse et Pêche -->
 <!-- 45.0E --><channel id="ChassePeche.fr">1:0:19:8B:1:D5:1C20000:0:0:0:</channel><!-- Chasse et Pêche -->
 <!-- Cable --><channel id="ChassePeche.fr">1:0:1:428C:446:1:FFFF0000:0:0:0:</channel><!-- Chasse et Pêche -->
@@ -1727,6 +1730,7 @@
 <!-- 5.0W --><channel id="Cherie25.fr">1:0:19:BBD:4E84:55F:DDE0000:0:0:0:</channel><!-- Cherie 25 -->
 <!-- DVB-T --><channel id="Cherie25.fr">1:0:19:A03:A:20FA:EEEE0000:0:0:0:</channel><!-- Cherie 25 -->
 <!-- 28.2E --><channel id="CHSTV.uk">1:0:1:CB8D:831:2:11A0000:0:0:0:</channel><!-- CHSTV -->
+<!-- 28.2E --><channel id="CHSTV.uk">1:0:1:d766:82f:2:11a0000:0:0:0:</channel><!-- CHSTV -->
 <!-- Cable --><channel id="Cielo.it">1:0:1:110C:1A8:4:FFFF0000:0:0:0:</channel><!-- Cielo -->
 <!-- 13.0E --><channel id="Cielo.it">1:0:19:1018:1A90:FBFF:820000:0:0:0:</channel><!-- Cielo -->
 <!-- 5.0W --><channel id="Cielo.it">1:0:1:2:21:B:DDE0000:0:0:0:</channel><!-- Cielo -->
@@ -1895,7 +1899,7 @@
 <!-- Cable --><channel id="CMoreFirst.no">1:0:19:25E:8:46:FFFF0000:0:0:0:</channel><!-- C More First -->
 <!-- DVB-T --><channel id="CMoreFirst.no">1:0:16:12E:8C:2242:EEEE0000:0:0:0:</channel><!-- C More First -->
 <!-- DVB-T --><channel id="CMoreFirst.no">1:0:16:12E:F0:2242:EEEE0000:0:0:0:</channel><!-- C More First -->
-<!-- 0.8W --><channel id="CMoreFotboll.se">1:0:19:1B94:3D:46:E080000:0:0:0:</channel><!-- C More Fotboll -->
+<!-- 0.8W --><channel id="CMoreFotboll.se">1:0:19:1CFD:3F:46:E080000:0:0:0:</channel><!-- C More Fotboll -->
 <!-- Cable --><channel id="CMoreFotboll.se">1:0:1:401:30:A027:FFFF0000:0:0:0:</channel><!-- C More Fotboll -->
 <!-- Cable --><channel id="CMoreFotboll.se">1:0:19:48E:3C:A027:FFFF0000:0:0:0:</channel><!-- C More Fotboll -->
 <!-- Cable --><channel id="CMoreFotboll.se">1:0:11:1B94:D:64:FFFF0000:0:0:0:</channel><!-- C More Fotboll -->
@@ -2127,8 +2131,9 @@
 <!-- 28.2E --><channel id="CreateCraft.uk">1:0:19:D15B:832:2:11A0000:0:0:0:</channel><!-- Create & Craft -->
 <!-- 28.2E --><channel id="Crime+Inv.uk">1:0:1:C4C9:811:2:11A0000:0:0:0:</channel><!--Crime+Investigation -->
 <!-- 0.8W --><channel id="Crime+Investigation.eu">1:0:1:7810:2C3:600:E080000:0:0:0:</channel><!-- Crime and Investigati -->
-<!-- 28.2E --><channel id="Crime+InvPlus1">1:0:1:C4CC:811:2:11A0000:0:0:0:</channel><!--Crime+Investigation +1 -->
+<!-- 28.2E --><channel id="Crime+InvPlus1.uk">1:0:1:C4CC:811:2:11A0000:0:0:0:</channel><!--Crime+Investigation +1 -->
 <!-- 23.5E --><channel id="CrimeAndInvestigation.nl">1:0:16:1B97:C88:3:EB0000:0:0:0:</channel><!-- Crime and Investigati -->
+<!-- 23.5E --><channel id="CrimeAndInvestigation.nl">1:0:16:1B97:C92:3:EB0000:0:0:0:</channel><!-- Crime and Investigati -->
 <!-- Cable --><channel id="CrimeAndInvestigation.nl">1:0:1:137:3:10EF:FFFF0000:0:0:0:</channel><!-- Crime and Investigati -->
 <!-- Cable --><channel id="CrimeAndInvestigation.nl">1:0:1:4C25:836:600:FFFF0000:0:0:0:</channel><!-- Crime and Investigati -->
 <!-- 28.2E --><channel id="CrimeAndInvestigationNetwork.uk">1:0:1:D110:832:2:11A0000:0:0:0:</channel><!-- Crime and Investigati -->
@@ -2209,6 +2214,7 @@
 <!-- Cable --><channel id="Cubavision.es">1:0:1:DE:2A:14:FFFF0000:0:0:0:</channel><!-- Cubavision Internacio -->
 <!-- 30.0W --><channel id="Cubavision.es">1:0:1:834:6:6:CE40000:0:0:0:</channel><!-- Cubavision Internacio -->
 <!-- Cable --><channel id="Cubavision.es">1:0:1:39A:40:36:FFFF0000:0:0:0:</channel><!-- Cubavisión Internacional -->
+<!-- 28.2E --><channel id="Cula4.ie">1:0:19:16e5:7d3:2:11a0000:0:0:0:</channel><!--Cúla4 HD -->
 <!-- 19.2E --><channel id="CuriosityChannel.de">1:0:16:31:D:85:C00000:0:0:0:</channel><!-- Curiosity Channel -->
 <!-- 9.0E --><channel id="CuriosityChannel.de">1:0:19:268:206C:9C:5A0000:0:0:0:</channel><!-- Curiosity Channel -->
 <!-- Cable --><channel id="CuriosityChannel.de">1:0:1:D099:2713:F001:FFFF0000:0:0:0:</channel><!-- Curiosity Channel -->
@@ -2218,8 +2224,9 @@
 <!-- 0.8W --><channel id="Dajto.sk">1:0:19:7AAE:2CA:600:E080000:0:0:0:</channel><!-- Dajto -->
 <!-- 16.0E --><channel id="Dajto.sk">1:0:19:7D7:9E98:16E:A00000:0:0:0:</channel><!-- Dajto -->
 <!-- 23.5E --><channel id="Dajto.sk">1:0:19:3397:C89:3:EB0000:0:0:0:</channel><!-- Dajto -->
+<!-- 23.5E --><channel id="Dajto.sk">1:0:19:3397:C9D:3:EB0000:0:0:0:</channel><!-- Dajto -->
 <!-- Cable --><channel id="DanceTrippin.nl">1:0:1:4C1F:836:600:FFFF0000:0:0:0:</channel><!-- DanceTrippin -->
-<!-- 28.2E --><channel id="Dangal.uk">1:0:1:CB88:831:2:11A0000:0:0:0:</channel><!-- Dangal -->
+<!-- 28.2E --><channel id="Dangal.uk">1:0:1:C496:811:2:11A0000:0:0:0:</channel><!-- Dangal -->
 <!-- Cable --><channel id="DasErste.de">1:0:1:7D1:2:601:FFFF0000:0:0:0:</channel><!-- Das Erste -->
 <!-- Cable --><channel id="DasErste.de">1:0:19:7919:1F:601:FFFF0000:0:0:0:</channel><!-- Das Erste -->
 <!-- Cable --><channel id="DasErste.de">1:0:1:901:17:1:FFFF0000:0:0:0:</channel><!-- Das Erste -->
@@ -2723,7 +2730,6 @@
 <!-- 0.8W --><channel id="Docubox.eu">1:0:16:7E6:AF2:BB:E080000:0:0:0:</channel><!-- Docubox -->
 <!-- 23.5E --><channel id="Docubox.eu">1:0:1:36E3:C8C:3:EB0000:0:0:0:</channel><!-- Docubox -->
 <!-- 16.0E --><channel id="Docubox.eu">1:0:19:A97:9DD0:16E:A00000:0:0:0:</channel><!-- Docubox -->
-<!-- 4.8E --><channel id="Docubox.eu">1:0:1:1B4:A:2:130000:0:0:0:</channel><!-- Docubox -->
 <!-- 1.9E --><channel id="Docubox.eu">1:0:1:1B4:A:2:130000:0:0:0:</channel><!-- Docubox -->
 <!-- 1.9E --><channel id="Docubox.eu">1:0:1:4D:C:3:130000:0:0:0:</channel><!-- Docubox -->
 <!-- 0.8W --><channel id="DocuBox.ro">1:0:16:7E6:AF2:BB:E080000:0:0:0:</channel><!-- Docubox -->
@@ -2731,6 +2737,7 @@
 <!-- 16.0E --><channel id="DocuBox.svn">1:0:19:A97:9DD0:16E:A00000:0:0:0:</channel><!-- Docubox -->
 <!-- Cable --><channel id="DogTV.pt">1:0:1:839:4C:36:FFFF0000:0:0:0:</channel><!-- DogTV -->
 <!-- 19.2E --><channel id="Dokusat.de">1:0:1:332F:45B:1:C00000:0:0:0:</channel><!-- Dokusat -->
+<!-- Cable --><channel id="Dokusat.de">1:0:19:C374:2719:F001:FFFF0000:0:0:0:</channel><!-- Dokusat -->
 <!-- 16.0E --><channel id="DomaTV.hr">1:0:1:6:9E34:16E:A00000:0:0:0:</channel><!-- Doma TV -->
 <!-- 16.0E --><channel id="DomaTV.hr">1:0:16:126:3:40:A00000:0:0:0:</channel><!-- Doma TV  -->
 <!-- DVB-T --><channel id="DomaTV.hr">1:0:1:18:D602:20BF:EEEE0000:0:0:0:</channel><!-- Doma TV -->
@@ -2785,6 +2792,7 @@
 <!-- 28.2E --><channel id="Drama.uk">1:0:1:6217:7E6:2:11A0000:0:0:0:</channel><!-- Drama -->
 <!-- 28.2E --><channel id="DramaPlus1.uk">1:0:1:6219:7E6:2:11A0000:0:0:0:</channel><!-- Drama +1 -->
 <!-- 23.5E --><channel id="DreamworksChannel.nl">1:0:1:1B62:C88:3:EB0000:0:0:0:</channel><!-- Dreamworks Channel -->
+<!-- 23.5E --><channel id="DreamworksChannel.nl">1:0:19:1B62:C92:3:EB0000:0:0:0:</channel><!-- Dreamworks Channel -->
 <!-- Cable --><channel id="DreamworksChannel.nl">1:0:19:4E49:803:600:FFFF0000:0:0:0:</channel><!-- Dreamworks Channel -->
 <!-- 0.8W --><channel id="DRRamaSjang.dk">1:0:16:1C98:A:46:E080000:0:0:0:</channel><!-- DR Ramasjang -->
 <!-- 4.8E --><channel id="DRRamaSjang.dk">1:0:1:758:1E:56:300000:0:0:0:</channel><!-- DR Ramasjang -->
@@ -2800,8 +2808,10 @@
 <!-- 0.8W --><channel id="DTX.ro">1:0:1:BB8:2:5E:E080000:0:0:0:</channel><!-- Discovery Turbo Xtra -->
 <!-- 0.8W --><channel id="DTXHD.svn">1:0:1:BB8:2:5E:E080000:0:0:0:</channel><!-- Discovery Turbo Xtra -->
 <!-- Cable --><channel id="DTXHD.svn">1:0:1:3779:8E:1F5:FFFF0000:0:0:0:</channel><!-- Discovery Turbo Xtra -->
+<!-- 26.0E --><channel id="DubaiOne.ae">1:0:19:3:1FC:2BE:1040000:0:0:0:</channel><!-- Dubai One -->
 <!-- 7.0W --><channel id="DubaiOne.ae">1:0:1:89B:1FC:2BE:1040000:0:0:0:</channel><!-- Dubai One -->
-<!-- Misc --><channel id="DubaiOne.ae">1:0:1:126F:2F:800:DC00000:0:0:0:</channel><!-- Dubai One -->
+<!-- 7.0W --><channel id="DubaiOne.ae">1:0:19:3:D1C4:77E:DCA0000:0:0:0:</channel><!-- Dubai One -->
+<!-- 8.0W --><channel id="DubaiOne.ae">1:0:1:126F:2F:800:DC00000:0:0:0:</channel><!-- Dubai One -->
 <!-- 0.8W --><channel id="DuckTV.cz">1:0:1:7800:2C3:600:E080000:0:0:0:</channel><!-- Duck TV -->
 <!-- 16.0E --><channel id="DuckTV.cz">1:0:16:280:C418:16E:A00000:0:0:0:</channel><!-- Duck TV -->
 <!-- 23.5E --><channel id="DuckTV.cz">1:0:16:36FD:C8C:3:EB0000:0:0:0:</channel><!-- Duck TV -->
@@ -2877,7 +2887,7 @@
 <!-- 28.2E --><channel id="E4plus1.uk">1:0:1:210A:2012:233A:11A0000:0:0:0:</channel><!-- E4 +1 -->
 <!-- 28.2E --><channel id="E4plus1.uk">1:0:1:2422:7F9:2:11A0000:0:0:0:</channel><!-- E4 +1 (Ireland) -->
 <!-- 23.5E --><channel id="EarthxTV.eu">1:0:19:52F1:C96:3:EB0000:0:0:0:</channel><!-- EarthxTV -->
-<!-- 28.2E --><channel id="EarthxTV.uk">1:0:19:C454:837:2:11A0000:0:0:0:</channel><!-- EarthxTV -->
+<!-- 28.2E --><channel id="EarthxTV.uk">1:0:19:C5A8:842:2:11A0000:0:0:0:</channel><!-- EarthxTV -->
 <!-- Cable --><channel id="Eclips.be">1:0:1:4B9:C:1:FFFF0000:0:0:0:</channel><!-- Eclips -->
 <!-- 23.5E --><channel id="Eclips.be">1:0:16:51DA:C96:3:EB0000:0:0:0:</channel><!-- Eclips -->
 <!-- 28.2E --><channel id="Eden.uk">1:0:1:1966:7E6:2:11A0000:0:0:0:</channel><!-- Eden -->
@@ -2923,7 +2933,7 @@
 <!-- 30.0W --><channel id="elevensports6.pt">1:0:1:17BB:27:36:CE40000:0:0:0:</channel><!-- Eleven Sports 6 -->
 <!-- 30.0W --><channel id="elevensports6.pt">1:0:1:F3F:27:36:CE40000:0:0:0:</channel><!-- Eleven Sports 6 -->
 <!-- Cable --><channel id="elevensports6.pt">1:0:1:7D2:4B:36:FFFF0000:0:0:0:</channel><!-- Eleven Sports 6 -->
-<!-- 28.2E --><channel id="EmanChannel.uk">1:0:1:CBAC:831:2:11A0000:0:0:0:</channel><!-- Eman Channel -->
+<!-- 28.2E --><channel id="EmanChannel.uk">1:0:1:C4A6:811:2:11A0000:0:0:0:</channel><!-- Eman Channel -->
 <!-- 4.0W --><channel id="EnglishClubTV.eu">1:0:1:45F:1:64:DE80000:0:0:0:</channel><!-- English Club TV -->
 <!-- 4.0W --><channel id="EnglishClubTV.eu">1:0:19:1E0A:2B:55:300000:0:0:0:</channel><!-- English Club TV -->
 <!-- 45.0E --><channel id="EnglishClubTV.eu">1:0:1:1394:6:D5:1C20000:0:0:0:</channel><!-- English Club TV -->
@@ -2999,6 +3009,7 @@
 <!-- Cable --><channel id="ESPN.nl">1:0:19:4BF1:834:600:FFFF0000:0:0:0:</channel><!-- ESPN -->
 <!-- Cable --><channel id="ESPN.nl">1:0:19:76E9:834:600:FFFF0000:0:0:0:</channel><!-- ESPN -->
 <!-- 23.5E --><channel id="ESPN2.nl">1:0:19:1BFC:C88:3:EB0000:0:0:0:</channel><!-- ESPN2 -->
+<!-- 23.5E --><channel id="ESPN2.nl">1:0:19:1BFC:C92:3:EB0000:0:0:0:</channel><!-- ESPN2 -->
 <!-- Cable --><channel id="ESPN2.nl">1:0:1:1447:13A2:3E8:FFFF0000:0:0:0:</channel><!-- ESPN2 -->
 <!-- Cable --><channel id="ESPN2.nl">1:0:1:12E:3:10EF:FFFF0000:0:0:0:</channel><!-- ESPN2 -->
 <!-- Cable --><channel id="ESPN2.nl">1:0:19:426A:11:10EF:FFFF0000:0:0:0:</channel><!-- ESPN2 -->
@@ -3103,8 +3114,8 @@
 <!-- Cable --><channel id="Eurosport.fi">1:0:1:1005:0011:0000:FFFF0000:0:0:0:</channel><!-- Eurosport Finland -->
 <!-- Cable --><channel id="Eurosport.fi">1:0:19:1005:6C:A509:FFFF0000:0:0:0:</channel><!-- Eurosport Finland -->
 <!-- 0.8W --><channel id="Eurosport.se">1:0:19:1C6B:30:46:E080000:0:0:0:</channel><!-- Eurosport -->
-<!-- DVB-T --><channel id="Eurosport.se">1:0:16:2EE:6:22F1:EEEE0000:0:0:0:</channel><!-- Eurosport -->
 <!-- DVB-T --><channel id="Eurosport.se">1:0:1:1E14:3FD:22F1:EEEE0000:0:0:0:</channel><!-- Eurosport -->
+<!-- DVB-T --><channel id="Eurosport.se">1:0:16:2EE:6:22F1:EEEE0000:0:0:0:</channel><!-- Eurosport -->
 <!-- Cable --><channel id="Eurosport.se">1:0:1:3F9:1F:A027:FFFF0000:0:0:0:</channel><!-- Eurosport -->
 <!-- Cable --><channel id="Eurosport.se">1:0:19:54C:33:A027:FFFF0000:0:0:0:</channel><!-- Eurosport -->
 <!-- Cable --><channel id="Eurosport.se">1:0:1:3EA:6:64:FFFF0000:0:0:0:</channel><!-- Eurosport -->
@@ -3145,6 +3156,7 @@
 <!-- DVB-T --><channel id="Eurosport1.fr">1:0:1:10D1:10CC:FD2A:FFFF0000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 9.0E --><channel id="EuroSport1.gr">1:0:1:448:4:AA:5A0000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 39.0E --><channel id="Eurosport1.hr">1:0:1:87:11:1C:1860000:0:0:0:</channel><!-- Eurosport 1 -->
+<!-- 13.0E --><channel id="Eurosport1.int">1:0:19:2BD:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- Cable --><channel id="Eurosport1.it">1:0:1:155:37:1:FFFF0000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 13.0E --><channel id="Eurosport1.it">1:0:19:F4F:2260:FBFF:820000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- Cable --><channel id="Eurosport1.nl">1:0:1:16:1395:3E8:FFFF0000:0:0:0:</channel><!-- Eurosport 1 -->
@@ -3167,7 +3179,6 @@
 <!-- 0.8W --><channel id="Eurosport1.ro">1:0:19:7DF:AF2:BB:E080000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 4.8E --><channel id="Eurosport1.ro">1:0:1:20:C8:16E:300000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 1.9E --><channel id="Eurosport1.rs">1:0:1:D2:12:3:130000:0:0:0:</channel><!-- Eurosport 1 -->
-<!-- 13.0E --><channel id="Eurosport1.rs">1:0:19:2BD:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 13.0E --><channel id="Eurosport1.rs">1:0:19:2F0:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 16.0E --><channel id="Eurosport1.svn">1:0:19:51:1:40:A00000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 39.0E --><channel id="Eurosport1.svn">1:0:1:16:5:1:1860000:0:0:0:</channel><!-- Eurosport 1 -->
@@ -3207,6 +3218,7 @@
 <!-- Cable --><channel id="Eurosport2.fr">1:0:1:6A7:6A4:FD2A:FFFF0000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 19.2E --><channel id="Eurosport2.fr">1:0:19:24BE:43C:1:C00000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 9.0E --><channel id="EuroSport2.gr">1:0:1:408:4:AA:5A0000:0:0:0:</channel><!-- Eurosport 2 -->
+<!-- 13.0E --><channel id="Eurosport2.int">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- Cable --><channel id="Eurosport2.it">1:0:1:246A:3C:1:FFFF0000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 13.0E --><channel id="Eurosport2.it">1:0:19:1036:2260:FBFF:820000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- Cable --><channel id="Eurosport2.nl">1:0:1:1472:13A1:3E8:FFFF0000:0:0:0:</channel><!-- Eurosport 2 -->
@@ -3222,7 +3234,6 @@
 <!-- 0.8W --><channel id="Eurosport2.ro">1:0:19:7E0:AF2:BB:E080000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 1.9E --><channel id="Eurosport2.rs">1:0:1:AD:15:2:130000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 1.9E --><channel id="Eurosport2.rs">1:0:1:D3:12:3:130000:0:0:0:</channel><!-- Eurosport 2 -->
-<!-- 13.0E --><channel id="Eurosport2.rs">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 13.0E --><channel id="Eurosport2.rs">1:0:19:2F1:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- 0.8W --><channel id="Eurosport2.se">1:0:19:1C6D:30:46:E080000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- DVB-T --><channel id="Eurosport2.se">1:0:16:1E32:5:22F1:EEEE0000:0:0:0:</channel><!-- Eurosport 2 -->
@@ -3395,7 +3406,6 @@
 <!-- 16.0E --><channel id="FilmBoxArthouse.hr">1:0:16:A94:9DD0:16E:A00000:0:0:0:</channel><!-- FilmBox Arthouse  -->
 <!-- 16.0E --><channel id="FilmboxArthouse.ww">1:0:16:A94:9DD0:16E:A00000:0:0:0:</channel><!-- FilmBox Arthouse  -->
 <!-- 1.9E --><channel id="FilmBoxExtra.bg">1:0:1:4C:C:3:130000:0:0:0:</channel><!-- Filmbox Extra  -->
-<!-- 39.0E --><channel id="FilmBoxExtra.bg">1:0:1:8A:5:1:1860000:0:0:0:</channel><!-- Filmbox Extra  -->
 <!-- 39.0E --><channel id="FilmBoxExtra.bg">1:0:19:8A:5:1:1860000:0:0:0:</channel><!-- Filmbox Extra  -->
 <!-- 39.0E --><channel id="FilmBoxExtra.bg">1:0:19:D3:B2:39E:1860000:0:0:0:</channel><!-- Filmbox Extra  -->
 <!-- 45.0E --><channel id="FilmBoxExtra.bg">1:0:1:13A4:6:D5:1C20000:0:0:0:</channel><!-- Filmbox Extra  -->
@@ -3862,7 +3872,7 @@
 <!-- 30.0W --><channel id="GloboNow.pt">1:0:1:17A7:2F:36:CE40000:0:0:0:</channel><!-- Globo Now -->
 <!-- Cable --><channel id="GloboNow.pt">1:0:1:674:49:36:FFFF0000:0:0:0:</channel><!-- Globo Now HD -->
 <!-- DVB-T --><channel id="GM24.it">1:0:16:18:204:1D:EEEE0000:0:0:0:</channel><!-- GM24 -->
-<!-- 0.8W --><channel id="Godare.se">1:0:16:1F2D:1B:46:E080000:0:0:0:</channel><!-- Godare -->
+<!-- 0.8W --><channel id="Godare.se">1:0:16:1D20:2B:46:E080000:0:0:0:</channel><!-- Godare -->
 <!-- 30.0W --><channel id="GODChannel.eu">1:0:1:1:56C:56C:CE40000:0:0:0:</channel><!-- GOD Channel -->
 <!-- 4.8E --><channel id="GODChannel.eu">1:0:1:FDC:6:56:300000:0:0:0:</channel><!-- GOD Channel -->
 <!-- 30.0W --><channel id="GODChannel.eu">1:0:1:8FC:6:6:CE40000:0:0:0:</channel><!-- GOD Channel -->
@@ -3895,6 +3905,8 @@
 <!-- 28.2E --><channel id="GREATmovies.ie">1:0:1:D029:83F:2:11A0000:0:0:0:</channel><!--Great! Movies Ireland -->
 <!-- 28.2E --><channel id="GREATmovies.uk">1:0:1:D043:83E:2:11A0000:0:0:0:</channel><!-- GREAT Movies -->
 <!-- 28.2E --><channel id="GREATmovies+1.uk">1:0:1:D06B:83E:2:11A0000:0:0:0:</channel><!-- GREAT Movies+1 -->
+<!-- 28.2E --><channel id="GREATReal.uk">1:0:1:D057:83E:2:11A0000:0:0:0:</channel><!-- GREAT Real -->
+<!-- 28.2E --><channel id="GREATReal+1.uk">1:0:1:D089:83E:2:11A0000:0:0:0:</channel><!-- GREAT Real+1 -->
 <!-- 28.2E --><channel id="GREATtv.ie">1:0:1:D02A:83F:2:11A0000:0:0:0:</channel><!--Great! TV Ireland -->
 <!-- Cable --><channel id="Gulli.fr">1:0:19:2907:69:1:FFFF0000:0:0:0:</channel><!-- Gulli -->
 <!-- Cable --><channel id="Gulli.fr">1:0:1:133:3:1:FFFF0000:0:0:0:</channel><!-- Gulli -->
@@ -4124,8 +4136,8 @@
 <!-- 0.8W --><channel id="HistoryChannel.se">1:0:19:106F:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HistoryChannel.se">1:0:19:1CE1:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 4.8E --><channel id="HistoryChannel.se">1:0:16:A91:23:56:300000:0:0:0:</channel><!-- History Channel  -->
-<!-- DVB-T --><channel id="HistoryChannel.se">1:0:16:1E82:5:22F1:EEEE0000:0:0:0:</channel><!-- History Channel  -->
 <!-- DVB-T --><channel id="HistoryChannel.se">1:0:16:18E2:5:22F1:EEEE0000:0:0:0:</channel><!-- History Channel  -->
+<!-- DVB-T --><channel id="HistoryChannel.se">1:0:16:1E82:5:22F1:EEEE0000:0:0:0:</channel><!-- History Channel  -->
 <!-- Cable --><channel id="HistoryChannel.se">1:0:19:553:35:A027:FFFF0000:0:0:0:</channel><!-- History Channel  -->
 <!-- Cable --><channel id="HistoryChannel.se">1:0:11:644:15:64:FFFF0000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HistoryChannel.svn">1:0:19:106A:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
@@ -4163,7 +4175,7 @@
 <!-- Cable --><channel id="HorseCountry.nl">1:0:1:59E2:17:10EF:FFFF0000:0:0:0:</channel><!-- Horse & Country -->
 <!-- Cable --><channel id="HorseCountry.nl">1:0:1:495:18:6FF:FFFF0000:0:0:0:</channel><!-- Horse & Country -->
 <!-- Cable --><channel id="HorseCountry.nl">1:0:1:4E67:804:600:FFFF0000:0:0:0:</channel><!-- Horse & Country -->
-<!-- 0.8W --><channel id="HorseCountry.se">1:0:16:1C1A:1:46:E080000:0:0:0:</channel><!-- Horse & Country -->
+<!-- 0.8W --><channel id="HorseCountry.se">1:0:16:1CFA:42:46:E080000:0:0:0:</channel><!-- Horse & Country -->
 <!-- DVB-T --><channel id="HorseCountry.se">1:0:16:1D74:5:22F1:EEEE0000:0:0:0:</channel><!-- Horse & Country -->
 <!-- 13.0E --><channel id="HorseTV.it">1:0:19:422E:2F44:13E:820000:0:0:0:</channel><!-- Horse TV HD -->
 <!-- Cable --><channel id="HorseTV.pt">1:0:1:1145:2C:36:FFFF0000:0:0:0:</channel><!-- Horse TV -->
@@ -4369,7 +4381,7 @@
 <!-- DVB-T --><channel id="Iris.it">1:0:19:1013:3AC:110:EEEE0000:0:0:0:</channel><!-- Iris -->
 <!-- DVB-T --><channel id="Iris.it">1:0:19:99:385:110:EEEE0000:0:0:0:</channel><!-- Iris -->
 <!-- 28.2E --><channel id="IslamBangla.uk">1:0:1:CBA6:83C:2:11A0000:0:0:0:</channel><!-- Islam Bangla -->
-<!-- 28.2E --><channel id="IslamChannel.uk">1:0:1:C4EF:813:2:11A0000:0:0:0:</channel><!-- Islam Channel -->
+<!-- 28.2E --><channel id="IslamChannel.uk">1:0:1:CB9B:83C:2:11A0000:0:0:0:</channel><!-- Islam Channel -->
 <!-- 28.2E --><channel id="IslamTV.uk">1:0:1:CB35:813:2:11A0000:0:0:0:</channel><!-- Islam TV -->
 <!-- 28.2E --><channel id="IslamTVUrdu.uk">1:0:1:CBA2:83C:2:11A0000:0:0:0:</channel><!-- Islam Ch Urdu -->
 <!-- Cable --><channel id="Italia1.it">1:0:1:2CB:7:1:FFFF0000:0:0:0:</channel><!-- Italia 1 -->
@@ -4451,8 +4463,9 @@
 <!-- 28.2E --><channel id="ITV3.uk">1:0:1:2066:2012:233A:11A0000:0:0:0:</channel><!-- ITV 3 -->
 <!-- 28.2E --><channel id="ITV3.uk">1:0:1:27B3:805:2:11A0000:0:0:0:</channel><!-- ITV 3 -->
 <!-- 28.2E --><channel id="ITV3.uk">1:0:19:523A:812:2:11A0000:0:0:0:</channel><!-- ITV 3 -->
-<!-- 28.2E --><channel id="ITV3plus1.uk">1:0:1:28AE:805:2:11A0000:0:0:0:</channel><!-- ITV 3 +1 -->
+<!-- 28.2E --><channel id="ITV3plus1.uk">1:0:1:27ae:805:2:11a0000:0:0:0:</channel><!-- ITV 3 +1 -->
 <!-- 28.2E --><channel id="ITV3plus1.uk">1:0:1:2815:806:2:11A0000:0:0:0:</channel><!-- ITV 3 +1 -->
+<!-- 28.2E --><channel id="ITV3plus1.uk">1:0:1:28AE:805:2:11A0000:0:0:0:</channel><!-- ITV 3 +1 -->
 <!-- Cable --><channel id="ITV4.uk">1:0:1:3EB:A:1:FFFF0000:0:0:0:</channel><!-- ITV 4 -->
 <!-- Cable --><channel id="ITV4.uk">1:0:1:17D5:262:3:FFFF0000:0:0:0:</channel><!-- ITV 4 -->
 <!-- Cable --><channel id="ITV4.uk">1:0:1:10A:3A:1C:FFFF0000:0:0:0:</channel><!-- ITV 4 -->
@@ -4494,9 +4507,11 @@
 <!-- 16.0E --><channel id="JOJ.sk">1:0:19:457:526C:16E:A00000:0:0:0:</channel><!-- TV JOJ -->
 <!-- 16.0E --><channel id="JOJ.sk">1:0:19:7D4:9E98:16E:A00000:0:0:0:</channel><!-- TV JOJ -->
 <!-- 23.5E --><channel id="JOJ.sk">1:0:19:3398:C89:3:EB0000:0:0:0:</channel><!-- TV JOJ -->
+<!-- 23.5E --><channel id="JOJ.sk">1:0:19:3398:C9D:3:EB0000:0:0:0:</channel><!-- TV JOJ -->
 <!-- 0.8W --><channel id="JOJ24.sk">1:0:16:7667:2BF:600:E080000:0:0:0:</channel><!-- JOJ 24 -->
 <!-- 0.8W --><channel id="JOJ24.sk">1:0:19:1B68:AF7:BB:E080000:0:0:0:</channel><!-- JOJ 24 -->
 <!-- 23.5E --><channel id="JOJ24.sk">1:0:19:33A0:C89:3:EB0000:0:0:0:</channel><!-- JOJ 24 -->
+<!-- 23.5E --><channel id="JOJ24.sk">1:0:19:33A0:C9D:3:EB0000:0:0:0:</channel><!-- JOJ 24 -->
 <!-- 0.8W --><channel id="JOJCinema.cz">1:0:19:1789:AF6:BB:E080000:0:0:0:</channel><!-- JOJ Cinema -->
 <!-- 0.8W --><channel id="JOJCinema.cz">1:0:19:7AB2:2CA:600:E080000:0:0:0:</channel><!-- JOJ Cinema -->
 <!-- 16.0E --><channel id="JOJCinema.cz">1:0:19:4C2:76C1:16E:A00000:0:0:0:</channel><!-- JOJ Cinema -->
@@ -4508,13 +4523,16 @@
 <!-- 0.8W --><channel id="Jojko.sk">1:0:16:767A:2BF:600:E080000:0:0:0:</channel><!-- Jojko -->
 <!-- 16.0E --><channel id="Jojko.sk">1:0:16:4C9:76C1:16E:A00000:0:0:0:</channel><!-- Jojko -->
 <!-- 23.5E --><channel id="Jojko.sk">1:0:16:339A:C89:3:EB0000:0:0:0:</channel><!-- Jojko -->
+<!-- 23.5E --><channel id="Jojko.sk">1:0:16:339A:C9D:3:EB0000:0:0:0:</channel><!-- Jojko -->
 <!-- 0.8W --><channel id="JOJPlus.sk">1:0:1:3F8:AF1:BB:E080000:0:0:0:</channel><!-- JOJ Plus -->
 <!-- 0.8W --><channel id="JOJPlus.sk">1:0:19:7AB0:2CA:600:E080000:0:0:0:</channel><!-- JOJ Plus -->
 <!-- 16.0E --><channel id="JOJPlus.sk">1:0:19:7D6:9E98:16E:A00000:0:0:0:</channel><!-- JOJ Plus -->
 <!-- 23.5E --><channel id="JOJPlus.sk">1:0:19:3399:C89:3:EB0000:0:0:0:</channel><!-- JOJ Plus -->
+<!-- 23.5E --><channel id="JOJPlus.sk">1:0:19:3399:C9D:3:EB0000:0:0:0:</channel><!-- JOJ Plus -->
 <!-- 0.8W --><channel id="JOJSport.sk">1:0:16:7AB7:2CA:600:E080000:0:0:0:</channel><!-- JOJ Sport -->
 <!-- 16.0E --><channel id="JOJSport.sk">1:0:19:25A:C418:16E:A00000:0:0:0:</channel><!-- JOJ Sport -->
 <!-- 23.5E --><channel id="JOJSport.sk">1:0:19:339E:C89:3:EB0000:0:0:0:</channel><!-- JOJ Sport -->
+<!-- 23.5E --><channel id="JOJSport.sk">1:0:19:339E:C9D:3:EB0000:0:0:0:</channel><!-- JOJ Sport -->
 <!-- Cable --><channel id="JOne.fr">1:0:1:10DC:10CC:FD2A:FFFF0000:0:0:0:</channel><!-- J-One -->
 <!-- Cable --><channel id="JOne.fr">1:0:1:197A:9C4:1:FFFF0000:0:0:0:</channel><!-- J-One -->
 <!-- Cable --><channel id="JOne.fr">1:0:1:1BA3:64:FD2A:FFFF0000:0:0:0:</channel><!-- J-One -->
@@ -4594,8 +4612,8 @@
 <!-- 0.8W --><channel id="Kanal11.se">1:0:19:1D30:4:46:E080000:0:0:0:</channel><!-- Kanal 11 -->
 <!-- 0.8W --><channel id="Kanal11.se">1:0:19:4440:4:46:E080000:0:0:0:</channel><!-- TV 11 -->
 <!-- 4.8E --><channel id="Kanal11.se">1:0:16:138D:7:56:300000:0:0:0:</channel><!-- Kanal 11 -->
-<!-- DVB-T --><channel id="Kanal11.se">1:0:16:44C:3:22F1:EEEE0000:0:0:0:</channel><!-- TV 11 -->
 <!-- DVB-T --><channel id="Kanal11.se">1:0:1:474:3FE:22F1:EEEE0000:0:0:0:</channel><!-- TV 11 -->
+<!-- DVB-T --><channel id="Kanal11.se">1:0:16:44C:3:22F1:EEEE0000:0:0:0:</channel><!-- TV 11 -->
 <!-- Cable --><channel id="Kanal11.se">1:0:1:417:24:A027:FFFF0000:0:0:0:</channel><!-- TV 11 -->
 <!-- Cable --><channel id="Kanal11.se">1:0:1:FB8:5:64:FFFF0000:0:0:0:</channel><!-- TV 11 -->
 <!-- 39.0E --><channel id="Kanal3.bg">1:0:1:78:4:1:1860000:0:0:0:</channel><!-- Kanal 3 -->
@@ -4642,8 +4660,8 @@
 <!-- 0.8W --><channel id="Kanal9.se">1:0:19:465B:43:46:E080000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- 0.8W --><channel id="Kanal9.se">1:0:19:4668:43:46:E080000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- 4.8E --><channel id="Kanal9.se">1:0:16:13DD:7:56:300000:0:0:0:</channel><!-- Kanal 9 -->
-<!-- DVB-T --><channel id="Kanal9.se">1:0:16:D8E:6:22F1:EEEE0000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- DVB-T --><channel id="Kanal9.se">1:0:1:1E0:3FE:22F1:EEEE0000:0:0:0:</channel><!-- Kanal 9 -->
+<!-- DVB-T --><channel id="Kanal9.se">1:0:16:D8E:6:22F1:EEEE0000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- Cable --><channel id="Kanal9.se">1:0:1:3F8:1E:A027:FFFF0000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- Cable --><channel id="Kanal9.se">1:0:1:89E:6:64:FFFF0000:0:0:0:</channel><!-- Kanal 9 -->
 <!-- 16.0E --><channel id="KanalA.svn">1:0:1:1133:9CA4:16E:A00000:0:0:0:</channel><!-- Kanal A -->
@@ -4690,6 +4708,7 @@
 <!-- Cable --><channel id="Ketnet.be">1:0:1:4A51:806:600:FFFF0000:0:0:0:</channel><!-- Ketnet -->
 <!-- Cable --><channel id="Ketnet.be">1:0:16:BBA:808:600:FFFF0000:0:0:0:</channel><!-- Ketnet -->
 <!-- Cable --><channel id="KetnetCanvas.be">1:0:1:138:3:15E0:FFFF0000:0:0:0:</channel><!-- Ketnet / Canvas -->
+<!-- 28.2E --><channel id="KICCTV.uk">1:0:1:1db6:82d:2:11a0000:0:0:0:</channel><!-- KICC TV -->
 <!-- 28.2E --><channel id="KICCTV.uk">1:0:1:5850:82E:2:11A0000:0:0:0:</channel><!-- KICC TV -->
 <!-- Cable --><channel id="Kika.de">1:0:1:FAA:4:601:FFFF0000:0:0:0:</channel><!-- Kika -->
 <!-- Cable --><channel id="Kika.de">1:0:19:84D2:22:601:FFFF0000:0:0:0:</channel><!-- Kika -->
@@ -4993,6 +5012,7 @@
 <!-- 0.8W --><channel id="MarkizaKrimi.cz">1:0:1:FAD:AF4:BB:E080000:0:0:0:</channel><!-- Markiza Krimi -->
 <!-- 16.0E --><channel id="MarkizaKrimi.cz">1:0:1:7D9:9E98:16E:A00000:0:0:0:</channel><!-- Markiza Krimi -->
 <!-- 23.5E --><channel id="MarkizaKrimi.cz">1:0:19:339F:C89:3:EB0000:0:0:0:</channel><!-- Markiza Krimi -->
+<!-- 23.5E --><channel id="MarkizaKrimi.cz">1:0:19:339F:C9D:3:EB0000:0:0:0:</channel><!-- Markiza Krimi -->
 <!-- Cable --><channel id="MaTele.be">1:0:19:2782:65:1:FFFF0000:0:0:0:</channel><!-- MaTélé -->
 <!-- IPTV --><channel id="MaTele.be">4097:0:1:9:1:32:0:0:0:0:HTTP%3A//</channel><!-- MaTélé -->
 <!-- 0.8W --><channel id="Matkanalen.no">1:0:16:1F04:48:46:E080000:0:0:0:</channel><!-- Matkanalen -->
@@ -5124,7 +5144,6 @@
 <!-- 13.0E --><channel id="Mezzo.fr">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- 19.2E --><channel id="Mezzo.fr">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- Cable --><channel id="Mezzo.fr">1:0:1:420:22:A027:FFFF0000:0:0:0:</channel><!-- Mezzo TV -->
-<!-- 9.0E --><channel id="Mezzo.gr">1:0:1:449:4:AA:5A0000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- 39.0E --><channel id="Mezzo.hr">1:0:1:128:12:1C:1860000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- 39.0E --><channel id="Mezzo.hr">1:0:1:50:6:1:1860000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- 45.0E --><channel id="Mezzo.hr">1:0:19:F8:2:D5:1C20000:0:0:0:</channel><!-- Mezzo TV -->
@@ -5145,6 +5164,7 @@
 <!-- Cable --><channel id="MezzoLiveHD.fr">1:0:1:3268:001D:0000:FFFF0000:0:0:0:</channel><!-- Mezzo Live HD -->
 <!-- Cable --><channel id="MezzoLiveHD.fr">1:0:1:1AFC:B54:1:FFFF0000:0:0:0:</channel><!-- Mezzo Live HD -->
 <!-- 19.2E --><channel id="MezzoLiveHD.fr">1:0:19:2262:438:1:C00000:0:0:0:</channel><!-- Mezzo Live HD -->
+<!-- 9.0E --><channel id="MezzoLiveHD.fr">1:0:1:449:4:AA:5A0000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- Cable --><channel id="MezzoLiveHD.fr">1:0:19:3F0:3A:A027:FFFF0000:0:0:0:</channel><!-- Mezzo Live HD -->
 <!-- Cable --><channel id="MGG_TV.fr">1:0:16:6AD:11:1:FFFF0000:0:0:0:</channel><!-- MGG TV -->
 <!-- 13.0E --><channel id="MilanTV.it">1:0:1:37B5:1AF4:FBFF:820000:0:0:0:</channel><!-- Milan TV HD -->
@@ -5264,8 +5284,8 @@
 <!-- DVB-T --><channel id="MTV.no">1:0:16:155:E7:2242:EEEE0000:0:0:0:</channel><!-- MTV -->
 <!-- 0.8W --><channel id="MTV.se">1:0:16:1EF3:19:46:E080000:0:0:0:</channel><!-- MTV -->
 <!-- 4.8E --><channel id="MTV.se">1:0:16:A41:22:56:300000:0:0:0:</channel><!-- MTV -->
-<!-- DVB-T --><channel id="MTV.se">1:0:16:1D6:3:22F1:EEEE0000:0:0:0:</channel><!-- MTV -->
 <!-- DVB-T --><channel id="MTV.se">1:0:1:1EA:3:22F1:EEEE0000:0:0:0:</channel><!-- MTV -->
+<!-- DVB-T --><channel id="MTV.se">1:0:16:1D6:3:22F1:EEEE0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="MTV.se">1:0:1:46E:1F:A027:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- Cable --><channel id="MTV.se">1:0:1:A2F:1:64:FFFF0000:0:0:0:</channel><!-- MTV -->
 <!-- 16.0E --><channel id="MTV.svn">1:0:19:79:3:40:A00000:0:0:0:</channel><!-- MTV -->
@@ -5373,8 +5393,8 @@
 <!-- 4.0W --><channel id="MTV90s.eu">1:0:1:458:1:64:DE80000:0:0:0:</channel><!-- MTV'90s -->
 <!-- 45.0E --><channel id="MTV90s.eu">1:0:19:81:1:D5:1C20000:0:0:0:</channel><!-- MTV 90s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:038E:0009:0001:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
-<!-- Cable --><channel id="MTV90s.eu">1:0:1:6D64:1C:10EF:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:426C:11:10EF:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
+<!-- Cable --><channel id="MTV90s.eu">1:0:1:6D64:1C:10EF:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:4B68:814:600:FFFF0000:0:0:0:</channel><!-- MTV 90’s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:6F7:23:46:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
 <!-- Cable --><channel id="MTV90s.eu">1:0:1:426:26:A027:FFFF0000:0:0:0:</channel><!-- MTV 90s -->
@@ -5622,7 +5642,7 @@
 <!-- Cable --><channel id="NatGeo.svn">1:0:1:2A99:6D:1F5:FFFF0000:0:0:0:</channel><!-- National Geographic  -->
 <!-- Cable --><channel id="NatGeo.svn">1:0:1:2E7D:77:1F5:FFFF0000:0:0:0:</channel><!-- National Geographic  -->
 <!-- 28.2E --><channel id="NatGeo.uk">1:0:1:15B0:7D7:2:11A0000:0:0:0:</channel><!-- National Geographic  -->
-<!-- 28.2E --><channel id="NatGeo.uk">1:0:19:1793:7E5:2:11A0000:0:0:0:</channel><!-- National Geographic  -->
+<!-- 28.2E --><channel id="NatGeo.uk">1:0:19:1B77:7EB:2:11A0000:0:0:0:</channel><!-- National Geographic  -->
 <!-- 0.8W --><channel id="NatGeoHD.cz">1:0:19:77F0:2C3:600:E080000:0:0:0:</channel><!-- National Geographic  -->
 <!-- 16.0E --><channel id="NatGeoHD.cz">1:0:1F:4C6:76C1:16E:A00000:0:0:0:</channel><!-- National Geographic  -->
 <!-- 23.5E --><channel id="NatGeoHD.cz">1:0:19:303:C94:3:EB0000:0:0:0:</channel><!-- National Geographic  -->
@@ -5737,6 +5757,7 @@
 <!-- 16.0E --><channel id="NationalTV.ro">1:0:16:A:64:64:A00000:0:0:0:</channel><!-- National TV -->
 <!-- 4.8E --><channel id="NationalTV.ro">1:0:1:13:65:16E:300000:0:0:0:</channel><!-- National TV -->
 <!-- 23.5E --><channel id="Nautical.eu">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel><!-- Nautical HD -->
+<!-- 23.5E --><channel id="Nautical.eu">1:0:19:1BFD:C92:3:EB0000:0:0:0:</channel><!-- Nautical HD -->
 <!-- Cable --><channel id="Nautical.eu">1:0:1:5393:330:8:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="Nautical.eu">1:0:19:23FF:48:1:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="Nautical.eu">1:0:1:3AFF:97:270F:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
@@ -5745,6 +5766,7 @@
 <!-- Cable --><channel id="Nautical.eu">1:0:1:135:3:10EF:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="Nautical.eu">1:0:16:468:2E:A027:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- 23.5E --><channel id="Nautical.svn">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel><!-- Nautical Channel -->
+<!-- 23.5E --><channel id="Nautical.svn">1:0:19:1BFD:C92:3:EB0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="Nautical.svn">1:0:1:2A37:6C:1F5:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- 9.0E --><channel id="NauticalChannel.gr">1:0:1:471:8:AA:5A0000:0:0:0:</channel><!-- Nautical Channel -->
 <!-- Cable --><channel id="NauticalChannel.pt">1:0:1:1144:2C:36:FFFF0000:0:0:0:</channel><!-- Nautical Channel -->
@@ -5911,8 +5933,8 @@
 <!-- 4.8E --><channel id="Nickelodeon.se">1:0:1:116C:18:56:300000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- 0.8W --><channel id="Nickelodeon.se">1:0:16:1EEE:19:46:E080000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- 4.8E --><channel id="Nickelodeon.se">1:0:16:8B6:21:56:300000:0:0:0:</channel><!-- Nickelodeon  -->
-<!-- DVB-T --><channel id="Nickelodeon.se">1:0:16:21C:7:22F1:EEEE0000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- DVB-T --><channel id="Nickelodeon.se">1:0:1:24E:3:22F1:EEEE0000:0:0:0:</channel><!-- Nickelodeon  -->
+<!-- DVB-T --><channel id="Nickelodeon.se">1:0:16:21C:7:22F1:EEEE0000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- Cable --><channel id="Nickelodeon.se">1:0:1:B03:3:64:FFFF0000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- 0.8W --><channel id="Nickelodeon.svn">1:0:1:1F9:1B:2C0:E080000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- 16.0E --><channel id="Nickelodeon.svn">1:0:19:36:2:40:A00000:0:0:0:</channel><!-- Nickelodeon  -->
@@ -5975,8 +5997,8 @@
 <!-- 1.9E --><channel id="NickJr.rs">1:0:1:1E9:B:1:130000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- 23.5E --><channel id="NickJr.rs">1:0:1:4E40:C85:3:EB0000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- 0.8W --><channel id="NickJr.se">1:0:16:1F1C:19:46:E080000:0:0:0:</channel><!-- Nick Junior  -->
-<!-- DVB-T --><channel id="NickJr.se">1:0:16:DA2:5:22F1:EEEE0000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- DVB-T --><channel id="NickJr.se">1:0:16:D8E:7:22F1:EEEE0000:0:0:0:</channel><!-- Nick Junior  -->
+<!-- DVB-T --><channel id="NickJr.se">1:0:16:DA2:5:22F1:EEEE0000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- Cable --><channel id="NickJr.se">1:0:1:418:21:A027:FFFF0000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- Cable --><channel id="NickJr.se">1:0:11:1133:4:64:FFFF0000:0:0:0:</channel><!-- Nick Junior  -->
 <!-- DVB-T Telemach --><channel id="NickJr.svn">1:0:1:4E88:C9:1F5:FFFF0000:0:0:0:</channel><!-- Nick Junior  -->
@@ -6118,6 +6140,7 @@
 <!-- 16.0E --><channel id="Nova24.svn">1:0:16:57:3:40:A00000:0:0:0:</channel><!-- NOVA24 -->
 <!-- 0.8W --><channel id="NovaAction.cz">1:0:19:7A4D:2C9:600:E080000:0:0:0:</channel><!-- Nova Action HD -->
 <!-- 23.5E --><channel id="NovaAction.cz">1:0:19:3394:C89:3:EB0000:0:0:0:</channel><!-- Nova Action HD -->
+<!-- 23.5E --><channel id="NovaAction.cz">1:0:19:3394:C9D:3:EB0000:0:0:0:</channel><!-- Nova Action HD -->
 <!-- 16.0E --><channel id="NovaBH.ba">1:0:1:1166:9CA4:16E:A00000:0:0:0:</channel><!-- Nova BH -->
 <!-- 33.0E --><channel id="NovaBH.ba">1:0:19:FA3:190:7FE:14A0000:0:0:0:</channel><!-- Nova BH -->
 <!-- 23.5E --><channel id="NovaBH.ba">1:0:1:4EB6:CA4:3:EB0000:0:0:0:</channel><!-- Nova BH -->
@@ -6125,6 +6148,7 @@
 <!-- 0.8W --><channel id="NovaCinema.cz">1:0:19:7A4B:2C9:600:E080000:0:0:0:</channel><!-- Nova Cinema -->
 <!-- 16.0E --><channel id="NovaCinema.cz">1:0:16:45E:526C:16E:A00000:0:0:0:</channel><!-- Nova Cinema -->
 <!-- 23.5E --><channel id="NovaCinema.cz">1:0:19:3395:C89:3:EB0000:0:0:0:</channel><!-- Nova Cinema -->
+<!-- 23.5E --><channel id="NovaCinema.cz">1:0:19:3395:C9D:3:EB0000:0:0:0:</channel><!-- Nova Cinema -->
 <!-- 13.0E --><channel id="NovaCinema1.gr">1:0:1:13D:157C:13E:820000:0:0:0:</channel><!-- novacinema1 -->
 <!-- 13.0E --><channel id="NovaCinema1.gr">1:0:1:3C95:1BBC:13E:820000:0:0:0:</channel><!-- novacinema1 -->
 <!-- 13.0E --><channel id="NovaCinema2.gr">1:0:1:1BC0:17D4:13E:820000:0:0:0:</channel><!-- novacinema2 -->
@@ -6140,6 +6164,7 @@
 <!-- 0.8W --><channel id="NovaInternational.cz">1:0:16:7AB6:2CA:600:E080000:0:0:0:</channel><!-- Nova International -->
 <!-- 16.0E --><channel id="NovaInternational.cz">1:0:16:4B3:76C1:16E:A00000:0:0:0:</channel><!-- Nova International -->
 <!-- 23.5E --><channel id="NovaInternational.cz">1:0:16:339B:C89:3:EB0000:0:0:0:</channel><!-- Nova International -->
+<!-- 23.5E --><channel id="NovaInternational.cz">1:0:16:339B:C9D:3:EB0000:0:0:0:</channel><!-- Nova International -->
 <!-- 13.0E --><channel id="NovaLife.gr">1:0:1:170:1C84:13E:820000:0:0:0:</channel><!-- NovaLife -->
 <!-- 1.9E --><channel id="NOVAnews.bg">1:0:1:90:F:3:130000:0:0:0:</channel><!-- Nova News HD -->
 <!-- 1.9E --><channel id="NovaS.rs">1:0:1:1B1:A:2:130000:0:0:0:</channel><!-- NOVA S HD -->
@@ -6154,11 +6179,13 @@
 <!-- 0.8W --><channel id="NovaSport1.cz">1:0:19:233C:AF9:BB:E080000:0:0:0:</channel><!-- Nova Sport 1 -->
 <!-- 0.8W --><channel id="NovaSport1.cz">1:0:19:791C:2C6:600:E080000:0:0:0:</channel><!-- Nova Sport 1 -->
 <!-- 23.5E --><channel id="NovaSport1.cz">1:0:19:3393:C89:3:EB0000:0:0:0:</channel><!-- Nova Sport 1 -->
+<!-- 23.5E --><channel id="NovaSport1.cz">1:0:19:3393:C9D:3:EB0000:0:0:0:</channel><!-- Nova Sport 1 -->
 <!-- 0.8W --><channel id="NovaSport2.cz">1:0:19:1782:AF6:BB:E080000:0:0:0:</channel><!-- Nova Sport 2 -->
 <!-- 0.8W --><channel id="NovaSport2.cz">1:0:19:7A4E:2C9:600:E080000:0:0:0:</channel><!-- Nova Sport 2 -->
 <!-- 23.5E --><channel id="NovaSport2.cz">1:0:19:371E:C8E:3:EB0000:0:0:0:</channel><!-- Nova Sport 2 -->
 <!-- 0.8W --><channel id="NovaSport3.cz">1:0:19:FBA:AF4:BB:E080000:0:0:0:</channel><!-- Nova Sport 3 -->
 <!-- 0.8W --><channel id="NovaSport4.cz">1:0:19:7DE:AF2:BB:E080000:0:0:0:</channel><!-- Nova Sport 4 -->
+<!-- 0.8W --><channel id="NovaSport6.cz">1:0:16:1F4F:AF8:BB:E080000:0:0:0:</channel><!-- Nova Sport 6 -->
 <!-- 13.0E --><channel id="NovaSports1.gr">1:0:1:13E:157C:13E:820000:0:0:0:</channel><!-- novasports1 -->
 <!-- 13.0E --><channel id="NovaSports1.gr">1:0:1:3C94:1BBC:13E:820000:0:0:0:</channel><!-- novasports1 -->
 <!-- 13.0E --><channel id="NovaSports1.gr">1:0:1:134:157C:13E:820000:0:0:0:</channel><!-- novasports1 -->
@@ -6183,6 +6210,7 @@
 <!-- 0.8W --><channel id="NovaTV.cz">1:0:19:400:AF1:BB:E080000:0:0:0:</channel><!-- Nova TV -->
 <!-- 0.8W --><channel id="NovaTV.cz">1:0:19:7A49:2C9:600:E080000:0:0:0:</channel><!-- Nova TV -->
 <!-- 23.5E --><channel id="NovaTV.cz">1:0:19:3391:C89:3:EB0000:0:0:0:</channel><!-- Nova TV -->
+<!-- 23.5E --><channel id="NovaTV.cz">1:0:19:3391:C9D:3:EB0000:0:0:0:</channel><!-- Nova TV -->
 <!-- 16.0E --><channel id="NovaTV.hr">1:0:1:582:75FC:16E:A00000:0:0:0:</channel><!-- Nova TV -->
 <!-- 16.0E --><channel id="NovaTV.hr">1:0:1:58D:765C:16E:A00000:0:0:0:</channel><!-- Nova TV -->
 <!-- 16.0E --><channel id="NovaTV.hr">1:0:16:124:3:40:A00000:0:0:0:</channel><!-- Nova TV -->
@@ -6205,7 +6233,7 @@
 <!-- DVB-T --><channel id="Nove.it">1:0:19:15:205:1D:EEEE0000:0:0:0:</channel><!-- Nove -->
 <!-- 19.2E --><channel id="NovelasTV.fr">1:0:19:24BF:43C:1:C00000:0:0:0:</channel><!-- Novelas TV -->
 <!-- 23.5E --><channel id="NovosadskaTV.rs">1:0:1:4EE1:C81:3:EB0000:0:0:0:</channel><!-- Novosadska TV -->
-<!-- 28.2E --><channel id="Now70s.uk">1:0:1:CB8B:831:2:11A0000:0:0:0:</channel><!-- Now 70s -->
+<!-- 28.2E --><channel id="Now70s.uk">1:0:1:C491:811:2:11A0000:0:0:0:</channel><!-- Now 70s -->
 <!-- 28.2E --><channel id="Now80s.uk">1:0:1:C482:811:2:11A0000:0:0:0:</channel><!-- Now 80s -->
 <!-- 28.2E --><channel id="Now90s.uk">1:0:1:D74A:82F:2:11A0000:0:0:0:</channel><!-- Now 90 ‘s -->
 <!-- Cable --><channel id="NPO1.nl">1:0:1:45C:B:1:FFFF0000:0:0:0:</channel><!-- NPO 1 -->
@@ -6908,11 +6936,13 @@
 <!-- Cable --><channel id="Play4.be">1:0:1:25C:6:1:FFFF0000:0:0:0:</channel><!-- Play4 -->
 <!-- Cable --><channel id="Play4.be">1:0:19:390:9:1:FFFF0000:0:0:0:</channel><!-- Play4 -->
 <!-- 23.5E --><channel id="Play4.be">1:0:19:1B91:C88:3:EB0000:0:0:0:</channel><!-- Play4 -->
+<!-- 23.5E --><channel id="Play4.be">1:0:19:1B91:C92:3:EB0000:0:0:0:</channel><!-- Play4 -->
 <!-- Cable --><channel id="Play5.be">1:0:1:25D:6:1:FFFF0000:0:0:0:</channel><!-- Play5 -->
 <!-- Cable --><channel id="Play5.be">1:0:19:391:9:1:FFFF0000:0:0:0:</channel><!-- Play5 -->
 <!-- 23.5E --><channel id="Play5.be">1:0:16:5286:C96:3:EB0000:0:0:0:</channel><!-- Play5 -->
 <!-- Cable --><channel id="Play6.be">1:0:19:392:9:1:FFFF0000:0:0:0:</channel><!-- Play6 -->
 <!-- 23.5E --><channel id="Play6.be">1:0:16:1B95:C88:3:EB0000:0:0:0:</channel><!-- Play6 -->
+<!-- 23.5E --><channel id="Play6.be">1:0:16:1B95:C92:3:EB0000:0:0:0:</channel><!-- Play6 -->
 <!-- 23.5E --><channel id="Play7.be">1:0:16:5287:C96:3:EB0000:0:0:0:</channel><!-- Play7 -->
 <!-- 30.0W --><channel id="Playboy.pt">1:0:19:171:67:53:CE40000:0:0:0:</channel><!-- Playboy TV -->
 <!-- Cable --><channel id="Playboy.pt">1:0:1:645:42:36:FFFF0000:0:0:0:</channel><!-- Playboy TV -->
@@ -7000,6 +7030,7 @@
 <!-- 0.8W --><channel id="PrimaCool.cz">1:0:19:1B66:AF7:BB:E080000:0:0:0:</channel><!-- Prima Cool -->
 <!-- 16.0E --><channel id="PrimaCool.cz">1:0:19:489:76C0:16E:A00000:0:0:0:</channel><!-- Prima Cool -->
 <!-- 23.5E --><channel id="PrimaCool.cz">1:0:19:3396:C89:3:EB0000:0:0:0:</channel><!-- Prima Cool -->
+<!-- 23.5E --><channel id="PrimaCool.cz">1:0:19:3396:C9D:3:EB0000:0:0:0:</channel><!-- Prima Cool -->
 <!-- 0.8W --><channel id="PrimaKrimi.cz">1:0:19:7A51:2C9:600:E080000:0:0:0:</channel><!-- Prima Krimi -->
 <!-- 0.8W --><channel id="PrimaKrimi.cz">1:0:19:FAC:AF4:BB:E080000:0:0:0:</channel><!-- Prima Krimi -->
 <!-- 16.0E --><channel id="PrimaKrimi.cz">1:0:16:483:76C0:16E:A00000:0:0:0:</channel><!-- Prima Krimi -->
@@ -7028,6 +7059,7 @@
 <!-- 0.8W --><channel id="PrimaTV.cz">1:0:19:7A4F:2C9:600:E080000:0:0:0:</channel><!-- Prima TV -->
 <!-- 16.0E --><channel id="PrimaTV.cz">1:0:19:460:526C:16E:A00000:0:0:0:</channel><!-- Prima TV -->
 <!-- 23.5E --><channel id="PrimaTV.cz">1:0:19:3392:C89:3:EB0000:0:0:0:</channel><!-- Prima TV -->
+<!-- 23.5E --><channel id="PrimaTV.cz">1:0:19:3392:C9D:3:EB0000:0:0:0:</channel><!-- Prima TV -->
 <!-- 0.8W --><channel id="PrimaTV.ro">1:0:1:76C6:2C0:600:E080000:0:0:0:</channel><!-- Prima TV -->
 <!-- 16.0E --><channel id="PrimaTV.ro">1:0:1:1:1F4:5:A00000:0:0:0:</channel><!-- Prima TV -->
 <!-- 4.8E --><channel id="PrimaTV.ro">1:0:1:A:C8:16E:300000:0:0:0:</channel><!-- Prima TV -->
@@ -7190,7 +7222,7 @@
 <!-- DVB-T --><channel id="R101TV.it">1:0:16:6B:385:110:EEEE0000:0:0:0:</channel><!-- R101 TV -->
 <!-- 19.2E --><channel id="R9Osterreich.at">1:0:19:3400:3ED:1:C00000:0:0:0:</channel><!-- R9 Oesterreich HD -->
 <!-- 28.2E --><channel id="RacingUK.uk">1:0:1:C7B0:817:2:11A0000:0:0:0:</channel><!-- Racing UK -->
-<!-- 28.2E --><channel id="RacingUK.uk">1:0:1:CB96:83C:2:11A0000:0:0:0:</channel><!-- Racing TV -->
+<!-- 28.2E --><channel id="RacingUK.uk">1:0:1:CB96:83C:2:11A0000:0:0:0:</channel><!--Racing TV -->
 <!-- 28.2E --><channel id="RacingUK.uk">1:0:19:D7E8:82C:2:11A0000:0:0:0:</channel><!-- Racing UK -->
 <!-- DVB-T --><channel id="Radio105TV.it">1:0:16:1B8B:384:110:EEEE0000:0:0:0:</channel><!-- Radio 105 TV -->
 <!-- DVB-T --><channel id="Radio105TV.it">1:0:16:1B8C:384:110:EEEE0000:0:0:0:</channel><!-- Radio 105 TV -->
@@ -7275,6 +7307,7 @@
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:A000:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:16:41F:2:217C:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:19:3EB:4:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
+<!-- DVB-T --><channel id="Rai1.it">1:0:19:44D:71:217C:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:19:4E3:8F:217C:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- Cable --><channel id="Rai1.it">1:0:1:EDF:16A:0:8D68:0:0:0:</channel><!-- Rai Uno -->
 <!-- Cable --><channel id="Rai1.it">1:0:1:1408:1398:0:FFFF0000:0:0:0:</channel><!-- Rai Uno -->
@@ -7319,6 +7352,7 @@
 <!-- DVB-T --><channel id="Rai2.it">1:0:19:2190:5:13E:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- DVB-T --><channel id="Rai2.it">1:0:19:41C:2:217C:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- DVB-T --><channel id="Rai2.it">1:0:19:41C:5:13E:EEEE0000:0:0:0:</channel><!-- Rai Due -->
+<!-- DVB-T --><channel id="Rai2.it">1:0:19:44E:71:217C:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- DVB-T --><channel id="Rai2.it">1:0:19:4E4:8F:217C:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- DVB-T --><channel id="Rai2.it">1:0:19:548:A3:217C:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- Cable --><channel id="Rai2.it">1:0:1:15ED:1FA:13:0:0:0:0:</channel><!-- Rai Due -->
@@ -7417,6 +7451,7 @@
 <!-- 9.0E --><channel id="Rai3.it">1:0:1:578:1FA4:9C:5A0000:0:0:0:</channel><!-- Rai Tre -->
 <!-- DVB-T --><channel id="Rai3.it">1:0:1:2196:6:13E:EEEE0000:0:0:0:</channel><!-- Rai Tre -->
 <!-- DVB-T --><channel id="Rai3.it">1:0:1:3EB:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Tre -->
+<!-- DVB-T --><channel id="Rai3.it">1:0:1:458:71:217C:EEEE:0000:0:0:0:</channel><!-- Rai Tre -->
 <!-- DVB-T --><channel id="Rai3.it">1:0:1:D4B:1:13E:EEEE0000:0:0:0:</channel><!-- Rai Tre -->
 <!-- DVB-T --><channel id="Rai3.it">1:0:1:D4B:4800:13E:EEEE0000:0:0:0:</channel><!-- Rai Tre -->
 <!-- DVB-T --><channel id="Rai3.it">1:0:1:D4B:5000:13E:EEEE0000:0:0:0:</channel><!-- Rai Tre -->
@@ -7797,6 +7832,7 @@
 <!-- DVB-T --><channel id="RTL2televizija.svn">1:0:1F:3EF:A:20BF:EEEE0000:0:0:0:</channel><!-- RTL 2 -->
 <!-- Cable --><channel id="RTL2televizija.svn">1:0:1:33FD:85:1F5:FFFF0000:0:0:0:</channel><!-- RTL 2 -->
 <!-- 23.5E --><channel id="RTL4.nl">1:0:19:1B6C:C88:3:EB0000:0:0:0:</channel><!-- RTL 4 -->
+<!-- 23.5E --><channel id="RTL4.nl">1:0:19:1B6C:C92:3:EB0000:0:0:0:</channel><!-- RTL 4 -->
 <!-- Cable --><channel id="RTL4.nl">1:0:1:1F6:5:1:FFFF0000:0:0:0:</channel><!-- RTL 4 -->
 <!-- DVB-T --><channel id="RTL4.nl">1:0:1:451:18:1:EEEE0000:0:0:0:</channel><!-- RTL 4 -->
 <!-- Cable --><channel id="RTL4.nl">1:0:1:13BD:1392:3E8:FFFF0000:0:0:0:</channel><!-- RTL 4 -->
@@ -7811,6 +7847,7 @@
 <!-- Cable --><channel id="RTL4.nl">1:0:19:4C05:835:600:FFFF0000:0:0:0:</channel><!-- RTL 4 -->
 <!-- Cable --><channel id="RTL4.nl">1:0:19:4E2A:801:600:FFFF0000:0:0:0:</channel><!-- RTL 4 -->
 <!-- 23.5E --><channel id="RTL5.nl">1:0:19:1B6F:C88:3:EB0000:0:0:0:</channel><!-- RTL 5 -->
+<!-- 23.5E --><channel id="RTL5.nl">1:0:19:1B6F:C92:3:EB0000:0:0:0:</channel><!-- RTL 5 -->
 <!-- Cable --><channel id="RTL5.nl">1:0:1:E0:A:1:FFFF0000:0:0:0:</channel><!-- RTL 5 -->
 <!-- DVB-T --><channel id="RTL5.nl">1:0:1:452:18:1:EEEE0000:0:0:0:</channel><!-- RTL 5 -->
 <!-- Cable --><channel id="RTL5.nl">1:0:1:13BE:1392:3E8:FFFF0000:0:0:0:</channel><!-- RTL 5 -->
@@ -7825,6 +7862,7 @@
 <!-- Cable --><channel id="RTL5.nl">1:0:19:4C06:835:600:FFFF0000:0:0:0:</channel><!-- RTL 5 -->
 <!-- Cable --><channel id="RTL5.nl">1:0:19:4E2B:801:600:FFFF0000:0:0:0:</channel><!-- RTL 5 -->
 <!-- 23.5E --><channel id="RTL7.nl">1:0:19:1B73:C88:3:EB0000:0:0:0:</channel><!-- RTL 7 -->
+<!-- 23.5E --><channel id="RTL7.nl">1:0:19:1B73:C92:3:EB0000:0:0:0:</channel><!-- RTL 7 -->
 <!-- Cable --><channel id="RTL7.nl">1:0:1:E1:A:1:FFFF0000:0:0:0:</channel><!-- RTL 7 -->
 <!-- DVB-T --><channel id="RTL7.nl">1:0:1:453:18:1:EEEE0000:0:0:0:</channel><!-- RTL 7 -->
 <!-- Cable --><channel id="RTL7.nl">1:0:1:13C1:1393:3E8:FFFF0000:0:0:0:</channel><!-- RTL 7 -->
@@ -7839,6 +7877,7 @@
 <!-- Cable --><channel id="RTL7.nl">1:0:19:4ABB:80B:600:FFFF0000:0:0:0:</channel><!-- RTL 7 -->
 <!-- Cable --><channel id="RTL7.nl">1:0:19:4AED:840:600:FFFF0000:0:0:0:</channel><!-- RTL 7 -->
 <!-- 23.5E --><channel id="RTL8.nl">1:0:19:1B7C:C88:3:EB0000:0:0:0:</channel><!-- RTL 8 -->
+<!-- 23.5E --><channel id="RTL8.nl">1:0:19:1B7C:C92:3:EB0000:0:0:0:</channel><!-- RTL 8 -->
 <!-- DVB-T --><channel id="RTL8.nl">1:0:1:7F3:15:1:EEEE01DA:0:0:0:</channel><!-- RTL 8 -->
 <!-- DVB-T --><channel id="RTL8.nl">1:0:1:7F3:7:1:EEEE0000:0:0:0:</channel><!-- RTL 8 -->
 <!-- Cable --><channel id="RTL8.nl">1:0:1:13C2:1393:3E8:FFFF0000:0:0:0:</channel><!-- RTL 8 -->
@@ -7966,6 +8005,7 @@
 <!-- Cable --><channel id="RTLup.de">1:0:1:D04F:2714:F001:FFFF0000:0:0:0:</channel><!-- RTLup -->
 <!-- Cable --><channel id="RTLup.de">1:0:19:C396:271B:F001:FFFF0000:0:0:0:</channel><!-- RTLup -->
 <!-- 23.5E --><channel id="RTLZ.nl">1:0:16:1B92:C88:3:EB0000:0:0:0:</channel><!-- RTL Z -->
+<!-- 23.5E --><channel id="RTLZ.nl">1:0:16:1B92:C92:3:EB0000:0:0:0:</channel><!-- RTL Z -->
 <!-- Cable --><channel id="RTLZ.nl">1:0:1:C:13AD:3E8:FFFF0000:0:0:0:</channel><!-- RTL Z -->
 <!-- Cable --><channel id="RTLZ.nl">1:0:1:271E:1B:10EF:FFFF0000:0:0:0:</channel><!-- RTL Z -->
 <!-- Cable --><channel id="RTLZ.nl">1:0:1:271E:A:10EF:FFFF0000:0:0:0:</channel><!-- RTL Z -->
@@ -8313,7 +8353,7 @@
 <!-- DVB-T Telemach --><channel id="SciFi.svn">1:0:1:552E:DA:1F5:FFFF0000:0:0:0:</channel><!-- Syfy -->
 <!-- Cable --><channel id="SciFi.svn">1:0:1:2BC1:70:1F5:FFFF0000:0:0:0:</channel><!-- Syfy -->
 <!-- 28.2E --><channel id="SCIFI.uk">1:0:1:992:7D7:2:11A0000:0:0:0:</channel><!-- Syfy -->
-<!-- 28.2E --><channel id="SCIFI.uk">1:0:19:F2C:7E5:2:11A0000:0:0:0:</channel><!-- Syfy -->
+<!-- 28.2E --><channel id="SCIFI.uk">1:0:19:17BA:7F2:2:11A0000:0:0:0:</channel><!-- Syfy -->
 <!-- Cable --><channel id="Seasons.fr">1:0:16:6AA:11:1:FFFF0000:0:0:0:</channel><!-- Seasons -->
 <!-- Cable --><channel id="Seasons.fr">1:0:1:6A8:6A4:FD2A:FFFF0000:0:0:0:</channel><!-- Seasons -->
 <!-- Cable --><channel id="Seasons.fr">1:0:1:CAC:C80:1:FFFF0000:0:0:0:</channel><!-- Seasons -->
@@ -8420,9 +8460,9 @@
 <!-- 19.2E --><channel id="SixxAustria.at">1:0:19:EF8B:3F9:1:C00000:0:0:0:</channel><!-- SIXX -->
 <!-- 0.8W --><channel id="Sjuan.se">1:0:19:1B85:19:46:E080000:0:0:0:</channel><!-- Sjuan -->
 <!-- 4.8E --><channel id="Sjuan.se">1:0:19:13E2:7:56:300000:0:0:0:</channel><!-- Sjuan -->
-<!-- DVB-T --><channel id="Sjuan.se">1:0:16:1BBC:3:22F1:EEEE0000:0:0:0:</channel><!-- Sjuan -->
 <!-- DVB-T --><channel id="Sjuan.se">1:0:1:1C20:3FE:22F1:EEEE0000:0:0:0:</channel><!-- Sjuan -->
 <!-- DVB-T --><channel id="Sjuan.se">1:0:1:1C48:3FE:22F1:EEEE0000:0:0:0:</channel><!-- Sjuan -->
+<!-- DVB-T --><channel id="Sjuan.se">1:0:16:1BBC:3:22F1:EEEE0000:0:0:0:</channel><!-- Sjuan -->
 <!-- Cable --><channel id="Sjuan.se">1:0:1:432:24:A027:FFFF0000:0:0:0:</channel><!-- Sjuan -->
 <!-- Cable --><channel id="Sjuan.se">1:0:1:FB6:1:64:FFFF0000:0:0:0:</channel><!-- Sjuan -->
 <!-- 13.0E --><channel id="Skai.gr">1:0:1:146:157C:13E:820000:0:0:0:</channel><!-- skaitv -->
@@ -8774,6 +8814,7 @@
 <!-- 9.0E --><channel id="SkySportCalcio.it">1:0:1:1419:3B6:110:5A0000:0:0:0:</channel><!-- Sky Sport Calcio -->
 <!-- 9.0E --><channel id="SkySportCalcio.it">1:0:19:C1:385:110:5A0000:0:0:0:</channel><!-- Sky Sport Calcio -->
 <!-- 19.2E --><channel id="SkySportF1.de">1:0:19:11:3:85:C00000:0:0:0:</channel><!-- Sky Sport F1 -->
+<!-- 19.2E --><channel id="SkySportF1.de">1:0:19:11:9:85:C00000:0:0:0:</channel><!-- Sky Sport F1 -->
 <!-- 13.0E --><channel id="SkySportF1.it">1:0:1:2D5A:1A2C:FBFF:820000:0:0:0:</channel><!-- Sky Sport F1 -->
 <!-- 13.0E --><channel id="SkySportF1.it">1:0:19:2506:170C:FBFF:820000:0:0:0:</channel><!-- Sky Sport F1 -->
 <!-- 13.0E --><channel id="SkySportFootball.it">1:0:1:2DC0:1A2C:FBFF:820000:0:0:0:</channel><!-- Sky Sport Football -->
@@ -8845,6 +8886,7 @@
 <!-- 28.2E --><channel id="SkyWitness.uk">1:0:19:FAA:7E8:2:11A0000:0:0:0:</channel><!--Sky Witness  -->
 <!-- 28.2E --><channel id="SkyWitnessPlus1.uk">1:0:1:1650:7E7:2:11A0000:0:0:0:</channel><!-- Sky Witness+1 -->
 <!-- 23.5E --><channel id="SlagrMuzika.cz">1:0:16:339D:C89:3:EB0000:0:0:0:</channel><!-- Šlágr Muzika -->
+<!-- 23.5E --><channel id="SlagrMuzika.cz">1:0:16:339D:C9D:3:EB0000:0:0:0:</channel><!-- Šlágr Muzika -->
 <!-- 16.0E --><channel id="SlagrPremium.cz">1:0:19:25D:C418:16E:A00000:0:0:0:</channel><!-- Šlágr Premium -->
 <!-- 23.5E --><channel id="SlagrPremium.cz">1:0:19:3C32:C90:3:EB0000:0:0:0:</channel><!-- Šlágr Premium -->
 <!-- 0.8W --><channel id="SlagrTV.cz">1:0:16:3FF:AF1:BB:E080000:0:0:0:</channel><!-- Slagr TV -->
@@ -9240,19 +9282,19 @@
 <!-- Cable --><channel id="SVT1.se">1:0:19:EDD:B:46:FFFF0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:16:200:96:2242:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:16:200:FA:2242:EEEE0000:0:0:0:</channel><!-- SVT1 -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1CE0:1B:46:E080000:0:0:0:</channel><!-- SVT 1 Dalarna -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1CEB:1B:46:E080000:0:0:0:</channel><!-- SVT 1 Värmland -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1CEF:1B:46:E080000:0:0:0:</channel><!-- SVT 1 Örebro -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D0E:1B:46:E080000:0:0:0:</channel><!-- SVT1 Öst -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D0F:1B:46:E080000:0:0:0:</channel><!-- SVT1 Småland -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D10:1B:46:E080000:0:0:0:</channel><!-- SVT1 Skåne -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D18:1B:46:E080000:0:0:0:</channel><!-- SVT 1 Gävleborg -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D19:1B:46:E080000:0:0:0:</channel><!-- SVT1 Jämtland -->
+<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D1B:1B:46:E080000:0:0:0:</channel><!-- SVT1 Jönköping -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:16:1D83:1B:46:E080000:0:0:0:</channel><!-- SVT1 Norrbotten -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:16:1D84:1B:46:E080000:0:0:0:</channel><!-- SVT1 Västerbotten -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:16:1D85:1B:46:E080000:0:0:0:</channel><!-- SVT1 Västernorrland -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D86:2C:46:E080000:0:0:0:</channel><!-- SVT 1 Dalarna -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D87:2C:46:E080000:0:0:0:</channel><!-- SVT 1 Värmland -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D88:2C:46:E080000:0:0:0:</channel><!-- SVT 1 Örebro -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:16:1D90:2C:46:E080000:0:0:0:</channel><!-- SVT1 Väst -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D91:2C:46:E080000:0:0:0:</channel><!-- SVT1 Öst -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D92:2C:46:E080000:0:0:0:</channel><!-- SVT1 Småland -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D93:2C:46:E080000:0:0:0:</channel><!-- SVT1 Skåne -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D94:2C:46:E080000:0:0:0:</channel><!-- SVT 1 Gävleborg -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D95:2C:46:E080000:0:0:0:</channel><!-- SVT1 Jämtland -->
-<!-- 0.8W --><channel id="SVT1.se">1:0:16:1D96:2C:46:E080000:0:0:0:</channel><!-- SVT1 Jönköping -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:19:1D7F:1B:46:E080000:0:0:0:</channel><!-- SVT1 -->
 <!-- 0.8W --><channel id="SVT1.se">1:0:19:1D8C:1B:46:E080000:0:0:0:</channel><!-- SVT1 -->
 <!-- 4.8E --><channel id="SVT1.se">1:0:1:9A6:B:56:300000:0:0:0:</channel><!-- SVT1 Mittnytt -->
@@ -9270,9 +9312,9 @@
 <!-- 4.8E --><channel id="SVT1.se">1:0:19:64A:1B:56:300000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:1:16BC:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:166C:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 Västernorrland -->
-<!-- DVB-T --><channel id="SVT1.se">1:0:19:1680:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 HD Dalarna -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:1:168A:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:1:1694:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
+<!-- DVB-T --><channel id="SVT1.se">1:0:19:1680:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 HD Dalarna -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:18A6:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:55A:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:578:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 Västmanland -->
@@ -9379,6 +9421,8 @@
 <!-- Cable --><channel id="tagesschau24.de">1:0:19:C38E:2722:F001:FFFF0000:0:0:0:</channel><!-- tagesschau24 -->
 <!-- 28.2E --><channel id="TakbeerTV.uk">1:0:1:D381:830:2:11A0000:0:0:0:</channel><!-- Takbeer TV -->
 <!-- 28.2E --><channel id="TalkingPictures.uk">1:0:1:CBA7:831:2:11A0000:0:0:0:</channel><!-- Talking Pictures -->
+<!-- 28.2E --><channel id="TalkingPictures.uk">1:0:1:d7b9:840:2:11a0000:0:0:0:</channel><!-- Talking Pictures -->
+<!-- 28.2E --><channel id="TalkingPictures.uk">1:0:1:D7B9:840:2:11A0000:0:0:0:</channel><!-- Talking Pictures -->
 <!-- 28.2E --><channel id="TalkTV.uk">1:0:19:CD6E:844:2:11A0000:0:0:0:</channel><!-- Talk TV -->
 <!-- 23.5E --><channel id="TanjugTV.rs">1:0:1:4ECC:C81:3:EB0000:0:0:0:</channel><!-- Tanjug TV -->
 <!-- 0.8W --><channel id="TarafTV.ro">1:0:1:D34:C:1:E082E7C:0:0:0:</channel><!-- Taraf TV -->
@@ -9536,7 +9580,7 @@
 <!-- 13.0E --><channel id="TG24PrimoPiano.it">1:0:1:10E8:1644:FBFF:820000:0:0:0:</channel><!-- TG24PrimoPiano -->
 <!-- 28.2E --><channel id="TG4.ie">1:0:1:15A3:7DB:2:11A0000:0:0:0:</channel><!-- TG4 -->
 <!-- DVB-T --><channel id="TG4.ie">1:0:19:450:3E9:2174:EEEE0000:0:0:0:</channel><!-- TG4 -->
-<!-- 28.2E --><channel id="TG4.ie">1:0:19:CCC:7E5:2:11A0000:0:0:0:</channel><!-- TG4 -->
+<!-- 28.2E --><channel id="TG4.ie">1:0:19:1792:7F2:2:11A0000:0:0:0:</channel><!-- TG4 -->
 <!-- 45.0E --><channel id="Tgcom24.it">1:0:19:138C:6:D5:1C20000:0:0:0:</channel><!-- TgCom24 -->
 <!-- 13.0E --><channel id="Tgcom24.it">1:0:16:80:4B0:110:820000:0:0:0:</channel><!-- TgCom24 -->
 <!-- 5.0W --><channel id="Tgcom24.it">1:0:1:FAE:3AC:110:DDE0000:0:0:0:</channel><!-- TgCom24 -->
@@ -9554,6 +9598,7 @@
 <!-- 28.2E --><channel id="Thats80s.uk">1:0:1:D7F0:840:2:11A0000:0:0:0:</channel><!-- That's 80's -->
 <!-- 28.2E --><channel id="Thats90s.uk">1:0:1:D7A7:840:2:11A0000:0:0:0:</channel><!-- That’s 90s -->
 <!-- 28.2E --><channel id="ThatsTV.uk">1:0:1:CBAB:831:2:11A0000:0:0:0:</channel><!-- That ‘s TV -->
+<!-- 28.2E --><channel id="ThatsTV.uk">1:0:1:d7be:840:2:11a0000:0:0:0:</channel><!-- That ‘s TV -->
 <!-- 28.2E --><channel id="TheBox.uk">1:0:1:1C28:83B:2:11A0000:0:0:0:</channel><!-- The Box -->
 <!-- 1.9E --><channel id="TheVoice.bg">1:0:1:F1:14:3:130000:0:0:0:</channel><!-- The Voice  -->
 <!-- 39.0E --><channel id="TheVoice.bg">1:0:1:3F7:1:1:1860000:0:0:0:</channel><!-- The Voice  -->
@@ -9731,8 +9776,8 @@
 <!-- Cable --><channel id="TouteHistoire.fr">1:0:16:645:10:1:FFFF0000:0:0:0:</channel><!-- Toute l'Histoire -->
 <!-- Cable --><channel id="TouteHistoire.fr">1:0:1:4282:446:1:FFFF0000:0:0:0:</channel><!-- Toute l'Histoire -->
 <!-- 13.0E --><channel id="TouteHistoire.fr">1:0:1:1CB:26AC:13F:820000:0:0:0:</channel><!-- Toute l'Histoire -->
-<!-- 19.2E --><channel id="TouteHistoire.fr">1:0:19:4282:446:1:C00000:0:0:0:</channel><!-- Toute l'Histoire -->
 <!-- 19.2E --><channel id="TouteHistoire.fr">1:0:19:226F:438:1:C00000:0:0:0:</channel><!-- Toute l'Histoire -->
+<!-- 19.2E --><channel id="TouteHistoire.fr">1:0:19:4282:446:1:C00000:0:0:0:</channel><!-- Toute l'Histoire -->
 <!-- 5.0W --><channel id="TouteHistoire.fr">1:0:16:D2:4EE8:55F:DDE0000:0:0:0:</channel><!-- Toute l'Histoire -->
 <!-- 23.5E --><channel id="ToxicFolk.rs">1:0:1:4EA7:CA4:3:EB0000:0:0:0:</channel><!-- Toxic Folk -->
 <!-- 23.5E --><channel id="ToxicRap.rs">1:0:1:4EBC:CA4:3:EB0000:0:0:0:</channel><!-- Toxic Rap -->
@@ -9786,10 +9831,10 @@
 <!-- 23.5E --><channel id="TravelXP.eu">1:0:19:17AF:C82:3:EB0000:0:0:0:</channel><!-- Travel XP -->
 <!-- 39.0E --><channel id="TravelXP.eu">1:0:19:2C5:7:1:1860000:0:0:0:</channel><!-- Travel XP -->
 <!-- 0.8W --><channel id="TravelXP.eu">1:0:19:791F:2C6:600:E080000:0:0:0:</channel><!-- Travel XP -->
-<!-- 13.0E --><channel id="TravelXP.eu">1:0:1:11FB:2B5C:13E:820000:0:0:0:</channel><!-- Travel XP -->
 <!-- 28.2E --><channel id="TravelXP.eu">1:0:1:D36D:830:2:11A0000:0:0:0:</channel><!-- Travel XP -->
 <!-- 16.0E --><channel id="TravelXP.hr">1:0:19:772:C6D4:16E:A00000:0:0:0:</channel><!-- Travel XP -->
 <!-- 16.0E --><channel id="TravelXP.svn">1:0:19:772:C6D4:16E:A00000:0:0:0:</channel><!-- Travel XP -->
+<!-- 13.0E --><channel id="TravelXP4K.eu">1:0:1F:11FB:2B5C:13E:820000:0:0:0:</channel><!-- Travel XP -->
 <!-- DVB-T --><channel id="TRCModena.it">1:0:1:26A:4859:217C:EEEE0000:0:0:0:</channel><!-- TRC Modena -->
 <!-- DVB-T --><channel id="TRCModena.it">1:0:1:3F3:4C2D:217C:EEEE0000:0:0:0:</channel><!-- TRC Modena -->
 <!-- Cable --><channel id="Trek.fr">1:0:19:4FB1:CC:1:FFFF0000:0:0:0:</channel><!-- Trek TV -->
@@ -10074,7 +10119,7 @@
 <!-- 0.8W --><channel id="TV4Motor.se">1:0:19:1C64:42:46:E080000:0:0:0:</channel><!-- TV4 Motor -->
 <!-- DVB-T --><channel id="TV4Motor.se">1:0:16:1E28:5:22F1:EEEE0000:0:0:0:</channel><!-- TV4 Motor/SF-kanalen -->
 <!-- DVB-T --><channel id="TV4SportLive1.se">1:0:16:D84:7:22F1:EEEE0000:0:0:0:</channel><!-- TV4 Sport Live 1/Tennis -->
-<!-- 0.8W --><channel id="TV4Stars.se">1:0:19:1B76:42:46:E080000:0:0:0:</channel><!-- C More Stars -->
+<!-- 0.8W --><channel id="TV4Stars.se">1:0:19:1CDE:E:46:E080000:0:0:0:</channel><!-- C More Stars -->
 <!-- DVB-T --><channel id="TV4Stars.se">1:0:16:1E1E:5:22F1:EEEE0000:0:0:0:</channel><!-- C More Stars -->
 <!-- 0.8W --><channel id="TV5.fi">1:0:16:1C5F:A:46:E080000:0:0:0:</channel><!-- TV5 -->
 <!-- Cable --><channel id="TV5.fi">1:0:1:A:9:0:FFFF0000:0:0:0:</channel><!-- TV5 -->
@@ -10502,6 +10547,7 @@
 <!-- Cable --><channel id="VH1Classic.svn">1:0:1:2CED:73:1F5:FFFF0000:0:0:0:</channel><!-- VH1 Classic -->
 <!-- 28.2E --><channel id="Viaplay1.uk">1:0:19:D818:838:2:11A0000:0:0:0:</channel><!-- Viaplay 1 -->
 <!-- 28.2E --><channel id="Viaplay2.uk">1:0:1:C4D1:811:2:11A0000:0:0:0:</channel><!-- Viaplay 2 -->
+<!-- 28.2E --><channel id="Viaplay2.uk">1:0:19:C5AD:842:2:11A0000:0:0:0:</channel><!-- Viaplay 2 -->
 <!-- Cable --><channel id="ViaplayXtra.nl">1:0:19:13B:3:10EF:FFFF0000:0:0:0:</channel><!-- Viaplay Xtra -->
 <!-- Cable --><channel id="ViaplayXtra.nl">1:0:19:4A68:807:600:FFFF0000:0:0:0:</channel><!-- Viaplay Xtra -->
 <!-- 28.2E --><channel id="ViaplayXtra.uk">1:0:19:CD5F:844:2:11A0000:0:0:0:</channel><!-- Viaplay Xtra -->
@@ -10937,9 +10983,11 @@
 <!-- Cable --><channel id="Vtm.be">1:0:1:457:B:1:FFFF0000:0:0:0:</channel><!-- vtm -->
 <!-- Cable --><channel id="Vtm.be">1:0:19:3ED:A:1:FFFF0000:0:0:0:</channel><!-- vtm -->
 <!-- 23.5E --><channel id="Vtm.be">1:0:19:1B76:C88:3:EB0000:0:0:0:</channel><!-- vtm -->
+<!-- 23.5E --><channel id="Vtm.be">1:0:19:1B76:C92:3:EB0000:0:0:0:</channel><!-- vtm -->
 <!-- Cable --><channel id="VTM2.be">1:0:1:458:B:1:FFFF0000:0:0:0:</channel><!-- VTM 2 -->
 <!-- Cable --><channel id="VTM2.be">1:0:19:3E9:A:1:FFFF0000:0:0:0:</channel><!-- VTM 2 -->
 <!-- 23.5E --><channel id="VTM2.be">1:0:19:1B90:C88:3:EB0000:0:0:0:</channel><!-- VTM 2 -->
+<!-- 23.5E --><channel id="VTM2.be">1:0:19:1B90:C92:3:EB0000:0:0:0:</channel><!-- VTM 2 -->
 <!-- Cable --><channel id="VTM3.be">1:0:1:459:B:1:FFFF0000:0:0:0:</channel><!-- VTM 3 -->
 <!-- Cable --><channel id="VTM3.be">1:0:19:3F2:A:1:FFFF0000:0:0:0:</channel><!-- VTM 3 -->
 <!-- 23.5E --><channel id="VTM3.be">1:0:16:5280:C96:3:EB0000:0:0:0:</channel><!-- VTM 3 -->
@@ -11081,6 +11129,7 @@
 <!-- 16.0E --><channel id="Woman.hr">1:0:16:2B:3:40:A00000:0:0:0:</channel><!-- Woman -->
 <!-- 16.0E --><channel id="Woman.hr">1:0:16:73D:C5A8:16E:A00000:0:0:0:</channel><!-- Woman -->
 <!-- 13.0E --><channel id="WordNetwork.uk">1:0:1:43DD:2CEC:13E:820000:0:0:0:</channel><!-- The Word Network -->
+<!-- 28.2E --><channel id="WordNetwork.uk">1:0:1:1db8:82d:2:11a0000:0:0:0:</channel><!-- The Word Network -->
 <!-- 28.2E --><channel id="WordNetwork.uk">1:0:1:5852:82E:2:11A0000:0:0:0:</channel><!-- The Word Network -->
 <!-- Cable --><channel id="WOS.nl">1:0:1:3016:CB:600:FFFF0000:0:0:0:</channel><!-- WOS TV -->
 <!-- Cable --><channel id="WOS.nl">1:0:19:1972:C7A:600:FFFF0000:0:0:0:</channel><!-- WOS TV -->
@@ -11274,4 +11323,4 @@
 <!-- 39.0E --><channel id="">1:0:19:458:B11:39E:1860000:0:0:0:</channel><!--  -->
 <!-- 39.0E --><channel id="">1:0:1F:458:B11:39E:1860000:0:0:0:</channel><!--  -->
 
-</channels>edi
+</channels>
