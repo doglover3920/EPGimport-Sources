@@ -808,19 +808,15 @@
 <!-- 27.5W --><channel id="BBC1London.uk">1:0:1:1044:1000:1:CFDACE7:0:0:0:</channel><!-- BBC 1 London -->
 <!-- Cable --><channel id="BBC1Midlands.uk">1:0:1:10F:40:1F:FFFF0000:0:0:0:</channel><!-- BBC 1 CI -->
 <!-- 28.2E --><channel id="BBC1Midlands.uk">1:0:19:22ED:80D:2:11A0000:0:0:0:</channel><!-- BBC 1 West Midlands -->
-<!-- 28.2E --><channel id="BBC1NorthEast.uk">1:0:1:1947:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 NE & C -->
 <!-- 28.2E --><channel id="BBC1NorthEast.uk">1:0:19:18A7:7FD:2:11A0000:0:0:0:</channel><!-- BBC One North East and Cumbria HD -->
 <!-- 28.2E --><channel id="BBC1NorthernIreland.uk">1:0:19:1B1F:802:2:11A0000:0:0:0:</channel><!-- BBC 1 NI HD -->
 <!-- 28.2E --><channel id="BBC1NorthernIreland.uk">1:0:19:1B33:802:2:11A0000:0:0:0:</channel><!-- BBC 1 NI HD -->
 <!-- 27.5W --><channel id="BBC1NorthernIreland.uk">1:0:1:107D:1000:1:CFDACE7:0:0:0:</channel><!-- BBC 1 Northern Irelan -->
-<!-- 28.2E --><channel id="BBC1NorthWest.uk">1:0:1:1929:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 N West -->
 <!-- 28.2E --><channel id="BBC1NorthWest.uk">1:0:19:18BB:7FD:2:11A0000:0:0:0:</channel><!-- BBC One North West HD -->
-<!-- 28.2E --><channel id="BBC1Scotland.uk">1:0:1:1915:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 Scotland -->
 <!-- 28.2E --><channel id="BBC1Scotland.uk">1:0:19:22C5:80D:2:11A0000:0:0:0:</channel><!-- BBC 1 Scot HD -->
 <!-- 27.5W --><channel id="BBC1Scotland.uk">1:0:1:107C:1000:1:CFDACE7:0:0:0:</channel><!-- BBC 1 Scotland -->
 <!-- 28.2E --><channel id="BBC1South.uk">1:0:19:04B4:7E8:2:11A0000:0:0:0:</channel><!-- BBC One South HD -->
 <!-- 28.2E --><channel id="BBC1South.uk">1:0:19:4B4:7E8:2:11A0000:0:0:0:</channel><!-- BBC One South HD -->
-<!-- 28.2E --><channel id="BBC1SouthEast.uk">1:0:1:193D:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 S East -->
 <!-- 28.2E --><channel id="BBC1SouthEast.uk">1:0:19:1B13:802:2:11A0000:0:0:0:</channel><!-- BBC 1 S East -->
 <!-- 28.2E --><channel id="BBC1SouthWest.uk">1:0:1:18ED:7FD:2:11A0000:0:0:0:</channel><!-- BBC 1 S West -->
 <!-- 28.2E --><channel id="BBC1SouthWest.uk">1:0:19:2865:7FE:2:11A0000:0:0:0:</channel><!-- BBC One South West HD -->
@@ -828,7 +824,6 @@
 <!-- 27.5W --><channel id="BBC1Wales.uk">1:0:1:107E:1000:1:CFDACE7:0:0:0:</channel><!-- BBC 1 Wales -->
 <!-- 28.2E --><channel id="BBC1West.uk">1:0:1:18C5:7FD:2:11A0000:0:0:0:</channel><!-- BBC 1 West -->
 <!-- 28.2E --><channel id="BBC1West.uk">1:0:19:285B:7FE:2:11A0000:0:0:0:</channel><!-- BBC One West HD -->
-<!-- 28.2E --><channel id="BBC1Yorkshire.uk">1:0:1:1933:7FF:2:11A0000:0:0:0:</channel><!-- BBC 1 Yorks -->
 <!-- 28.2E --><channel id="BBC1Yorkshire.uk">1:0:19:18E3:7FD:2:11A0000:0:0:0:</channel><!-- BBC One Yorkshire HD -->
 <!-- 28.2E --><channel id="BBC1YorksLincs.uk">1:0:19:1AFF:802:2:11A0000:0:0:0:</channel><!-- BBC 1 Yrks&Lin -->
 <!-- Cable --><channel id="BBC2.uk">1:0:19:38A:9:1:FFFF0000:0:0:0:</channel><!-- BBC Two -->
@@ -867,8 +862,6 @@
 <!-- 28.2E --><channel id="BBC4.uk">1:0:19:287D:800:2:11A0000:0:0:0:</channel><!-- BBC Four -->
 <!-- 28.2E --><channel id="BBC4.uk">1:0:19:289A:800:2:11A0000:0:0:0:</channel><!-- BBC Four -->
 <!-- Cable --><channel id="BBCAlba.uk">1:0:1:10B:3C:1D:FFFF0000:0:0:0:</channel><!-- BBC ALBA -->
-<!-- 28.2E --><channel id="BBCAlba.uk">1:0:1:1917:7FF:2:11A0000:0:0:0:</channel><!-- BBC ALBA -->
-<!-- 28.2E --><channel id="BBCAlba.uk">1:0:1:1918:7FF:2:11A0000:0:0:0:</channel><!-- BBC ALBA -->
 <!-- 28.2E --><channel id="BBCAlba.uk">1:0:19:22DE:80D:2:11A0000:0:0:0:</channel><!-- BBC ALBA -->
 <!-- 28.2E --><channel id="BBCAlba.uk">1:0:19:22DF:80D:2:11A0000:0:0:0:</channel><!-- BBC ALBA -->
 <!-- IPTV --><channel id="BBCAmerica(East).us">4097:0:1:43:1:1:0:0:0:0:HTTP%3A//</channel><!-- BBC America (East) -->
@@ -926,7 +919,6 @@
 <!-- Cable --><channel id="BBCFirst.nl">1:0:19:4B80:815:600:FFFF0000:0:0:0:</channel><!-- BBC First -->
 <!-- Cable --><channel id="BBCNews.nws">1:0:1:29E:143:3:FFFF0000:0:0:0:</channel><!-- BBC News -->
 <!-- Cable --><channel id="BBCNews.nws">1:0:1:10C:3C:1D:FFFF0000:0:0:0:</channel><!-- BBC News -->
-<!-- 28.2E --><channel id="BBCNews.nws">1:0:1:1911:7FF:2:11A0000:0:0:0:</channel><!-- BBC News -->
 <!-- 28.2E --><channel id="BBCNews.nws">1:0:19:22D9:80D:2:11A0000:0:0:0:</channel><!-- BBC News -->
 <!-- 27.5W --><channel id="BBCNews.nws">1:0:1:1100:1000:1:CFDACE7:0:0:0:</channel><!-- BBC News -->
 <!-- Cable --><channel id="BBCOneHD.uk">1:0:1:389:9:1:FFFF0000:0:0:0:</channel><!-- BBC One -->
@@ -958,7 +950,6 @@
 <!-- 27.5W --><channel id="BBCRedButton.uk">1:0:1:1140:1000:1:CFDACE7:0:0:0:</channel><!-- BBC RedButton -->
 <!-- 27.5W --><channel id="BBCRedButton.uk">1:0:1:1C00:1000:1:CFDACE7:0:0:0:</channel><!-- BBC RedButton -->
 <!-- 27.5W --><channel id="BBCRedButton.uk">1:0:1:1C40:1000:1:CFDACE7:0:0:0:</channel><!-- BBC RedButton -->
-<!-- 28.2E --><channel id="BBCScotland.uk">1:0:1:1914:7FF:2:11A0000:0:0:0:</channel><!-- BBC Scotland -->
 <!-- 28.2E --><channel id="BBCScotland.uk">1:0:19:285F:7FE:2:11A0000:0:0:0:</channel><!-- BBC Scotland -->
 <!-- Cable --><channel id="BBCThree.uk">1:0:1:3ED:A:1:FFFF0000:0:0:0:</channel><!-- BBC Three -->
 <!-- 13.0E --><channel id="BBCThree.uk">1:0:19:3765:6A4:13E:820000:0:0:0:</channel><!-- BBC Three -->
