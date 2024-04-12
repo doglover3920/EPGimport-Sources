@@ -3898,13 +3898,6 @@
 <!-- Cable --><channel id="SBS6.nl">1:0:19:196:13:6FF:FFFF0000:0:0:0:</channel><!-- SBS6 -->
 <!-- Cable --><channel id="SBS6.nl">1:0:19:4A53:806:600:FFFF0000:0:0:0:</channel><!-- SBS6 -->
 <!-- Cable --><channel id="SBS6.nl">1:0:19:4ABA:80B:600:FFFF0000:0:0:0:</channel><!-- SBS6 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:1:1C:139E:3E8:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:1:2EEB:C:10EF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:19:BB9:1E:10EF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:1:D:25:6FF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:19:19D:25:6FF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:16:FA8:834:600:FFFF0000:0:0:0:</channel><!-- SBS9 -->
-<!-- Cable --><channel id="SBS9.nl">1:0:19:4CD7:81A:600:FFFF0000:0:0:0:</channel><!-- SBS9 -->
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:147E:139E:3E8:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:147E:139F:3E8:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
 <!-- Cable --><channel id="SchlagerTV.nl">1:0:1:20C:5:15E0:FFFF0000:0:0:0:</channel><!-- Schlager TV -->
@@ -4016,6 +4009,7 @@
 <!-- Cable --><channel id="skybundesliga9.de">1:0:19:151:4:85:FFFF0000:0:0:0:</channel><!-- Sky Sport Bundesliga 9 HD -->
 <!-- Cable --><channel id="SkyCinemaClassics.de">1:0:1:204:3:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Classics -->
 <!-- Cable --><channel id="SkyCinemaFamily.de">1:0:1:197:4:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Family  -->
+<!-- Cable --><channel id="SkyCinemaHighlights.de">1:0:19:6F:D:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Best Of 2019 HD -->
 <!-- Cable --><channel id="SkyCinemaHits.de">1:0:1:29:3:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Hits -->
 <!-- Cable --><channel id="SkyCinemaHits.de">1:0:19:6B:C:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Hits -->
 <!-- Cable --><channel id="SkyCinemaHits.de">1:0:19:6B:D:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Hits -->
@@ -4024,8 +4018,6 @@
 <!-- Cable --><channel id="SkyCinemaPremieren+1.de">1:0:1:B:2:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema +1 -->
 <!-- Cable --><channel id="SkyCinemaPremieren+24.de">1:0:1:2B:2:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema +24 -->
 <!-- Cable --><channel id="SkyCinemaPremieren+24.de">1:0:1:2B:3:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema +24 -->
-<!-- Cable --><channel id="SkyCinemaSpecial.de">1:0:19:6F:D:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Best Of 2019 HD -->
-<!-- Cable --><channel id="SkyCinemaThriller.de">1:0:19:B:C:85:FFFF0000:0:0:0:</channel><!-- Sky Cinema Thriller -->
 <!-- Cable --><channel id="SkyComedy.de">1:0:1:8:1:85:FFFF0000:0:0:0:</channel><!-- Sky Comedy -->
 <!-- Cable --><channel id="SkyComedy.de">1:0:1:8:2:85:FFFF0000:0:0:0:</channel><!-- Sky Comedy -->
 <!-- Cable --><channel id="SkyComedy.de">1:0:19:E:3:85:FFFF0000:0:0:0:</channel><!-- Sky Comedy -->
@@ -4973,6 +4965,13 @@
 <!-- Cable --><channel id="VH1.svn">1:0:1:2845:67:1F5:FFFF0000:0:0:0:</channel><!-- VH37 -->
 <!-- Cable --><channel id="VH1Classic.svn">1:0:1:54:A:1:FFFF0000:0:0:0:</channel><!-- VH1 Classic -->
 <!-- Cable --><channel id="VH1Classic.svn">1:0:1:2CED:73:1F5:FFFF0000:0:0:0:</channel><!-- VH1 Classic -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:1:1C:139E:3E8:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:1:2EEB:C:10EF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:19:BB9:1E:10EF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:1:D:25:6FF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:19:19D:25:6FF:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:16:FA8:834:600:FFFF0000:0:0:0:</channel><!-- SBS9 -->
+<!-- Cable --><channel id="ViaplayTV.nl">1:0:19:4CD7:81A:600:FFFF0000:0:0:0:</channel><!-- SBS9 -->
 <!-- Cable --><channel id="ViaplayXtra.nl">1:0:19:13B:3:10EF:FFFF0000:0:0:0:</channel><!-- Viaplay Xtra -->
 <!-- Cable --><channel id="ViaplayXtra.nl">1:0:19:4A68:807:600:FFFF0000:0:0:0:</channel><!-- Viaplay Xtra -->
 <!-- Cable --><channel id="Viasat4.no">1:0:19:408:15:46:FFFF0000:0:0:0:</channel><!-- Viasat 4 -->
