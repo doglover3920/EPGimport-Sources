@@ -1721,9 +1721,9 @@
 <!-- Cable --><channel id="GameOne.fr">1:0:1:DB2:152:0:8408:0:0:0:</channel><!-- Game One -->
 <!-- Cable --><channel id="GeoTV.de">1:0:19:C39F:271C:F001:FFFF0000:0:0:0:</channel><!-- GEO TV HD -->
 <!-- DVB-T --><channel id="Giallo.it">1:0:1:10:204:1D:EEEE0000:0:0:0:</channel><!-- Giallo -->
-<!-- Cable --><channel id="Ginx.svn">1:0:1:3010:7B:1F5:FFFF0000:0:0:0:</channel><!-- GINX TV -->
+<!-- Cable --><channel id="Ginx.eu">1:0:1:3010:7B:1F5:FFFF0000:0:0:0:</channel><!-- GINX TV -->
 <!-- Cable --><channel id="GINXeSportsTV.uk">1:0:1:D03B:2725:F001:FFFF0000:0:0:0:</channel><!-- GINXeSportsTV -->
-<!-- Cable --><channel id="GinxTV.se">1:0:1:3FD:39:A027:FFFF0000:0:0:0:</channel><!-- GINX -->
+<!-- Cable --><channel id="Ginx.eu">1:0:1:3FD:39:A027:FFFF0000:0:0:0:</channel><!-- GINX -->
 <!-- Cable --><channel id="GloboNow.pt">1:0:1:674:49:36:FFFF0000:0:0:0:</channel><!-- Globo Now HD -->
 <!-- DVB-T --><channel id="GM24.it">1:0:16:18:204:1D:EEEE0000:0:0:0:</channel><!-- GM24 -->
 <!-- Cable --><channel id="Godare.se">1:0:19:409:20:A027:FFFF0000:0:0:0:</channel><!-- Godare -->
@@ -2158,7 +2158,7 @@
 <!-- Cable --><channel id="LCP.fr">1:0:1:1FBA:434:1:FFFF0000:0:0:0:</channel><!-- LCP -->
 <!-- DVB-T --><channel id="LCP.fr">1:0:19:609:6:20FA:EEEE0000:0:0:0:</channel><!-- LCP -->
 <!-- IPTV --><channel id="LemanBleu.ch">4097:0:1:5:1:41:0:0:0:0:HTTP%3A//</channel><!-- Leman Bleu -->
-<!-- IPTV --><channel id="LFMTV.ch">4097:0:1:19:1:41:0:0:0:0:HTTP%3A//</channel><!-- LFMTV -->
+<!-- IPTV --><channel id="carac3.ch">4097:0:1:19:1:41:0:0:0:0:HTTP%3A//</channel><!-- LFMTV -->
 <!-- Cable --><channel id="LiteTV.nl">1:0:1:142F:139D:3E8:FFFF0000:0:0:0:</channel><!-- Stingray LiteTV -->
 <!-- Cable --><channel id="LiteTV.nl">1:0:1:32CA:18:10EF:FFFF0000:0:0:0:</channel><!-- Stingray LiteTV -->
 <!-- Cable --><channel id="LiteTV.nl">1:0:1:AA:1C:6FF:FFFF0000:0:0:0:</channel><!-- Stingray Lite TV -->
@@ -3001,7 +3001,7 @@
 <!-- Cable --><channel id="one.de">1:0:19:2888:2727:F001:FFFF0000:0:0:0:</channel><!-- One -->
 <!-- IPTV --><channel id="One.mt">4097:0:1:4:0:356:0:0:0:0:HTTP%3A//</channel><!-- One TV -->
 <!-- Cable --><channel id="OneToroTV.pt">1:0:1:1A9A:44:36:FFFF0000:0:0:0:</channel><!-- OneToro TV -->
-<!-- IPTV --><channel id="OneTV.ch">4097:0:1:18:1:41:0:0:0:0:HTTP%3A//</channel><!-- One TV -->
+<!-- IPTV --><channel id="carac2.ch">4097:0:1:18:1:41:0:0:0:0:HTTP%3A//</channel><!-- One TV -->
 <!-- Cable --><channel id="ONS.nl">1:0:1:13E7:1396:3E8:FFFF0000:0:0:0:</channel><!-- ONS -->
 <!-- Cable --><channel id="ONS.nl">1:0:1:2B03:B:10EF:FFFF0000:0:0:0:</channel><!-- ONS -->
 <!-- Cable --><channel id="ONS.nl">1:0:1:A4:1A:6FF:FFFF0000:0:0:0:</channel><!-- ONS -->
@@ -3315,6 +3315,8 @@
 <!-- Cable --><channel id="Rai1.it">1:0:1:AF:F:1:FFFF0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- Cable --><channel id="Rai1.it">1:0:1:644:640:FD2A:FFFF0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:218C:4:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
+<!-- DVB-T --><channel id="Rai1.it">1:0:19:579:AD:217C:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
+<!-- DVB-T --><channel id="Rai2.it">1:0:19:57A:AD:217C:EEEE0000:0:0:0:</channel><!-- Rai Due -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:1:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:4800:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
 <!-- DVB-T --><channel id="Rai1.it">1:0:1:D49:5000:13E:EEEE0000:0:0:0:</channel><!-- Rai Uno -->
@@ -3410,6 +3412,7 @@
 <!-- DVB-T --><channel id="RaiGulp.it">1:0:16:3EC:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Gulp -->
 <!-- DVB-T --><channel id="RaiMovie.it">1:0:1:2189:4:13E:EEEE0000:0:0:0:</channel><!-- Rai Movie -->
 <!-- DVB-T --><channel id="RaiMovie.it">1:0:16:3EA:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Movie -->
+<!-- DVB-T --><channel id="RaiMovie.it">1:0:19:403:1:217C:EEEE0000:0:0:0:</channel><!-- Rai Movie -->
 <!-- DVB-T --><channel id="RaiMovie.it">1:0:16:3EA:4:13E:EEEE0000:0:0:0:</channel><!-- Rai Movie -->
 <!-- Cable --><channel id="RaiNews.it">1:0:1:32A:8:1:FFFF0000:0:0:0:</channel><!-- Rai News -->
 <!-- Cable --><channel id="RaiNews.it">1:0:1:31C:133:3:FFFF0000:0:0:0:</channel><!-- Rai News -->
@@ -3513,7 +3516,7 @@
 <!-- Cable --><channel id="Romance.de">1:0:1:206:3:85:FFFF0000:0:0:0:</channel><!-- Romance TV -->
 <!-- Cable --><channel id="Romance.de">1:0:1:372B:8D:270F:FFFF0000:0:0:0:</channel><!-- Romance TV -->
 <!-- Cable --><channel id="Romance.de">1:0:19:797F:1AF:270F:FFFF0000:0:0:0:</channel><!-- Romance TV -->
-<!-- IPTV --><channel id="RougeTV.ch">4097:0:1:7:1:41:0:0:0:0:HTTP%3A//</channel><!-- Rouge TV -->
+<!-- IPTV --><channel id="carac1.ch">4097:0:1:7:1:41:0:0:0:0:HTTP%3A//</channel><!-- Rouge TV -->
 <!-- Cable --><channel id="RSILa1.ch">1:0:1:6A:1:1:FFFF0000:0:0:0:</channel><!-- RSI LA 1 -->
 <!-- Cable --><channel id="RSILa1.ch">1:0:1:AF3:1C:1:FFFF0000:0:0:0:</channel><!-- RSI LA 1 -->
 <!-- Cable --><channel id="RSILa1.ch">1:0:1:2331:148:3:FFFF0000:0:0:0:</channel><!-- RSI LA 1 -->
@@ -4295,6 +4298,7 @@
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:1680:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 HD Dalarna -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:18A6:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:55A:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 -->
+<!-- DVB-T --><channel id="SVT1.se">1:0:19:16B2:3FD:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 Västmanland -->
 <!-- DVB-T --><channel id="SVT1.se">1:0:19:578:6:22F1:EEEE0000:0:0:0:</channel><!-- SVT1 Västmanland -->
 <!-- Cable --><channel id="SVT1.se">1:0:1:408:2D:A027:FFFF0000:0:0:0:</channel><!-- SVT1 talande textremsa -->
 <!-- Cable --><channel id="SVT1.se">1:0:1:449:2D:A027:FFFF0000:0:0:0:</channel><!-- SVT1 -->
@@ -4921,7 +4925,7 @@
 <!-- Cable --><channel id="TVRInternational.ro">1:0:1:3A1:40:36:FFFF0000:0:0:0:</channel><!-- TVR International -->
 <!-- IPTV --><channel id="TVRRennes35.fr">4097:0:1:13:1:33:0:0:0:0:HTTP%3A//</channel><!-- TV Rennes 35 -->
 <!-- Cable --><channel id="TVSudostschweiz.ch">1:0:19:249A:16:1:FFFF0000:0:0:0:</channel><!-- TV Südostschweiz -->
-<!-- DVB-T --><channel id="TVSuisseplus.ch">1:0:1:401:8:1:EEEE0000:0:0:0:</channel><!-- TV Suisse+ -->
+<!-- DVB-T --><channel id="carac4.ch">1:0:1:401:8:1:EEEE0000:0:0:0:</channel><!-- TV Suisse+ -->
 <!-- IPTV --><channel id="TVT.bg">1:0:1:65:0:0:0:0:0:0:HTTP%3A//</channel><!-- TVT -->
 <!-- IPTV --><channel id="TVTours.fr">4097:0:1:39:1:33:0:0:0:0:HTTP%3A//</channel><!-- TV Tours -->
 <!-- Cable --><channel id="TVVeseljak.svn">1:0:1:10:3:1:FFFF0000:0:0:0:</channel><!-- TV Veseljak -->
