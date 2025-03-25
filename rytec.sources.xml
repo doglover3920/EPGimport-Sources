@@ -402,26 +402,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecPT.xz</url>
 		</source>
 	</sourcecat>
-<!--
-	<sourcecat sourcecatname="Rytec Magyarorszag XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Magyarorszag - Basic (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecHU_Basic.xz</url>
-			
-			<url>http://rytecepg.wanwizard.eu/rytecHU_Basic.xz</url>
-			
-			<url>http://epg.vuplus-community.net/rytecHU_Basic.xz</url>
-		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Magyarorszag - Sport/Film (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecHU_SportMovies.xz</url>
-			
-			<url>http://rytecepg.wanwizard.eu/rytecHU_SportMovies.xz</url>
-			
-			<url>http://epg.vuplus-community.net/rytecHU_SportMovies.xz</url>
-		</source>
-	</sourcecat>
--->
+
 	<sourcecat sourcecatname="Rytec Norge XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Norge - Basic (xz)</description>
