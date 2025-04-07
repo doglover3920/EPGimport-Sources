@@ -2,7 +2,7 @@
 <sources>
 
 <!--
-Version: 2025-03-25
+Version: 2025-04-07
 -->
 
 <!--
@@ -20,7 +20,7 @@ The description must be unique for each source, and is displayed on the UI.
 -->
 
 	<mappings>
-		<channel name="rytec.channels.xml.xz">
+		<channel name="rytec.channels-cable.xml.xz">
 			<url>http://www.xmltvepg.nl/rytec.channels-cable.xml.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytec.channels-cable.xml.xz</url>
 			<url>http://epg.vuplus-community.net/rytec.channels-cable.xml.xz</url>
@@ -314,6 +314,22 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.wanwizard.eu/azman_radio.xml.xz</url>
 			<url>http://epg.vuplus-community.net/azman_radio.xml.xz</url>
 		</source>
+		
+		<source type="gen_xmltv" channels="azman.channels.xml.xz">
+			<description>Polsat Box VOD</description>
+			<url>http://www.topolowa4.pl/azman_vod_pb.xml.xz</url>
+			<url>http://www.xmltvepg.nl/azman_vod_pb.xml.xz</url>
+			<url>http://rytecepg.wanwizard.eu/azman_vod_pb.xml.xz</url>
+			<url>http://epg.vuplus-community.net/azman_vod_pb.xml.xz</url>
+		</source>
+		<source type="gen_xmltv" channels="azman.channels.xml.xz">
+			<description>iTVN (Timezone)</description>
+			<url>http://www.topolowa4.pl/azman_itvn.xml.xz</url>
+			<url>http://www.xmltvepg.nl/azman_itvn.xml.xz</url>
+			<url>http://rytecepg.wanwizard.eu/azman_itvn.xml.xz</url>
+			<url>http://epg.vuplus-community.net/azman_itvn.xml.xz</url>			
+		</source>
+		
 	</sourcecat>
 
 	<sourcecat sourcecatname="Rytec Portugal XMLTV">
