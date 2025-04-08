@@ -15,7 +15,7 @@ the same, whatever is convenient.
 The description must be unique for each source, and is displayed on the UI.
 -->
 
-	<sourcecat sourcecatname="Rytec TURKEY XMLTV">
+	<sourcecat sourcecatname="TURKEY XMLTV">
 		<source type="gen_xmltv" channels="https://www.open-epg.com/files/turkey1.xml">
 			<description>Open-EPG - Turkey1 (xml)</description>
 			<url>https://www.open-epg.com/files/turkey1.xml.gz</url>
