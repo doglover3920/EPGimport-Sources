@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
 
-<!--
-Version: 2025-04-07
--->
+<!-- Version: 2025-09-04 mod azman -->
 
 <!--
 You can list as many <source> entries in a file as you wish.
@@ -23,9 +21,6 @@ The description must be unique for each source, and is displayed on the UI.
 	<mappings>
 		<channel name="azman.channels.xml.xz">
 			<url>http://www.topolowa4.pl/azman.channels.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman.channels.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman.channels.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman.channels.xml.xz</url>
 		</channel>
 	</mappings>
 
@@ -33,51 +28,41 @@ The description must be unique for each source, and is displayed on the UI.
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - Podstawowy</description>
 			<url>http://www.topolowa4.pl/azman_basic.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_basic.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_basic.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_basic.xml.xz</url>
 		</source>
 
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - Dodatkowy</description>
 			<url>http://www.topolowa4.pl/azman_misc.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_misc.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_misc.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_misc.xml.xz</url>
 		</source>
 
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - IPTV</description>
 			<url>http://www.topolowa4.pl/azman_iptv.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_iptv.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_iptv.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_iptv.xml.xz</url>
 		</source>
 
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polska - Radio</description>
 			<url>http://www.topolowa4.pl/azman_radio.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_radio.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_radio.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_radio.xml.xz</url>
 		</source>
-		
+
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>Polsat Box VOD</description>
 			<url>http://www.topolowa4.pl/azman_vod_pb.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_vod_pb.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_vod_pb.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_vod_pb.xml.xz</url>
 		</source>
+
 		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>iTVN (Timezone)</description>
 			<url>http://www.topolowa4.pl/azman_itvn.xml.xz</url>
-			<url>http://www.xmltvepg.nl/azman_itvn.xml.xz</url>
-			<url>http://rytecepg.wanwizard.eu/azman_itvn.xml.xz</url>
-			<url>http://epg.vuplus-community.net/azman_itvn.xml.xz</url>			
 		</source>
-		
+
+		<source type="gen_xmltv" channels="azman.channels.xml.xz">
+			<description>Private Azman FAST TV</description>
+			<url>http://www.topolowa4.pl/azman_fast_tv.xml.xz</url>
+		</source>
+
+		<source type="gen_xmltv" channels="azman.channels.xml.xz">
+			<description>Testy EPG</description>
+			<url>http://www.topolowa4.pl/azman_testy.xml.xz</url>
+		</source>
 	</sourcecat>
-
-
 </sources>
