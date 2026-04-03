@@ -41,12 +41,14 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.wanwizard.eu/rytecERO.xz</url>
 			<url>http://epg.vuplus-community.net/rytecERO.xz</url>
 		</source>
+<!--		
 		<source type="gen_xmltv" channels="rytec.channels-cable.xml.xz">
 			<description>AFN (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecAFN.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecAFN.xz</url>
 			<url>http://epg.vuplus-community.net/rytecAFN.xz</url>
 		</source>
+-->		
 		<source type="gen_xmltv" channels="rytec.channels-cable.xml.xz">
 			<description>Rytec IPTV XMLTV (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIPTV.xz</url>
